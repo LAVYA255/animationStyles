@@ -1,0 +1,629 @@
+{
+ "0": {
+  "wav": "vo/wav/27dd1cac269a_v2.wav",
+  "dur": 3.719708,
+  "words": [
+   {
+    "w": " This",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " ghost",
+    "s": 0.34,
+    "e": 0.68
+   },
+   {
+    "w": " was",
+    "s": 0.68,
+    "e": 0.9
+   },
+   {
+    "w": " so",
+    "s": 0.9,
+    "e": 1.28
+   },
+   {
+    "w": " bad",
+    "s": 1.28,
+    "e": 1.54
+   },
+   {
+    "w": " at",
+    "s": 1.54,
+    "e": 1.64
+   },
+   {
+    "w": " haunting,",
+    "s": 1.64,
+    "e": 1.98
+   },
+   {
+    "w": " he",
+    "s": 2.66,
+    "e": 2.88
+   },
+   {
+    "w": " got",
+    "s": 2.88,
+    "e": 3.04
+   },
+   {
+    "w": " fired!",
+    "s": 3.04,
+    "e": 3.42
+   }
+  ],
+  "heard": "This ghost was so bad at haunting, he got fired!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[spooky, playful] This ghost was so bad at haunting... he got fired.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/e0969a64f604_v2.wav",
+  "dur": 1.099104,
+  "words": [
+   {
+    "w": " Boo.",
+    "s": 0.0,
+    "e": 0.3
+   }
+  ],
+  "heard": "Boo.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[meek, trying hard] Boo...?",
+  "voice": "w_boris"
+ },
+ "2": {
+  "wav": "vo/wav/c4d6da5022e1_v2.wav",
+  "dur": 2.611625,
+  "words": [
+   {
+    "w": " Is",
+    "s": 0.0,
+    "e": 0.7
+   },
+   {
+    "w": " that",
+    "s": 0.7,
+    "e": 0.98
+   },
+   {
+    "w": " a",
+    "s": 0.98,
+    "e": 1.68
+   },
+   {
+    "w": " bed",
+    "s": 1.68,
+    "e": 1.94
+   },
+   {
+    "w": " sheet?",
+    "s": 1.94,
+    "e": 2.3
+   }
+  ],
+  "heard": "Is that a bed sheet?",
+  "score": 0.75,
+  "attempt": 2,
+  "tts": "[unimpressed, flat] Is that... a bedsheet?",
+  "voice": "w_zoe"
+ },
+ "3": {
+  "wav": "vo/wav/4381fffaff33_v2.wav",
+  "dur": 5.240063,
+  "words": [
+   {
+    "w": " Nobody",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " moved",
+    "s": 0.28,
+    "e": 0.6
+   },
+   {
+    "w": " out.",
+    "s": 0.6,
+    "e": 0.84
+   },
+   {
+    "w": " The",
+    "s": 1.4,
+    "e": 1.5
+   },
+   {
+    "w": " mansion",
+    "s": 1.5,
+    "e": 1.84
+   },
+   {
+    "w": " got",
+    "s": 1.84,
+    "e": 2.1
+   },
+   {
+    "w": " five",
+    "s": 2.1,
+    "e": 2.48
+   },
+   {
+    "w": " stars",
+    "s": 2.48,
+    "e": 2.98
+   },
+   {
+    "w": " for",
+    "s": 2.98,
+    "e": 4.0
+   },
+   {
+    "w": " cozy",
+    "s": 4.0,
+    "e": 4.4
+   },
+   {
+    "w": " vibes.",
+    "s": 4.4,
+    "e": 4.84
+   }
+  ],
+  "heard": "Nobody moved out. The mansion got five stars for cozy vibes.",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[dry] Nobody moved out. The mansion got five stars... for 'cozy vibes.'",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/ce7abbe70cab_v2.wav",
+  "dur": 1.561771,
+  "words": [
+   {
+    "w": " You're",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " fired!",
+    "s": 0.36,
+    "e": 0.92
+   }
+  ],
+  "heard": "You're fired!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[stern, villainous] You're fired.",
+  "voice": "w_raven"
+ },
+ "5": {
+  "wav": "vo/wav/acea6a56981d_v2.wav",
+  "dur": 4.237813,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " Boris",
+    "s": 0.18,
+    "e": 0.4
+   },
+   {
+    "w": " asks",
+    "s": 0.4,
+    "e": 0.7
+   },
+   {
+    "w": " one",
+    "s": 0.7,
+    "e": 0.92
+   },
+   {
+    "w": " question.",
+    "s": 0.92,
+    "e": 1.28
+   },
+   {
+    "w": " Who",
+    "s": 1.88,
+    "e": 2.0
+   },
+   {
+    "w": " actually",
+    "s": 2.0,
+    "e": 2.4
+   },
+   {
+    "w": " wants",
+    "s": 2.4,
+    "e": 3.04
+   },
+   {
+    "w": " to",
+    "s": 3.04,
+    "e": 3.58
+   },
+   {
+    "w": " be",
+    "s": 3.58,
+    "e": 3.7
+   },
+   {
+    "w": " scared?",
+    "s": 3.7,
+    "e": 3.96
+   }
+  ],
+  "heard": "So Boris asks one question. Who actually wants to be scared?",
+  "score": 0.9090909090909091,
+  "attempt": 0,
+  "tts": "[building] So Boris asked one question: who actually WANTS to be scared?",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/01e1d347908b_v2.wav",
+  "dur": 3.686396,
+  "words": [
+   {
+    "w": " teenagers",
+    "s": 0.0,
+    "e": 0.58
+   },
+   {
+    "w": " on",
+    "s": 0.58,
+    "e": 1.46
+   },
+   {
+    "w": " a",
+    "s": 1.46,
+    "e": 1.58
+   },
+   {
+    "w": " Friday",
+    "s": 1.58,
+    "e": 1.84
+   },
+   {
+    "w": " night.",
+    "s": 1.84,
+    "e": 2.18
+   },
+   {
+    "w": " Who",
+    "s": 2.66,
+    "e": 2.94
+   },
+   {
+    "w": " would",
+    "s": 2.94,
+    "e": 3.14
+   },
+   {
+    "w": " pay",
+    "s": 3.14,
+    "e": 3.34
+   },
+   {
+    "w": " for",
+    "s": 3.34,
+    "e": 3.58
+   },
+   {
+    "w": " it?",
+    "s": 3.58,
+    "e": 3.66
+   }
+  ],
+  "heard": "teenagers on a Friday night. Who would pay for it?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Teenagers. On a Friday night. Who would pay for it.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/805f65a6d81d_v2.wav",
+  "dur": 3.039563,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " he",
+    "s": 0.18,
+    "e": 0.32
+   },
+   {
+    "w": " turned",
+    "s": 0.32,
+    "e": 0.58
+   },
+   {
+    "w": " the",
+    "s": 0.58,
+    "e": 0.82
+   },
+   {
+    "w": " mansion",
+    "s": 0.82,
+    "e": 1.2
+   },
+   {
+    "w": " into",
+    "s": 1.2,
+    "e": 1.58
+   },
+   {
+    "w": " a",
+    "s": 1.58,
+    "e": 1.8
+   },
+   {
+    "w": " haunted",
+    "s": 1.8,
+    "e": 2.26
+   },
+   {
+    "w": " escape",
+    "s": 2.26,
+    "e": 2.7
+   },
+   {
+    "w": " room.",
+    "s": 2.7,
+    "e": 3.0
+   }
+  ],
+  "heard": "So he turned the mansion into a haunted escape room.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[triumphant] So he turned the mansion into a haunted escape room.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/8a2cd5d49a55_v2.wav",
+  "dur": 4.64,
+  "words": [
+   {
+    "w": " Same",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " ghost,",
+    "s": 0.2,
+    "e": 0.56
+   },
+   {
+    "w": " same",
+    "s": 1.1,
+    "e": 1.24
+   },
+   {
+    "w": " boo,",
+    "s": 1.24,
+    "e": 1.54
+   },
+   {
+    "w": " new",
+    "s": 1.92,
+    "e": 2.14
+   },
+   {
+    "w": " customer.",
+    "s": 2.14,
+    "e": 2.56
+   },
+   {
+    "w": " Sold",
+    "s": 2.98,
+    "e": 3.36
+   },
+   {
+    "w": " out",
+    "s": 3.36,
+    "e": 3.64
+   },
+   {
+    "w": " every",
+    "s": 3.64,
+    "e": 4.06
+   },
+   {
+    "w": " weekend.",
+    "s": 4.06,
+    "e": 4.4
+   }
+  ],
+  "heard": "Same ghost, same boo, new customer. Sold out every weekend.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Same ghost. Same boo. New customer. Sold out every weekend.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/4c5f0adc3410_v2.wav",
+  "dur": 4.829646,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " repositioning.",
+    "s": 0.38,
+    "e": 1.08
+   },
+   {
+    "w": " If",
+    "s": 1.52,
+    "e": 1.76
+   },
+   {
+    "w": " it's",
+    "s": 1.76,
+    "e": 1.94
+   },
+   {
+    "w": " not",
+    "s": 1.94,
+    "e": 2.08
+   },
+   {
+    "w": " selling,",
+    "s": 2.08,
+    "e": 2.44
+   },
+   {
+    "w": " maybe",
+    "s": 3.02,
+    "e": 3.26
+   },
+   {
+    "w": " you're",
+    "s": 3.26,
+    "e": 3.46
+   },
+   {
+    "w": " selling",
+    "s": 3.46,
+    "e": 3.72
+   },
+   {
+    "w": " it",
+    "s": 3.72,
+    "e": 3.9
+   },
+   {
+    "w": " to",
+    "s": 3.9,
+    "e": 4.02
+   },
+   {
+    "w": " the",
+    "s": 4.02,
+    "e": 4.12
+   },
+   {
+    "w": " wrong",
+    "s": 4.12,
+    "e": 4.3
+   },
+   {
+    "w": " people.",
+    "s": 4.3,
+    "e": 4.62
+   }
+  ],
+  "heard": "That's repositioning. If it's not selling, maybe you're selling it to the wrong people.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's repositioning. If it's not selling, maybe you're selling it to the wrong people.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/7bb95ec8723b_v2.wav",
+  "dur": 4.773667,
+  "words": [
+   {
+    "w": " That",
+    "s": 0.0,
+    "e": 0.9
+   },
+   {
+    "w": " was",
+    "s": 0.9,
+    "e": 1.22
+   },
+   {
+    "w": " the",
+    "s": 1.22,
+    "e": 1.42
+   },
+   {
+    "w": " scariest",
+    "s": 1.42,
+    "e": 1.96
+   },
+   {
+    "w": " thing",
+    "s": 1.96,
+    "e": 2.34
+   },
+   {
+    "w": " ever!",
+    "s": 2.34,
+    "e": 2.98
+   },
+   {
+    "w": " Five",
+    "s": 3.74,
+    "e": 4.14
+   },
+   {
+    "w": " stars!",
+    "s": 4.14,
+    "e": 4.42
+   }
+  ],
+  "heard": "That was the scariest thing ever! Five stars!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[breathless, terrified then delighted] That was the scariest thing EVER! ...Five stars.",
+  "voice": "w_kabir"
+ },
+ "11": {
+  "wav": "vo/wav/16c38850c25f_v2.wav",
+  "dur": 2.630896,
+  "words": [
+   {
+    "w": " Comment,",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " ghost",
+    "s": 0.46,
+    "e": 0.76
+   },
+   {
+    "w": " for",
+    "s": 0.76,
+    "e": 1.14
+   },
+   {
+    "w": " the",
+    "s": 1.14,
+    "e": 1.26
+   },
+   {
+    "w": " free",
+    "s": 1.26,
+    "e": 1.5
+   },
+   {
+    "w": " positioning",
+    "s": 1.5,
+    "e": 1.96
+   },
+   {
+    "w": " worksheet.",
+    "s": 1.96,
+    "e": 2.3
+   }
+  ],
+  "heard": "Comment, ghost for the free positioning worksheet.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment GHOST for the free positioning worksheet.",
+  "voice": "mira_narrator"
+ }
+}

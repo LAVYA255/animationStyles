@@ -1,0 +1,603 @@
+{
+ "dur": 50.78,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 5.715,
+   "text": "One broken spaceship. Three astronauts. Here's how different IQs fix it.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     0.75,
+     "One"
+    ],
+    [
+     0.75,
+     1.07,
+     "broken"
+    ],
+    [
+     1.07,
+     1.61,
+     "spaceship,"
+    ],
+    [
+     2.21,
+     2.39,
+     "three"
+    ],
+    [
+     2.39,
+     2.97,
+     "astronauts."
+    ],
+    [
+     3.63,
+     4.07,
+     "Here's"
+    ],
+    [
+     4.07,
+     4.17,
+     "how"
+    ],
+    [
+     4.17,
+     4.51,
+     "different"
+    ],
+    [
+     4.51,
+     5.09,
+     "IQs"
+    ],
+    [
+     5.09,
+     5.29,
+     "fix"
+    ],
+    [
+     5.29,
+     5.51,
+     "it."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 6.065,
+   "end": 7.653,
+   "text": "Low IQ.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     6.065,
+     6.325,
+     "Low"
+    ],
+    [
+     6.325,
+     6.725,
+     "IQ."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "BO",
+   "voice": "w_bo",
+   "start": 7.853,
+   "end": 10.127,
+   "text": "Fix! Fix! FIX!",
+   "file": "line_02.wav",
+   "words": [
+    [
+     7.853,
+     8.173,
+     "Fix!"
+    ],
+    [
+     8.433,
+     8.753,
+     "Fix!"
+    ],
+    [
+     9.213,
+     9.853,
+     "Fiiiix!"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 10.577,
+   "end": 12.801,
+   "text": "The ship is now more broken.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     10.577,
+     10.697,
+     "The"
+    ],
+    [
+     10.697,
+     10.977,
+     "ship"
+    ],
+    [
+     10.977,
+     11.217,
+     "is"
+    ],
+    [
+     11.217,
+     11.477,
+     "now"
+    ],
+    [
+     11.477,
+     11.997,
+     "more"
+    ],
+    [
+     11.997,
+     12.477,
+     "broken."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 13.201,
+   "end": 14.716,
+   "text": "Medium IQ.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     13.201,
+     13.561,
+     "Medium"
+    ],
+    [
+     13.561,
+     13.941,
+     "IQ."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "GWEN",
+   "voice": "w_gwen",
+   "start": 14.966,
+   "end": 20.196,
+   "text": "Manual, page one of nine hundred. Chapter one: what is a spaceship.",
+   "file": "line_05.wav",
+   "words": [
+    [
+     14.966,
+     15.366,
+     "Manual,"
+    ],
+    [
+     15.706,
+     15.886,
+     "page"
+    ],
+    [
+     15.886,
+     16.226,
+     "one"
+    ],
+    [
+     16.226,
+     16.386,
+     "of"
+    ],
+    [
+     16.386,
+     17.026,
+     "900,"
+    ],
+    [
+     17.386,
+     17.686,
+     "chapter"
+    ],
+    [
+     17.686,
+     18.166,
+     "one."
+    ],
+    [
+     18.646,
+     18.906,
+     "What"
+    ],
+    [
+     18.906,
+     19.326,
+     "is"
+    ],
+    [
+     19.326,
+     19.446,
+     "a"
+    ],
+    [
+     19.446,
+     19.766,
+     "spaceship?"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 20.596,
+   "end": 22.89,
+   "text": "Oxygen left: four minutes.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     20.596,
+     21.056,
+     "Oxygen"
+    ],
+    [
+     21.056,
+     21.356,
+     "left,"
+    ],
+    [
+     21.816,
+     22.216,
+     "four"
+    ],
+    [
+     22.216,
+     22.536,
+     "minutes."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 23.34,
+   "end": 25.085,
+   "text": "High IQ.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     23.34,
+     23.68,
+     "Hi"
+    ],
+    [
+     23.68,
+     24.1,
+     "IQ."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "JUNO",
+   "voice": "w_juno",
+   "start": 25.385,
+   "end": 34.72,
+   "text": "Okay, duck. Line one reads the fuel. Line two adds the speed. Line three... wait. That's a minus.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     25.385,
+     25.765,
+     "Okay,"
+    ],
+    [
+     25.945,
+     26.165,
+     "duck."
+    ],
+    [
+     26.805,
+     26.945,
+     "Line"
+    ],
+    [
+     26.945,
+     27.345,
+     "one"
+    ],
+    [
+     27.345,
+     27.865,
+     "reads"
+    ],
+    [
+     27.865,
+     28.105,
+     "the"
+    ],
+    [
+     28.105,
+     28.485,
+     "fuel."
+    ],
+    [
+     29.045,
+     29.345,
+     "Line"
+    ],
+    [
+     29.345,
+     29.765,
+     "two"
+    ],
+    [
+     29.765,
+     30.285,
+     "adds"
+    ],
+    [
+     30.285,
+     30.545,
+     "the"
+    ],
+    [
+     30.545,
+     30.825,
+     "speed."
+    ],
+    [
+     31.425,
+     31.805,
+     "Line"
+    ],
+    [
+     31.805,
+     32.205,
+     "three,"
+    ],
+    [
+     32.845,
+     33.065,
+     "wait,"
+    ],
+    [
+     33.585,
+     33.945,
+     "that's"
+    ],
+    [
+     33.945,
+     34.025,
+     "a"
+    ],
+    [
+     34.025,
+     34.325,
+     "minus."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 35.07,
+   "end": 39.15,
+   "text": "Saying it out loud, line by line, made the bug jump right out.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     35.07,
+     35.39,
+     "Saying"
+    ],
+    [
+     35.39,
+     35.57,
+     "it"
+    ],
+    [
+     35.57,
+     35.67,
+     "out"
+    ],
+    [
+     35.67,
+     36.05,
+     "loud,"
+    ],
+    [
+     36.37,
+     36.61,
+     "line"
+    ],
+    [
+     36.61,
+     36.85,
+     "by"
+    ],
+    [
+     36.85,
+     37.27,
+     "line,"
+    ],
+    [
+     37.43,
+     37.59,
+     "meet"
+    ],
+    [
+     37.59,
+     37.75,
+     "the"
+    ],
+    [
+     37.75,
+     37.97,
+     "bug"
+    ],
+    [
+     37.97,
+     38.25,
+     "jump"
+    ],
+    [
+     38.25,
+     38.65,
+     "right"
+    ],
+    [
+     38.65,
+     38.93,
+     "out!"
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 39.75,
+   "end": 43.443,
+   "text": "That's rubber duck debugging. Real engineers really do this.",
+   "file": "line_10.wav",
+   "words": [
+    [
+     39.75,
+     40.17,
+     "That's"
+    ],
+    [
+     40.17,
+     40.39,
+     "rubber"
+    ],
+    [
+     40.39,
+     40.67,
+     "duct"
+    ],
+    [
+     40.67,
+     41.01,
+     "debugging."
+    ],
+    [
+     41.55,
+     41.75,
+     "Real"
+    ],
+    [
+     41.75,
+     42.19,
+     "engineers"
+    ],
+    [
+     42.19,
+     42.75,
+     "really"
+    ],
+    [
+     42.75,
+     43.03,
+     "do"
+    ],
+    [
+     43.03,
+     43.21,
+     "this."
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "BO",
+   "voice": "w_bo",
+   "start": 43.943,
+   "end": 45.849,
+   "text": "My turn! FIX!",
+   "file": "line_11.wav",
+   "words": [
+    [
+     43.943,
+     44.203,
+     "My"
+    ],
+    [
+     44.203,
+     44.543,
+     "turn."
+    ],
+    [
+     45.003,
+     45.383,
+     "Fix."
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 46.749,
+   "end": 49.181,
+   "text": "Comment DEBUG for the free debugging checklist.",
+   "file": "line_12.wav",
+   "words": [
+    [
+     46.749,
+     47.029,
+     "Comment"
+    ],
+    [
+     47.029,
+     47.389,
+     "debug"
+    ],
+    [
+     47.389,
+     47.729,
+     "for"
+    ],
+    [
+     47.729,
+     47.829,
+     "the"
+    ],
+    [
+     47.829,
+     48.089,
+     "free"
+    ],
+    [
+     48.089,
+     48.489,
+     "debugging"
+    ],
+    [
+     48.489,
+     48.789,
+     "checklist."
+    ]
+   ]
+  }
+ ]
+}

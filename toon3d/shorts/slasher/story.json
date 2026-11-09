@@ -1,0 +1,186 @@
+{
+ "title": "The Slasher Who Never Existed",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In 1938, an entire English town hunted a man who never existed.",
+   "text": "In 1938, an entire English town hunted a man who never existed.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "This is Halifax. Dark streets, thick fog, and very nervous people.",
+   "text": "This is Halifax. Dark streets, thick fog, and very nervous people.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "One November night, two women say a man jumped them with a mallet.",
+   "text": "One November night, two women say a man jumped them with a mallet.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "They didn't see his face. But they did notice his shiny shoe buckles.",
+   "text": "They didn't see his face. But they did notice his shiny shoe buckles.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Days later, another woman says he cut her. Then another. Then a man.",
+   "text": "Days later, another woman says he cut her. Then another. Then a man.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Now the town has a name for him. The Halifax Slasher.",
+   "text": "Now the town has a name for him. The Halifax Slasher.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Shops close early. Nobody walks alone. And the men form patrols.",
+   "text": "Shops close early. Nobody walks alone. And the men form patrols.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Armed with sticks, they beat the shit out of anyone who looks slightly slashy.",
+   "text": "Armed with sticks, they beat the sh*t out of anyone who looks slightly slashy.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "One guy runs to help a victim, and the mob decides he's the slasher and chants for his head.",
+   "text": "One guy runs to help a victim, and the mob decides he's the slasher and chants for his head.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Scotland Yard sends detectives up from London.",
+   "text": "Scotland Yard sends detectives up from London.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, a rumor is like a streetlamp in fog. It doesn't show you more. It just makes every shadow look bigger.",
+   "text": "You see, a rumor is like a streetlamp in fog. It doesn't show you more. It just makes every shadow look bigger.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Then one victim, Percy, admits he cut himself. Then another admits it. And another.",
+   "text": "Then one victim, Percy, admits he cut himself. Then another admits it. And another.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "There was no slasher. No mallet. No buckles.",
+   "text": "There was no slasher. No mallet. No buckles.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Five locals were charged with public mischief, and four went to prison.",
+   "text": "Five locals were charged with public mischief, and four went to prison.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The only people the Halifax Slasher ever hurt were the people hunting him.",
+   "text": "The only people the Halifax Slasher ever hurt were the people hunting him.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "title": "How different IQ pirates split the treasure",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Pirate ship",
+ "cta": "SPLIT",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] Three pirates. One pile of gold. Here's how different IQs split it.",
+   "text": "Three pirates. One pile of gold. Here's how different IQs split it.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] Low IQ.",
+   "text": "Low IQ.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_gus",
+   "who": "GUS",
+   "tts": "[greedy, shouting] MINE! ALL MINE!",
+   "text": "MINE! ALL MINE!",
+   "gap": 0.2
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Now nobody has gold. Or teeth.",
+   "text": "Now nobody has gold. Or teeth.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] Medium IQ.",
+   "text": "Medium IQ.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_fen",
+   "who": "FEN",
+   "tts": "[slow, counting] One for you... one for me... one for you...",
+   "text": "One for you... one for me... one for you...",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Three days later. Still counting.",
+   "text": "Three days later. Still counting.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] High IQ.",
+   "text": "High IQ.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_ada",
+   "who": "ADA",
+   "tts": "[calm, clever] I'll split it into two piles. You pick first.",
+   "text": "I'll split it into two piles. You pick first.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] Now her split has to be perfectly fair... because he'll grab the bigger pile.",
+   "text": "Now her split has to be perfectly fair... because he'll grab the bigger pile.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's 'I cut, you choose.' The fairest way to split anything: treasure, chores... even a business.",
+   "text": "That's 'I cut, you choose.' The fairest way to split anything: treasure, chores... even a business.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_parrot",
+   "who": "PARROT",
+   "tts": "[squawking, cheeky] And one for the PARROT!",
+   "text": "And one for the PARROT!",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment SPLIT for the free fair-split guide.",
+   "text": "Comment SPLIT for the free fair-split guide.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

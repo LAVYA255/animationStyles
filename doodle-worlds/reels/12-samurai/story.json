@@ -1,0 +1,23 @@
+{
+ "title": "He wanted to master the sword in one day",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Samurai dojo",
+ "cta": "HABIT",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[intrigued] He wanted to master the sword. In one day.", "text": "He wanted to master the sword. In one day.", "gap": 0.45},
+  {"voice": "w_kenji", "who": "KENJI", "tts": "[eager, loud] Sensei! Teach me everything. Today!", "text": "Sensei! Teach me everything. Today!", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "So he swung ten thousand times.", "text": "So he swung ten thousand times.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "[dry] By sunset... he couldn't lift a chopstick.", "text": "By sunset... he couldn't lift a chopstick.", "gap": 0.5},
+  {"voice": "w_hoshi", "who": "HOSHI", "tts": "[calm, amused] Tomorrow, swing just once more than today.", "text": "Tomorrow, swing just once more than today.", "gap": 0.3},
+  {"voice": "w_kenji", "who": "KENJI", "tts": "[confused] Just... one more?", "text": "Just... one more?", "gap": 0.3},
+  {"voice": "w_hoshi", "who": "HOSHI", "tts": "[calm] One percent. Every day.", "text": "One percent. Every day.", "gap": 0.5},
+  {"voice": "mira_narrator", "who": "N", "tts": "Day one. One percent better. Nobody notices.", "text": "Day one. One percent better. Nobody notices.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[dry] Day thirty. Still... kind of bad.", "text": "Day thirty. Still... kind of bad.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "[building] But one percent, every single day, stacks up.", "text": "But one percent, every single day, stacks up.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[impressed] Day three hundred sixty-five. Thirty-eight times better.", "text": "Day three hundred sixty-five. Thirty-eight times better.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "Not one heroic day. Just a lot of boring ones.", "text": "Not one heroic day. Just a lot of boring ones.", "gap": 0.6},
+  {"voice": "w_kenji", "who": "KENJI", "tts": "[eager, loud] Sensei! Day three hundred sixty-six! One percent more!", "text": "Sensei! Day three hundred sixty-six! One percent more!", "gap": 0.7},
+  {"voice": "w_hoshi", "who": "HOSHI", "tts": "[deadpan, flat] ...Maybe one percent less.", "text": "Maybe one percent less.", "gap": 0.8},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment HABIT for the free one percent tracker.", "text": "Comment HABIT for the free one percent tracker.", "gap": 0.0}
+ ]
+}

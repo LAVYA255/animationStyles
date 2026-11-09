@@ -1,0 +1,102 @@
+{
+ "title": "Why AI Makes Things Up",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "AI will lie straight to your face, and it doesn't even know it's lying.",
+   "text": "AI will lie straight to your face, and it doesn't even know it's lying.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Ask it about a book that doesn't exist, and you'll get the author, the year, and a full chapter list.",
+   "text": "Ask it about a book that doesn't exist, and you'll get the author, the year, and a full chapter list.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Why? Because of how it got graded.",
+   "text": "Why? Because of how it got graded.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In training, a confident guess can score points. I don't know scores zero.",
+   "text": "In training, a confident guess can score points. I don't know scores zero.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So it learned the same trick as every kid in a multiple choice exam. Never, ever leave a blank.",
+   "text": "So it learned the same trick as every kid in a multiple choice exam. Never, ever leave a blank.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, it's like a tour guide in a city he's never been to. He won't stop the tour. He'll point at a random building and make up a great story.",
+   "text": "You see, it's like a tour guide in a city he's never been to. He won't stop the tour. He'll point at a random building and make up a great story.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The fix is boring. Reward the AI for saying I'm not sure, and double check anything that matters.",
+   "text": "The fix is boring. Reward the AI for saying I'm not sure, and double check anything that matters.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Because the most dangerous answer isn't the wrong one. It's the confident one.",
+   "text": "Because the most dangerous answer isn't the wrong one. It's the confident one.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

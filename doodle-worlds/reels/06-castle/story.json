@@ -1,0 +1,86 @@
+{
+ "title": "The king wanted a perfect castle",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Medieval",
+ "cta": "MVP",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[storytelling] A king wanted the perfect castle. A peasant built a hut first. Guess who had a roof that winter?",
+   "text": "A king wanted the perfect castle. A peasant built a hut first. Guess who had a roof that winter?",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_king",
+   "who": "KING",
+   "tts": "[pompous, grand] Forty towers! Golden gates! A moat... with swans!",
+   "text": "Forty towers! Golden gates! A moat... with swans!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Year one: plans. Year two: more plans.",
+   "text": "Year one: plans. Year two: more plans.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Wren needed a bed. So she built one small room. Wobbly... but it worked.",
+   "text": "Wren needed a bed. So she built one small room. Wobbly... but it worked.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_king",
+   "who": "KING",
+   "tts": "[scoffing] A hut? How... tiny.",
+   "text": "A hut? How... tiny.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] Roof leaked? Fixed. Too cold? Fireplace. Every month, a little better.",
+   "text": "Roof leaked? Fixed. Too cold? Fireplace. Every month, a little better.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[ominous] Then winter came. The king's castle? Still a drawing.",
+   "text": "Then winter came. The king's castle? Still a drawing.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_king",
+   "who": "KING",
+   "tts": "[shivering, quiet] ...Is there room in the hut?",
+   "text": "...Is there room in the hut?",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's an MVP. Build small, learn from real use, keep improving.",
+   "text": "That's an MVP. Build small, learn from real use, keep improving.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_wren",
+   "who": "WREN",
+   "tts": "[smug, friendly] Two gold coins. Per night.",
+   "text": "Two gold coins. Per night.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment MVP for the free launch checklist.",
+   "text": "Comment MVP for the free launch checklist.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

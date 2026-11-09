@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "s": 0.1,
+  "e": 2.945,
+  "text": "Every AI agent in this town looks exactly the same."
+ },
+ {
+  "i": 1,
+  "s": 3.085,
+  "e": 5.801,
+  "text": "Ask the coding bot for help, and the email bot shows up."
+ },
+ {
+  "i": 2,
+  "s": 6.301,
+  "e": 7.867,
+  "text": "So somebody gave them faces."
+ },
+ {
+  "i": 3,
+  "s": 8.417,
+  "e": 15.501,
+  "text": "It's called Open Bot Avatar. Every face is one tiny JSON file: a single shape, plus where the eyes go."
+ },
+ {
+  "i": 4,
+  "s": 15.641,
+  "e": 20.504,
+  "text": "The renderer does the rest. It adds depth, makes them blink, and their eyes follow you around."
+ },
+ {
+  "i": 5,
+  "s": 20.644,
+  "e": 25.305,
+  "text": "They even have moods. Thinking, while your agent works... and happy, when it's done."
+ },
+ {
+  "i": 6,
+  "s": 25.445,
+  "e": 29.736,
+  "text": "Twenty-two ready-made faces. Or describe one, and any AI will write it for you."
+ },
+ {
+  "i": 7,
+  "s": 29.876,
+  "e": 34.362,
+  "text": "It's free, open source and M.I.T. licensed. Search Open Bot Avatar on GitHub."
+ },
+ {
+  "i": 8,
+  "s": 34.962,
+  "e": 37.695,
+  "text": "Now if only the email bot would stop hitting reply-all."
+ }
+]

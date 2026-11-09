@@ -1,0 +1,695 @@
+{
+ "0": {
+  "wav": "vo/wav/bfd6082734bd_v2.wav",
+  "dur": 4.168813,
+  "words": [
+   {
+    "w": " Asha",
+    "s": 0.0,
+    "e": 0.44
+   },
+   {
+    "w": " built",
+    "s": 0.44,
+    "e": 0.72
+   },
+   {
+    "w": " a",
+    "s": 0.72,
+    "e": 0.88
+   },
+   {
+    "w": " time",
+    "s": 0.88,
+    "e": 1.14
+   },
+   {
+    "w": " machine",
+    "s": 1.14,
+    "e": 1.52
+   },
+   {
+    "w": " to",
+    "s": 1.52,
+    "e": 2.26
+   },
+   {
+    "w": " visit",
+    "s": 2.26,
+    "e": 2.6
+   },
+   {
+    "w": " herself",
+    "s": 2.6,
+    "e": 3.04
+   },
+   {
+    "w": " at",
+    "s": 3.04,
+    "e": 3.26
+   },
+   {
+    "w": " 25.",
+    "s": 3.26,
+    "e": 3.56
+   }
+  ],
+  "heard": "Asha built a time machine to visit herself at 25.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] Asha built a time machine... to visit herself at twenty-five.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/d0ef33422385_v2.wav",
+  "dur": 5.055479,
+  "words": [
+   {
+    "w": " Hi,",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " sweetheart.",
+    "s": 0.4,
+    "e": 0.78
+   },
+   {
+    "w": " It's",
+    "s": 1.56,
+    "e": 1.82
+   },
+   {
+    "w": " me,",
+    "s": 1.82,
+    "e": 2.02
+   },
+   {
+    "w": " you,",
+    "s": 2.74,
+    "e": 3.0
+   },
+   {
+    "w": " 50",
+    "s": 3.68,
+    "e": 4.04
+   },
+   {
+    "w": " years",
+    "s": 4.04,
+    "e": 4.44
+   },
+   {
+    "w": " later.",
+    "s": 4.44,
+    "e": 4.8
+   }
+  ],
+  "heard": "Hi, sweetheart. It's me, you, 50 years later.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[warm, a little shaky] Hi, sweetheart. It's me. You. Fifty years later.",
+  "voice": "w_oldasha"
+ },
+ "2": {
+  "wav": "vo/wav/6ebebba61d35_v2.wav",
+  "dur": 4.039396,
+  "words": [
+   {
+    "w": " No",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " way.",
+    "s": 0.36,
+    "e": 0.84
+   },
+   {
+    "w": " So,",
+    "s": 1.4599999999999995,
+    "e": 1.98
+   },
+   {
+    "w": " did",
+    "s": 2.72,
+    "e": 2.94
+   },
+   {
+    "w": " we",
+    "s": 2.94,
+    "e": 3.08
+   },
+   {
+    "w": " open",
+    "s": 3.08,
+    "e": 3.32
+   },
+   {
+    "w": " the",
+    "s": 3.32,
+    "e": 3.48
+   },
+   {
+    "w": " bakery?",
+    "s": 3.48,
+    "e": 3.74
+   }
+  ],
+  "heard": "No way. So, did we open the bakery?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[shocked, excited] No way! So... did we open the bakery?!",
+  "voice": "w_asha"
+ },
+ "3": {
+  "wav": "vo/wav/09ec2dc0e455_v2.wav",
+  "dur": 2.615083,
+  "words": [
+   {
+    "w": " No.",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " We",
+    "s": 0.76,
+    "e": 0.96
+   },
+   {
+    "w": " kept",
+    "s": 0.96,
+    "e": 1.18
+   },
+   {
+    "w": " waiting",
+    "s": 1.18,
+    "e": 1.56
+   },
+   {
+    "w": " to",
+    "s": 1.56,
+    "e": 1.9
+   },
+   {
+    "w": " be",
+    "s": 1.9,
+    "e": 2.04
+   },
+   {
+    "w": " ready.",
+    "s": 2.04,
+    "e": 2.4
+   }
+  ],
+  "heard": "No. We kept waiting to be ready.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[quiet, sad] ...No. We kept waiting to be ready.",
+  "voice": "w_oldasha"
+ },
+ "4": {
+  "wav": "vo/wav/52dda7605fcf_v2.wav",
+  "dur": 4.96,
+  "words": [
+   {
+    "w": " ready",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " after",
+    "s": 0.28,
+    "e": 0.6
+   },
+   {
+    "w": " the",
+    "s": 0.6,
+    "e": 0.74
+   },
+   {
+    "w": " course,",
+    "s": 0.74,
+    "e": 1.08
+   },
+   {
+    "w": " after",
+    "s": 1.6,
+    "e": 2.06
+   },
+   {
+    "w": " the",
+    "s": 2.06,
+    "e": 2.24
+   },
+   {
+    "w": " savings,",
+    "s": 2.24,
+    "e": 2.64
+   },
+   {
+    "w": " after",
+    "s": 3.2,
+    "e": 3.64
+   },
+   {
+    "w": " the",
+    "s": 3.64,
+    "e": 3.82
+   },
+   {
+    "w": " perfect",
+    "s": 3.82,
+    "e": 4.24
+   },
+   {
+    "w": " recipe.",
+    "s": 4.24,
+    "e": 4.74
+   }
+  ],
+  "heard": "ready after the course, after the savings, after the perfect recipe.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Ready after the course. After the savings. After the perfect recipe.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/db69358bd741_v2.wav",
+  "dur": 3.609333,
+  "words": [
+   {
+    "w": " Ready",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " never",
+    "s": 0.32,
+    "e": 0.7
+   },
+   {
+    "w": " came.",
+    "s": 0.7,
+    "e": 1.14
+   },
+   {
+    "w": " Ready",
+    "s": 1.66,
+    "e": 2.02
+   },
+   {
+    "w": " is",
+    "s": 2.02,
+    "e": 2.32
+   },
+   {
+    "w": " a",
+    "s": 2.32,
+    "e": 2.42
+   },
+   {
+    "w": " damn",
+    "s": 2.42,
+    "e": 2.9
+   },
+   {
+    "w": " lie.",
+    "s": 2.9,
+    "e": 3.38
+   }
+  ],
+  "heard": "Ready never came. Ready is a damn lie.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[soft, bitter] Ready never came. Ready is a damn lie.",
+  "voice": "w_oldasha"
+ },
+ "6": {
+  "wav": "vo/wav/63125fb5faf5_v2.wav",
+  "dur": 1.923042,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " what",
+    "s": 0.34,
+    "e": 1.24
+   },
+   {
+    "w": " do",
+    "s": 1.24,
+    "e": 1.34
+   },
+   {
+    "w": " I",
+    "s": 1.34,
+    "e": 1.46
+   },
+   {
+    "w": " do?",
+    "s": 1.46,
+    "e": 1.7
+   }
+  ],
+  "heard": "So what do I do?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[quiet, small] So... what do I do?",
+  "voice": "w_asha"
+ },
+ "7": {
+  "wav": "vo/wav/d19467b389ee_v2.wav",
+  "dur": 3.253021,
+  "words": [
+   {
+    "w": " Bake",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " one",
+    "s": 0.16,
+    "e": 0.46
+   },
+   {
+    "w": " tray.",
+    "s": 0.46,
+    "e": 0.78
+   },
+   {
+    "w": " Today,",
+    "s": 1.46,
+    "e": 1.64
+   },
+   {
+    "w": " sell",
+    "s": 2.04,
+    "e": 2.34
+   },
+   {
+    "w": " it",
+    "s": 2.34,
+    "e": 2.48
+   },
+   {
+    "w": " to",
+    "s": 2.48,
+    "e": 2.6
+   },
+   {
+    "w": " your",
+    "s": 2.6,
+    "e": 2.74
+   },
+   {
+    "w": " neighbors.",
+    "s": 2.74,
+    "e": 2.96
+   }
+  ],
+  "heard": "Bake one tray. Today, sell it to your neighbors.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[firm, warm] Bake one tray. Today. Sell it to your neighbors.",
+  "voice": "w_oldasha"
+ },
+ "8": {
+  "wav": "vo/wav/055bfdad1b10_v2.wav",
+  "dur": 5.162708,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " she",
+    "s": 0.18,
+    "e": 0.34
+   },
+   {
+    "w": " did.",
+    "s": 0.34,
+    "e": 0.54
+   },
+   {
+    "w": " 12",
+    "s": 1.16,
+    "e": 1.4
+   },
+   {
+    "w": " cookies,",
+    "s": 1.4,
+    "e": 1.74
+   },
+   {
+    "w": " 11",
+    "s": 2.24,
+    "e": 2.56
+   },
+   {
+    "w": " sold,",
+    "s": 2.56,
+    "e": 2.9
+   },
+   {
+    "w": " then",
+    "s": 3.4,
+    "e": 3.6
+   },
+   {
+    "w": " 100,",
+    "s": 3.6,
+    "e": 3.98
+   },
+   {
+    "w": " then",
+    "s": 4.6,
+    "e": 4.74
+   },
+   {
+    "w": " a",
+    "s": 4.74,
+    "e": 4.84
+   },
+   {
+    "w": " shot.",
+    "s": 4.84,
+    "e": 5.04
+   }
+  ],
+  "heard": "So she did. 12 cookies, 11 sold, then 100, then a shot.",
+  "score": 0.9230769230769231,
+  "attempt": 0,
+  "tts": "[warm, building] So she did. Twelve cookies. Eleven sold. Then a hundred. Then a shop.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/163ce5d9fde7_v2.wav",
+  "dur": 4.238854,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " best",
+    "s": 0.12,
+    "e": 0.34
+   },
+   {
+    "w": " time",
+    "s": 0.34,
+    "e": 0.52
+   },
+   {
+    "w": " to",
+    "s": 0.52,
+    "e": 0.68
+   },
+   {
+    "w": " start",
+    "s": 0.68,
+    "e": 0.92
+   },
+   {
+    "w": " was",
+    "s": 0.92,
+    "e": 1.12
+   },
+   {
+    "w": " years",
+    "s": 1.12,
+    "e": 1.34
+   },
+   {
+    "w": " ago.",
+    "s": 1.34,
+    "e": 1.66
+   },
+   {
+    "w": " The",
+    "s": 2.2,
+    "e": 2.42
+   },
+   {
+    "w": " second",
+    "s": 2.42,
+    "e": 2.72
+   },
+   {
+    "w": " best",
+    "s": 2.72,
+    "e": 2.96
+   },
+   {
+    "w": " time",
+    "s": 2.96,
+    "e": 3.28
+   },
+   {
+    "w": " is",
+    "s": 3.28,
+    "e": 3.86
+   },
+   {
+    "w": " today.",
+    "s": 3.86,
+    "e": 4.1
+   }
+  ],
+  "heard": "The best time to start was years ago. The second best time is today.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[emotional] The best time to start was years ago. The second best time is today.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/5e786ac65e0e_v2.wav",
+  "dur": 3.120063,
+  "words": [
+   {
+    "w": " Oh,",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " I",
+    "s": 1.42,
+    "e": 1.86
+   },
+   {
+    "w": " own",
+    "s": 1.86,
+    "e": 2.1
+   },
+   {
+    "w": " a",
+    "s": 2.1,
+    "e": 2.22
+   },
+   {
+    "w": " bakery",
+    "s": 2.22,
+    "e": 2.54
+   },
+   {
+    "w": " now.",
+    "s": 2.54,
+    "e": 2.94
+   }
+  ],
+  "heard": "Oh, I own a bakery now.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[surprised, delighted laugh] Oh! I own a bakery now!",
+  "voice": "w_oldasha"
+ },
+ "11": {
+  "wav": "vo/wav/f153f529d000_v2.wav",
+  "dur": 2.032563,
+  "words": [
+   {
+    "w": " Want",
+    "s": 0.0,
+    "e": 0.98
+   },
+   {
+    "w": " a",
+    "s": 0.98,
+    "e": 1.12
+   },
+   {
+    "w": " cookie?",
+    "s": 1.12,
+    "e": 1.3
+   }
+  ],
+  "heard": "Want a cookie?",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[grinning] Want a cookie?",
+  "voice": "w_asha"
+ },
+ "12": {
+  "wav": "vo/wav/44d424499c39_v2.wav",
+  "dur": 3.079833,
+  "words": [
+   {
+    "w": " Comments",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " start",
+    "s": 0.5,
+    "e": 0.78
+   },
+   {
+    "w": " for",
+    "s": 0.78,
+    "e": 1.18
+   },
+   {
+    "w": " the",
+    "s": 1.18,
+    "e": 1.28
+   },
+   {
+    "w": " free",
+    "s": 1.28,
+    "e": 1.62
+   },
+   {
+    "w": " first",
+    "s": 1.62,
+    "e": 1.94
+   },
+   {
+    "w": " week",
+    "s": 1.94,
+    "e": 2.24
+   },
+   {
+    "w": " launch",
+    "s": 2.24,
+    "e": 2.58
+   },
+   {
+    "w": " plan.",
+    "s": 2.58,
+    "e": 2.88
+   }
+  ],
+  "heard": "Comments start for the free first week launch plan.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "Comment START for the free first-week launch plan.",
+  "voice": "mira_narrator"
+ }
+}

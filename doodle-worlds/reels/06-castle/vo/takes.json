@@ -1,0 +1,628 @@
+{
+ "0": {
+  "wav": "vo/wav/d64f8fbff01f_v2.wav",
+  "dur": 6.391021,
+  "words": [
+   {
+    "w": " A",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " king",
+    "s": 0.14,
+    "e": 0.46
+   },
+   {
+    "w": " wanted",
+    "s": 0.46,
+    "e": 0.88
+   },
+   {
+    "w": " the",
+    "s": 0.88,
+    "e": 1.04
+   },
+   {
+    "w": " perfect",
+    "s": 1.04,
+    "e": 1.48
+   },
+   {
+    "w": " castle.",
+    "s": 1.48,
+    "e": 1.94
+   },
+   {
+    "w": " A",
+    "s": 2.54,
+    "e": 2.66
+   },
+   {
+    "w": " peasant",
+    "s": 2.66,
+    "e": 3.02
+   },
+   {
+    "w": " built",
+    "s": 3.02,
+    "e": 3.3
+   },
+   {
+    "w": " a",
+    "s": 3.3,
+    "e": 3.48
+   },
+   {
+    "w": " hut",
+    "s": 3.48,
+    "e": 3.74
+   },
+   {
+    "w": " first.",
+    "s": 3.74,
+    "e": 3.98
+   },
+   {
+    "w": " Guess",
+    "s": 4.74,
+    "e": 4.98
+   },
+   {
+    "w": " who",
+    "s": 4.98,
+    "e": 5.24
+   },
+   {
+    "w": " had",
+    "s": 5.24,
+    "e": 5.38
+   },
+   {
+    "w": " a",
+    "s": 5.38,
+    "e": 5.48
+   },
+   {
+    "w": " roof",
+    "s": 5.48,
+    "e": 5.68
+   },
+   {
+    "w": " that",
+    "s": 5.68,
+    "e": 5.9
+   },
+   {
+    "w": " winter?",
+    "s": 5.9,
+    "e": 6.16
+   }
+  ],
+  "heard": "A king wanted the perfect castle. A peasant built a hut first. Guess who had a roof that winter?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[storytelling] A king wanted the perfect castle. A peasant built a hut first. Guess who had a roof that winter?",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/789deec70169_v2.wav",
+  "dur": 5.492083,
+  "words": [
+   {
+    "w": " 40",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " towers,",
+    "s": 0.38,
+    "e": 0.86
+   },
+   {
+    "w": " golden",
+    "s": 1.32,
+    "e": 1.76
+   },
+   {
+    "w": " gates,",
+    "s": 1.76,
+    "e": 2.32
+   },
+   {
+    "w": " a",
+    "s": 2.84,
+    "e": 3.04
+   },
+   {
+    "w": " moat",
+    "s": 3.04,
+    "e": 3.5
+   },
+   {
+    "w": " with",
+    "s": 3.5,
+    "e": 4.32
+   },
+   {
+    "w": " swans.",
+    "s": 4.32,
+    "e": 5.14
+   }
+  ],
+  "heard": "40 towers, golden gates, a moat with swans.",
+  "score": 0.875,
+  "attempt": 0,
+  "tts": "[pompous, grand] Forty towers! Golden gates! A moat... with swans!",
+  "voice": "w_king"
+ },
+ "2": {
+  "wav": "vo/wav/7f750206c243_v2.wav",
+  "dur": 4.299917,
+  "words": [
+   {
+    "w": " Year",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " 1.",
+    "s": 0.24,
+    "e": 0.5
+   },
+   {
+    "w": " Plans",
+    "s": 1.16,
+    "e": 1.6
+   },
+   {
+    "w": " Year",
+    "s": 1.6,
+    "e": 2.4
+   },
+   {
+    "w": " 2.",
+    "s": 2.4,
+    "e": 2.7
+   },
+   {
+    "w": " More",
+    "s": 3.46,
+    "e": 3.62
+   },
+   {
+    "w": " plans.",
+    "s": 3.62,
+    "e": 3.9
+   }
+  ],
+  "heard": "Year 1. Plans Year 2. More plans.",
+  "score": 0.7142857142857143,
+  "attempt": 2,
+  "tts": "[dry] Year one: plans. Year two: more plans.",
+  "voice": "mira_narrator"
+ },
+ "3": {
+  "wav": "vo/wav/455960d26b2b_v2.wav",
+  "dur": 5.678813,
+  "words": [
+   {
+    "w": " Ren",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " needed",
+    "s": 0.18,
+    "e": 0.54
+   },
+   {
+    "w": " a",
+    "s": 0.54,
+    "e": 0.68
+   },
+   {
+    "w": " bed,",
+    "s": 0.68,
+    "e": 0.88
+   },
+   {
+    "w": " so",
+    "s": 1.26,
+    "e": 1.66
+   },
+   {
+    "w": " she",
+    "s": 1.66,
+    "e": 1.8
+   },
+   {
+    "w": " built",
+    "s": 1.8,
+    "e": 2.0
+   },
+   {
+    "w": " one",
+    "s": 2.0,
+    "e": 2.36
+   },
+   {
+    "w": " small",
+    "s": 2.36,
+    "e": 2.72
+   },
+   {
+    "w": " room.",
+    "s": 2.72,
+    "e": 3.22
+   },
+   {
+    "w": " Wobbly,",
+    "s": 3.94,
+    "e": 4.32
+   },
+   {
+    "w": " but",
+    "s": 4.9,
+    "e": 5.1
+   },
+   {
+    "w": " it",
+    "s": 5.1,
+    "e": 5.22
+   },
+   {
+    "w": " worked.",
+    "s": 5.22,
+    "e": 5.42
+   }
+  ],
+  "heard": "Ren needed a bed, so she built one small room. Wobbly, but it worked.",
+  "score": 0.9285714285714286,
+  "attempt": 0,
+  "tts": "Wren needed a bed. So she built one small room. Wobbly... but it worked.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/1ad34a75731b_v2.wav",
+  "dur": 3.477417,
+  "words": [
+   {
+    "w": " A",
+    "s": 0.0,
+    "e": 0.82
+   },
+   {
+    "w": " hut.",
+    "s": 0.82,
+    "e": 1.14
+   },
+   {
+    "w": " How...",
+    "s": 1.76,
+    "e": 2.6
+   },
+   {
+    "w": " tiny.",
+    "s": 2.6,
+    "e": 3.12
+   }
+  ],
+  "heard": "A hut. How... tiny.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[scoffing] A hut? How... tiny.",
+  "voice": "w_king"
+ },
+ "5": {
+  "wav": "vo/wav/911b6726177d_v2.wav",
+  "dur": 5.83375,
+  "words": [
+   {
+    "w": " roof",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " leaked,",
+    "s": 0.2,
+    "e": 0.58
+   },
+   {
+    "w": " fixed,",
+    "s": 1.0,
+    "e": 1.46
+   },
+   {
+    "w": " too",
+    "s": 2.02,
+    "e": 2.28
+   },
+   {
+    "w": " cold,",
+    "s": 2.28,
+    "e": 2.6
+   },
+   {
+    "w": " fireplace,",
+    "s": 2.96,
+    "e": 3.38
+   },
+   {
+    "w": " every",
+    "s": 4.22,
+    "e": 4.48
+   },
+   {
+    "w": " month",
+    "s": 4.48,
+    "e": 4.78
+   },
+   {
+    "w": " a",
+    "s": 4.78,
+    "e": 5.04
+   },
+   {
+    "w": " little",
+    "s": 5.04,
+    "e": 5.3
+   },
+   {
+    "w": " better.",
+    "s": 5.3,
+    "e": 5.56
+   }
+  ],
+  "heard": "roof leaked, fixed, too cold, fireplace, every month a little better.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building] Roof leaked? Fixed. Too cold? Fireplace. Every month, a little better.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/67e5146a138b_v2.wav",
+  "dur": 3.547104,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " winter",
+    "s": 0.28,
+    "e": 0.62
+   },
+   {
+    "w": " came.",
+    "s": 0.62,
+    "e": 0.96
+   },
+   {
+    "w": " The",
+    "s": 1.52,
+    "e": 1.7
+   },
+   {
+    "w": " King's",
+    "s": 1.7,
+    "e": 2.08
+   },
+   {
+    "w": " Castle?",
+    "s": 2.08,
+    "e": 2.42
+   },
+   {
+    "w": " Still",
+    "s": 2.68,
+    "e": 3.0
+   },
+   {
+    "w": " a",
+    "s": 3.0,
+    "e": 3.14
+   },
+   {
+    "w": " drawing.",
+    "s": 3.14,
+    "e": 3.38
+   }
+  ],
+  "heard": "Then winter came. The King's Castle? Still a drawing.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[ominous] Then winter came. The king's castle? Still a drawing.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/96b769e44de1_v2.wav",
+  "dur": 2.904354,
+  "words": [
+   {
+    "w": " Is",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " there",
+    "s": 0.22,
+    "e": 0.54
+   },
+   {
+    "w": " room",
+    "s": 0.54,
+    "e": 1.56
+   },
+   {
+    "w": " in",
+    "s": 1.56,
+    "e": 2.4
+   },
+   {
+    "w": " the",
+    "s": 2.4,
+    "e": 2.54
+   },
+   {
+    "w": " hut?",
+    "s": 2.54,
+    "e": 2.72
+   }
+  ],
+  "heard": "Is there room in the hut?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[shivering, quiet] ...Is there room in the hut?",
+  "voice": "w_king"
+ },
+ "8": {
+  "wav": "vo/wav/053f7c79df03_v2.wav",
+  "dur": 4.734313,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " an",
+    "s": 0.3,
+    "e": 0.38
+   },
+   {
+    "w": " MVP.",
+    "s": 0.38,
+    "e": 0.78
+   },
+   {
+    "w": " Build",
+    "s": 1.42,
+    "e": 1.82
+   },
+   {
+    "w": " small,",
+    "s": 1.82,
+    "e": 2.1
+   },
+   {
+    "w": " learn",
+    "s": 2.46,
+    "e": 2.74
+   },
+   {
+    "w": " from",
+    "s": 2.74,
+    "e": 2.98
+   },
+   {
+    "w": " your",
+    "s": 2.98,
+    "e": 3.12
+   },
+   {
+    "w": " use,",
+    "s": 3.12,
+    "e": 3.48
+   },
+   {
+    "w": " keep",
+    "s": 3.88,
+    "e": 4.06
+   },
+   {
+    "w": " improving.",
+    "s": 4.06,
+    "e": 4.42
+   }
+  ],
+  "heard": "That's an MVP. Build small, learn from your use, keep improving.",
+  "score": 0.9090909090909091,
+  "attempt": 0,
+  "tts": "That's an MVP. Build small, learn from real use, keep improving.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/76e889fa8f24_v2.wav",
+  "dur": 2.207792,
+  "words": [
+   {
+    "w": " two",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " gold",
+    "s": 0.18,
+    "e": 0.48
+   },
+   {
+    "w": " coins",
+    "s": 0.48,
+    "e": 1.0
+   },
+   {
+    "w": " per",
+    "s": 1.0,
+    "e": 1.74
+   },
+   {
+    "w": " night.",
+    "s": 1.74,
+    "e": 1.98
+   }
+  ],
+  "heard": "two gold coins per night.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[smug, friendly] Two gold coins. Per night.",
+  "voice": "w_wren"
+ },
+ "10": {
+  "wav": "vo/wav/8e3bc160316a_v2.wav",
+  "dur": 2.607688,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " MVP",
+    "s": 0.3,
+    "e": 0.82
+   },
+   {
+    "w": " for",
+    "s": 0.82,
+    "e": 1.26
+   },
+   {
+    "w": " the",
+    "s": 1.26,
+    "e": 1.36
+   },
+   {
+    "w": " free",
+    "s": 1.36,
+    "e": 1.64
+   },
+   {
+    "w": " launch",
+    "s": 1.64,
+    "e": 1.94
+   },
+   {
+    "w": " checklist.",
+    "s": 1.94,
+    "e": 2.28
+   }
+  ],
+  "heard": "Comment MVP for the free launch checklist.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment MVP for the free launch checklist.",
+  "voice": "mira_narrator"
+ }
+}

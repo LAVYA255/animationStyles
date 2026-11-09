@@ -1,0 +1,93 @@
+{
+ "title": "She survived the zombies her files didnt",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Zombie apocalypse",
+ "cta": "BACKUP",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[tense, then dry] She survived the zombie apocalypse. Her files... did not.",
+   "text": "She survived the zombie apocalypse. Her files... did not.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Kai kept everything on one laptop. Maps. Supply lists. Every plan.",
+   "text": "Kai kept everything on one laptop. Maps. Supply lists. Every plan.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_gerald",
+   "who": "GERALD",
+   "tts": "[polite, groaning, British] Braaains... and laptops.",
+   "text": "Braaains... and laptops.",
+   "gap": 0.25
+  },
+  {
+   "voice": "w_kai",
+   "who": "KAI",
+   "tts": "[horrified scream] MY SPREADSHEETS!",
+   "text": "MY SPREADSHEETS!",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Day one of the apocalypse... and she was back to zero.",
+   "text": "Day one of the apocalypse... and she was back to zero.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[hushed, building] Then an old survivor taught her one rule: three, two, one.",
+   "text": "Then an old survivor taught her one rule: three, two, one.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[confident] Three copies of everything. On two different kinds of storage. And one kept somewhere else.",
+   "text": "Three copies of everything. On two different kinds of storage. And one kept somewhere else.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[teasing] So the next time a zombie ate her laptop...",
+   "text": "So the next time a zombie ate her laptop...",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_kai",
+   "who": "KAI",
+   "tts": "[smug, calm] Bon appetit. I have backups.",
+   "text": "Bon appetit. I have backups.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's the three-two-one backup rule. Set it up before your apocalypse.",
+   "text": "That's the three-two-one backup rule. Set it up before your apocalypse.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_gerald",
+   "who": "GERALD",
+   "tts": "[polite, hopeful] Excuse me... could I get a copy too?",
+   "text": "Excuse me... could I get a copy too?",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment BACKUP for the free backup checklist.",
+   "text": "Comment BACKUP for the free backup checklist.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

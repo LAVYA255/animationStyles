@@ -1,0 +1,539 @@
+{
+ "0": {
+  "wav": "vo/wav/bf3ec83fd85c_v2.wav",
+  "dur": 6.476542,
+  "words": [
+   {
+    "w": " Two",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " saloons",
+    "s": 0.2,
+    "e": 0.68
+   },
+   {
+    "w": " started",
+    "s": 0.68,
+    "e": 1.06
+   },
+   {
+    "w": " a",
+    "s": 1.06,
+    "e": 1.26
+   },
+   {
+    "w": " price",
+    "s": 1.26,
+    "e": 1.5
+   },
+   {
+    "w": " war.",
+    "s": 1.5,
+    "e": 1.78
+   },
+   {
+    "w": " A",
+    "s": 2.4,
+    "e": 2.52
+   },
+   {
+    "w": " third",
+    "s": 2.52,
+    "e": 2.82
+   },
+   {
+    "w": " one",
+    "s": 2.82,
+    "e": 3.08
+   },
+   {
+    "w": " won",
+    "s": 3.08,
+    "e": 3.4
+   },
+   {
+    "w": " without",
+    "s": 3.4,
+    "e": 4.42
+   },
+   {
+    "w": " cutting",
+    "s": 4.42,
+    "e": 4.8
+   },
+   {
+    "w": " a",
+    "s": 4.8,
+    "e": 5.0
+   },
+   {
+    "w": " single",
+    "s": 5.0,
+    "e": 5.62
+   },
+   {
+    "w": " price.",
+    "s": 5.62,
+    "e": 6.08
+   }
+  ],
+  "heard": "Two saloons started a price war. A third one won without cutting a single price.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[storytelling] Two saloons started a price war. A third one won... without cutting a single price.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/657303706e3f_v2.wav",
+  "dur": 1.779708,
+  "words": [
+   {
+    "w": " Lemonade,",
+    "s": 0.0,
+    "e": 0.68
+   },
+   {
+    "w": " five",
+    "s": 0.96,
+    "e": 1.24
+   },
+   {
+    "w": " cents.",
+    "s": 1.24,
+    "e": 1.54
+   }
+  ],
+  "heard": "Lemonade, five cents.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[gruff, loud] Lemonade! Five cents!",
+  "voice": "w_dusty"
+ },
+ "2": {
+  "wav": "vo/wav/bb5a294f7ace_v2.wav",
+  "dur": 1.305938,
+  "words": [
+   {
+    "w": " Four",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " cents.",
+    "s": 0.3,
+    "e": 0.62
+   }
+  ],
+  "heard": "Four cents.",
+  "score": 1.0,
+  "attempt": 2,
+  "tts": "[sassy, fast] Four cents!",
+  "voice": "w_belle"
+ },
+ "3": {
+  "wav": "vo/wav/a914cf711013_v2.wav",
+  "dur": 1.047104,
+  "words": [
+   {
+    "w": " Three.",
+    "s": 0.0,
+    "e": 0.28
+   }
+  ],
+  "heard": "Three.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[angry] Three!",
+  "voice": "w_dusty"
+ },
+ "4": {
+  "wav": "vo/wav/99d14a197adf_v2.wav",
+  "dur": 0.854667,
+  "words": [
+   {
+    "w": " Two.",
+    "s": 0.0,
+    "e": 0.28
+   }
+  ],
+  "heard": "Two.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[shouting] TWO!",
+  "voice": "w_belle"
+ },
+ "5": {
+  "wav": "vo/wav/4290a94716de_v2.wav",
+  "dur": 5.021875,
+  "words": [
+   {
+    "w": " By",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " Friday,",
+    "s": 0.18,
+    "e": 0.66
+   },
+   {
+    "w": " lemonade",
+    "s": 1.12,
+    "e": 1.54
+   },
+   {
+    "w": " was",
+    "s": 1.54,
+    "e": 1.84
+   },
+   {
+    "w": " free,",
+    "s": 1.84,
+    "e": 2.14
+   },
+   {
+    "w": " and",
+    "s": 2.6,
+    "e": 2.92
+   },
+   {
+    "w": " both",
+    "s": 2.92,
+    "e": 3.26
+   },
+   {
+    "w": " saloons",
+    "s": 3.26,
+    "e": 3.92
+   },
+   {
+    "w": " were",
+    "s": 3.92,
+    "e": 4.46
+   },
+   {
+    "w": " broke.",
+    "s": 4.46,
+    "e": 4.74
+   }
+  ],
+  "heard": "By Friday, lemonade was free, and both saloons were broke.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] By Friday, lemonade was free... and both saloons were broke.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/36444ef08223_v2.wav",
+  "dur": 4.271688,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " Rosa",
+    "s": 0.24,
+    "e": 0.52
+   },
+   {
+    "w": " opened",
+    "s": 0.52,
+    "e": 0.96
+   },
+   {
+    "w": " across",
+    "s": 0.96,
+    "e": 1.3
+   },
+   {
+    "w": " the",
+    "s": 1.3,
+    "e": 1.54
+   },
+   {
+    "w": " street.",
+    "s": 1.54,
+    "e": 1.8
+   },
+   {
+    "w": " Her",
+    "s": 2.38,
+    "e": 2.56
+   },
+   {
+    "w": " lemonade?",
+    "s": 2.56,
+    "e": 2.9
+   },
+   {
+    "w": " Ten",
+    "s": 3.54,
+    "e": 3.7
+   },
+   {
+    "w": " cents.",
+    "s": 3.7,
+    "e": 3.9
+   }
+  ],
+  "heard": "Then Rosa opened across the street. Her lemonade? Ten cents.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] Then Rosa opened across the street. Her lemonade? Ten cents.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/989a5144be94_v2.wav",
+  "dur": 2.749146,
+  "words": [
+   {
+    "w": " Ha,",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " ten.",
+    "s": 0.76,
+    "e": 1.16
+   },
+   {
+    "w": " Who'd",
+    "s": 1.72,
+    "e": 2.02
+   },
+   {
+    "w": " pay",
+    "s": 2.02,
+    "e": 2.22
+   },
+   {
+    "w": " ten?",
+    "s": 2.22,
+    "e": 2.56
+   }
+  ],
+  "heard": "Ha, ten. Who'd pay ten?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[laughing] Ten?! Who'd pay ten?",
+  "voice": "w_dusty"
+ },
+ "8": {
+  "wav": "vo/wav/94c08be3f56b_v2.wav",
+  "dur": 5.361,
+  "words": [
+   {
+    "w": " Everyone!",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " Roses",
+    "s": 0.92,
+    "e": 1.44
+   },
+   {
+    "w": " had",
+    "s": 1.44,
+    "e": 1.66
+   },
+   {
+    "w": " shade,",
+    "s": 1.66,
+    "e": 2.02
+   },
+   {
+    "w": " a",
+    "s": 2.6,
+    "e": 2.78
+   },
+   {
+    "w": " piano,",
+    "s": 2.78,
+    "e": 3.1
+   },
+   {
+    "w": " and",
+    "s": 3.82,
+    "e": 3.92
+   },
+   {
+    "w": " ice",
+    "s": 3.92,
+    "e": 4.28
+   },
+   {
+    "w": " cold",
+    "s": 4.28,
+    "e": 4.66
+   },
+   {
+    "w": " lemonade.",
+    "s": 4.66,
+    "e": 5.06
+   }
+  ],
+  "heard": "Everyone! Roses had shade, a piano, and ice cold lemonade.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "[triumphant] Everyone. Rosa's had shade, a piano... and ice-cold lemonade.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/6c9249a03958_v2.wav",
+  "dur": 4.76525,
+  "words": [
+   {
+    "w": " Compete",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " on",
+    "s": 0.36,
+    "e": 0.46
+   },
+   {
+    "w": " price",
+    "s": 0.46,
+    "e": 0.74
+   },
+   {
+    "w": " and",
+    "s": 0.74,
+    "e": 1.36
+   },
+   {
+    "w": " you",
+    "s": 1.36,
+    "e": 1.48
+   },
+   {
+    "w": " raise",
+    "s": 1.48,
+    "e": 1.66
+   },
+   {
+    "w": " to",
+    "s": 1.66,
+    "e": 1.88
+   },
+   {
+    "w": " zero.",
+    "s": 1.88,
+    "e": 2.14
+   },
+   {
+    "w": " Compete",
+    "s": 2.62,
+    "e": 3.16
+   },
+   {
+    "w": " on",
+    "s": 3.16,
+    "e": 3.26
+   },
+   {
+    "w": " what",
+    "s": 3.26,
+    "e": 3.4
+   },
+   {
+    "w": " makes",
+    "s": 3.4,
+    "e": 3.64
+   },
+   {
+    "w": " you",
+    "s": 3.64,
+    "e": 3.98
+   },
+   {
+    "w": " different.",
+    "s": 3.98,
+    "e": 4.42
+   }
+  ],
+  "heard": "Compete on price and you raise to zero. Compete on what makes you different.",
+  "score": 0.9285714285714286,
+  "attempt": 0,
+  "tts": "Compete on price, and you race to zero. Compete on what makes you different.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/de786bd5b314_v2.wav",
+  "dur": 1.586583,
+  "words": [
+   {
+    "w": " Two",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " lemonade,",
+    "s": 0.26,
+    "e": 0.76
+   },
+   {
+    "w": " please.",
+    "s": 1.04,
+    "e": 1.26
+   }
+  ],
+  "heard": "Two lemonade, please.",
+  "score": 0.6666666666666666,
+  "attempt": 2,
+  "tts": "[sheepish, quiet] ...Two lemonades, please.",
+  "voice": "w_dusty"
+ },
+ "11": {
+  "wav": "vo/wav/70ad405fd008_v2.wav",
+  "dur": 2.504333,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " war",
+    "s": 0.3,
+    "e": 0.78
+   },
+   {
+    "w": " for",
+    "s": 0.78,
+    "e": 1.2
+   },
+   {
+    "w": " the",
+    "s": 1.2,
+    "e": 1.32
+   },
+   {
+    "w": " free",
+    "s": 1.32,
+    "e": 1.52
+   },
+   {
+    "w": " pricing",
+    "s": 1.52,
+    "e": 1.9
+   },
+   {
+    "w": " playbook.",
+    "s": 1.9,
+    "e": 2.3
+   }
+  ],
+  "heard": "Comment war for the free pricing playbook.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment WAR for the free pricing playbook.",
+  "voice": "mira_narrator"
+ }
+}

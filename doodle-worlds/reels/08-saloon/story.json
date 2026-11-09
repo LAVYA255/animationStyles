@@ -1,0 +1,93 @@
+{
+ "title": "Two saloons started a price war",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Wild West",
+ "cta": "WAR",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[storytelling] Two saloons started a price war. A third one won... without cutting a single price.",
+   "text": "Two saloons started a price war. A third one won... without cutting a single price.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_dusty",
+   "who": "DUSTY",
+   "tts": "[gruff, loud] Lemonade! Five cents!",
+   "text": "Lemonade! Five cents!",
+   "gap": 0.25
+  },
+  {
+   "voice": "w_belle",
+   "who": "BELLE",
+   "tts": "[sassy, fast] Four cents!",
+   "text": "Four cents!",
+   "gap": 0.08
+  },
+  {
+   "voice": "w_dusty",
+   "who": "DUSTY",
+   "tts": "[angry] Three!",
+   "text": "Three!",
+   "gap": 0.05
+  },
+  {
+   "voice": "w_belle",
+   "who": "BELLE",
+   "tts": "[shouting] TWO!",
+   "text": "TWO!",
+   "gap": 0.05
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] By Friday, lemonade was free... and both saloons were broke.",
+   "text": "By Friday, lemonade was free... and both saloons were broke.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] Then Rosa opened across the street. Her lemonade? Ten cents.",
+   "text": "Then Rosa opened across the street. Her lemonade? Ten cents.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_dusty",
+   "who": "DUSTY",
+   "tts": "[laughing] Ten?! Who'd pay ten?",
+   "text": "Ten?! Who'd pay ten?",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[triumphant] Everyone. Rosa's had shade, a piano... and ice-cold lemonade.",
+   "text": "Everyone. Rosa's had shade, a piano... and ice-cold lemonade.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Compete on price, and you race to zero. Compete on what makes you different.",
+   "text": "Compete on price, and you race to zero. Compete on what makes you different.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_dusty",
+   "who": "DUSTY",
+   "tts": "[sheepish, quiet] ...Two lemonades, please.",
+   "text": "...Two lemonades, please.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment WAR for the free pricing playbook.",
+   "text": "Comment WAR for the free pricing playbook.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

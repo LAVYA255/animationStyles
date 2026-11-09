@@ -1,0 +1,86 @@
+{
+ "title": "An octopus had 8 arms and still couldnt run his shop",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Coral reef",
+ "cta": "ARMS",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] This octopus had eight arms... and still couldn't keep up.",
+   "text": "This octopus had eight arms... and still couldn't keep up.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Otto ran the reef's only snack shop. Cooking, cleaning, cash, deliveries, emails, taxes... and one arm just holding his coffee.",
+   "text": "Otto ran the reef's only snack shop. Cooking, cleaning, cash, deliveries, emails, taxes... and one arm just holding his coffee.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_puffer",
+   "who": "PUFFER",
+   "tts": "[grumpy, impatient] Excuse me! I've been waiting... FOREVER!",
+   "text": "Excuse me! I've been waiting... FOREVER!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Otto was drowning. Which is hard... for an octopus.",
+   "text": "Otto was drowning. Which is hard... for an octopus.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[hushed, building] So he asked: which jobs actually need me?",
+   "text": "So he asked: which jobs actually need me?",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Only two. The secret recipe... and talking to customers.",
+   "text": "Only two. The secret recipe... and talking to customers.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[fast, triumphant] The rest? Cleaning: a crab. Deliveries: a schedule. Emails: an auto-reply.",
+   "text": "The rest? Cleaning: a crab. Deliveries: a schedule. Emails: an auto-reply.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_otto",
+   "who": "OTTO",
+   "tts": "[relieved, happy] I can finally drink my coffee... with TWO hands!",
+   "text": "I can finally drink my coffee... with TWO hands!",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Do the jobs only you can do. Delegate or automate the rest.",
+   "text": "Do the jobs only you can do. Delegate or automate the rest.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_crab",
+   "who": "CRAB",
+   "tts": "[gruff] Great. Now I want a raise.",
+   "text": "Great. Now I want a raise.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment ARMS for the free delegation checklist.",
+   "text": "Comment ARMS for the free delegation checklist.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

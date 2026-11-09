@@ -1,0 +1,717 @@
+{
+ "0": {
+  "wav": "vo/wav/6e18e643ae05_v2.wav",
+  "dur": 2.910792,
+  "words": [
+   {
+    "w": " Grandma",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " got",
+    "s": 0.26,
+    "e": 0.52
+   },
+   {
+    "w": " a",
+    "s": 0.52,
+    "e": 0.6
+   },
+   {
+    "w": " call",
+    "s": 0.6,
+    "e": 0.78
+   },
+   {
+    "w": " from",
+    "s": 0.78,
+    "e": 0.94
+   },
+   {
+    "w": " her",
+    "s": 0.94,
+    "e": 1.06
+   },
+   {
+    "w": " grandson.",
+    "s": 1.06,
+    "e": 1.38
+   },
+   {
+    "w": " It",
+    "s": 2.06,
+    "e": 2.22
+   },
+   {
+    "w": " wasn't",
+    "s": 2.22,
+    "e": 2.62
+   },
+   {
+    "w": " him.",
+    "s": 2.62,
+    "e": 2.76
+   }
+  ],
+  "heard": "Grandma got a call from her grandson. It wasn't him.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[tense] Grandma got a call from her grandson. It wasn't him.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/a151098da460_v2.wav",
+  "dur": 6.457625,
+  "words": [
+   {
+    "w": " Nani,",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " it's",
+    "s": 0.96,
+    "e": 1.2
+   },
+   {
+    "w": " me,",
+    "s": 1.2,
+    "e": 1.38
+   },
+   {
+    "w": " Arjun.",
+    "s": 1.62,
+    "e": 1.98
+   },
+   {
+    "w": " I",
+    "s": 2.6,
+    "e": 2.86
+   },
+   {
+    "w": " crashed",
+    "s": 2.86,
+    "e": 3.18
+   },
+   {
+    "w": " the",
+    "s": 3.18,
+    "e": 3.36
+   },
+   {
+    "w": " hover",
+    "s": 3.36,
+    "e": 3.56
+   },
+   {
+    "w": " car.",
+    "s": 3.56,
+    "e": 3.86
+   },
+   {
+    "w": " I",
+    "s": 4.5,
+    "e": 4.64
+   },
+   {
+    "w": " need",
+    "s": 4.64,
+    "e": 4.82
+   },
+   {
+    "w": " money",
+    "s": 4.82,
+    "e": 5.2
+   },
+   {
+    "w": " right",
+    "s": 5.2,
+    "e": 5.8
+   },
+   {
+    "w": " now.",
+    "s": 5.8,
+    "e": 6.26
+   }
+  ],
+  "heard": "Nani, it's me, Arjun. I crashed the hover car. I need money right now.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[panicked, fast] Nani! It's me, Arjun! I crashed the hover-car. I need money, right now!",
+  "voice": "w_arjun"
+ },
+ "2": {
+  "wav": "vo/wav/2efca31390e7_v2.wav",
+  "dur": 3.840042,
+  "words": [
+   {
+    "w": " Same",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " voice,",
+    "s": 0.26,
+    "e": 0.58
+   },
+   {
+    "w": " same",
+    "s": 1.14,
+    "e": 1.5
+   },
+   {
+    "w": " panic,",
+    "s": 1.5,
+    "e": 1.94
+   },
+   {
+    "w": " even",
+    "s": 2.36,
+    "e": 2.72
+   },
+   {
+    "w": " the",
+    "s": 2.72,
+    "e": 2.92
+   },
+   {
+    "w": " same",
+    "s": 2.92,
+    "e": 3.16
+   },
+   {
+    "w": " nickname.",
+    "s": 3.16,
+    "e": 3.52
+   }
+  ],
+  "heard": "Same voice, same panic, even the same nickname.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Same voice. Same panic. Even the same nickname.",
+  "voice": "mira_narrator"
+ },
+ "3": {
+  "wav": "vo/wav/af45435cdb62_v2.wav",
+  "dur": 1.891417,
+  "words": [
+   {
+    "w": " Oh,",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " beta,",
+    "s": 0.36,
+    "e": 0.6
+   },
+   {
+    "w": " how",
+    "s": 1.18,
+    "e": 1.38
+   },
+   {
+    "w": " much?",
+    "s": 1.38,
+    "e": 1.68
+   }
+  ],
+  "heard": "Oh, beta, how much?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[worried] Oh, beta! How much?",
+  "voice": "w_nani"
+ },
+ "4": {
+  "wav": "vo/wav/e2fb1de28749_v2.wav",
+  "dur": 3.440063,
+  "words": [
+   {
+    "w": " 5",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": ",000",
+    "s": 0.28,
+    "e": 0.64
+   },
+   {
+    "w": " credits",
+    "s": 0.64,
+    "e": 0.98
+   },
+   {
+    "w": " and",
+    "s": 0.98,
+    "e": 1.74
+   },
+   {
+    "w": " please",
+    "s": 1.74,
+    "e": 2.04
+   },
+   {
+    "w": " don't",
+    "s": 2.04,
+    "e": 2.9
+   },
+   {
+    "w": " tell",
+    "s": 2.9,
+    "e": 3.04
+   },
+   {
+    "w": " mom",
+    "s": 3.04,
+    "e": 3.24
+   }
+  ],
+  "heard": "5,000 credits and please don't tell mom",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[panicked] Five thousand credits. And please, don't tell Mom!",
+  "voice": "w_arjun"
+ },
+ "5": {
+  "wav": "vo/wav/e2ebc1000122_v2.wav",
+  "dur": 3.558167,
+  "words": [
+   {
+    "w": " Today,",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " a",
+    "s": 0.58,
+    "e": 0.7
+   },
+   {
+    "w": " few",
+    "s": 0.7,
+    "e": 0.88
+   },
+   {
+    "w": " seconds",
+    "s": 0.88,
+    "e": 1.16
+   },
+   {
+    "w": " of",
+    "s": 1.16,
+    "e": 1.38
+   },
+   {
+    "w": " audio",
+    "s": 1.38,
+    "e": 1.76
+   },
+   {
+    "w": " is",
+    "s": 1.76,
+    "e": 2.02
+   },
+   {
+    "w": " enough",
+    "s": 2.02,
+    "e": 2.3
+   },
+   {
+    "w": " to",
+    "s": 2.3,
+    "e": 2.48
+   },
+   {
+    "w": " clone",
+    "s": 2.48,
+    "e": 2.84
+   },
+   {
+    "w": " a",
+    "s": 2.84,
+    "e": 3.08
+   },
+   {
+    "w": " voice.",
+    "s": 3.08,
+    "e": 3.32
+   }
+  ],
+  "heard": "Today, a few seconds of audio is enough to clone a voice.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Today, a few seconds of audio is enough to clone a voice.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/b0f1f13b96ba_v2.wav",
+  "dur": 2.240063,
+  "words": [
+   {
+    "w": " But",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " Nani",
+    "s": 0.18,
+    "e": 0.64
+   },
+   {
+    "w": " had",
+    "s": 0.64,
+    "e": 1.08
+   },
+   {
+    "w": " one",
+    "s": 1.08,
+    "e": 1.48
+   },
+   {
+    "w": " rule.",
+    "s": 1.48,
+    "e": 2.12
+   }
+  ],
+  "heard": "But Nani had one rule.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "But Nani had one rule.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/2e973b508e44_v2.wav",
+  "dur": 1.663333,
+  "words": [
+   {
+    "w": " What's",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " our",
+    "s": 0.32,
+    "e": 0.44
+   },
+   {
+    "w": " family",
+    "s": 0.44,
+    "e": 0.84
+   },
+   {
+    "w": " safe",
+    "s": 0.84,
+    "e": 1.18
+   },
+   {
+    "w": " word?",
+    "s": 1.18,
+    "e": 1.52
+   }
+  ],
+  "heard": "What's our family safe word?",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[calm, sharp] What's our family safe word?",
+  "voice": "w_nani"
+ },
+ "8": {
+  "wav": "vo/wav/1bf70ae43d48_v2.wav",
+  "dur": 0.797354,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " what?",
+    "s": 0.26,
+    "e": 0.56
+   }
+  ],
+  "heard": "The what?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[confused, hesitant] ...The what?",
+  "voice": "w_arjun"
+ },
+ "9": {
+  "wav": "vo/wav/c4d77d8f714a_v2.wav",
+  "dur": 3.121833,
+  "words": [
+   {
+    "w": " Nice",
+    "s": 0.0,
+    "e": 0.82
+   },
+   {
+    "w": " try",
+    "s": 0.82,
+    "e": 1.42
+   },
+   {
+    "w": " you",
+    "s": 1.42,
+    "e": 1.74
+   },
+   {
+    "w": " damn",
+    "s": 1.74,
+    "e": 2.2
+   },
+   {
+    "w": " toaster.",
+    "s": 2.2,
+    "e": 2.88
+   }
+  ],
+  "heard": "Nice try you damn toaster.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[smug] Nice try, you damn toaster.",
+  "voice": "w_nani"
+ },
+ "10": {
+  "wav": "vo/wav/cc54f3445647_v2.wav",
+  "dur": 5.903458,
+  "words": [
+   {
+    "w": " A",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " family",
+    "s": 0.16,
+    "e": 0.58
+   },
+   {
+    "w": " safe",
+    "s": 0.58,
+    "e": 0.98
+   },
+   {
+    "w": " word.",
+    "s": 0.98,
+    "e": 1.4
+   },
+   {
+    "w": " AI",
+    "s": 1.92,
+    "e": 2.22
+   },
+   {
+    "w": " can",
+    "s": 2.22,
+    "e": 2.54
+   },
+   {
+    "w": " copy",
+    "s": 2.54,
+    "e": 2.82
+   },
+   {
+    "w": " a",
+    "s": 2.82,
+    "e": 2.98
+   },
+   {
+    "w": " voice.",
+    "s": 2.98,
+    "e": 3.32
+   },
+   {
+    "w": " It",
+    "s": 3.98,
+    "e": 4.1
+   },
+   {
+    "w": " can't",
+    "s": 4.1,
+    "e": 4.56
+   },
+   {
+    "w": " copy",
+    "s": 4.56,
+    "e": 4.9
+   },
+   {
+    "w": " a",
+    "s": 4.9,
+    "e": 5.08
+   },
+   {
+    "w": " secret.",
+    "s": 5.08,
+    "e": 5.46
+   }
+  ],
+  "heard": "A family safe word. AI can copy a voice. It can't copy a secret.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "A family safe word. AI can copy a voice. It can't copy a secret.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/19e177838c74_v2.wav",
+  "dur": 1.981688,
+  "words": [
+   {
+    "w": " Hi",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " Nani,",
+    "s": 0.22,
+    "e": 0.62
+   },
+   {
+    "w": " it's",
+    "s": 1.14,
+    "e": 1.34
+   },
+   {
+    "w": " me!",
+    "s": 1.34,
+    "e": 1.52
+   }
+  ],
+  "heard": "Hi Nani, it's me!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[cheerful] Hi Nani! It's me!",
+  "voice": "w_arjun"
+ },
+ "12": {
+  "wav": "vo/wav/884c54bbf9dc_v2.wav",
+  "dur": 1.388229,
+  "words": [
+   {
+    "w": " Safe",
+    "s": 0.0,
+    "e": 0.52
+   },
+   {
+    "w": " word!",
+    "s": 0.52,
+    "e": 1.04
+   }
+  ],
+  "heard": "Safe word!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[suspicious] Safe word.",
+  "voice": "w_nani"
+ },
+ "13": {
+  "wav": "vo/wav/b688b222f23b_v2.wav",
+  "dur": 2.467771,
+  "words": [
+   {
+    "w": " Nani,",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " I'm",
+    "s": 0.7,
+    "e": 0.8
+   },
+   {
+    "w": " standing",
+    "s": 0.8,
+    "e": 1.24
+   },
+   {
+    "w": " right",
+    "s": 1.24,
+    "e": 1.54
+   },
+   {
+    "w": " behind",
+    "s": 1.54,
+    "e": 1.96
+   },
+   {
+    "w": " you.",
+    "s": 1.96,
+    "e": 2.36
+   }
+  ],
+  "heard": "Nani, I'm standing right behind you.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[exasperated] Nani, I'm standing right behind you.",
+  "voice": "w_arjun"
+ },
+ "14": {
+  "wav": "vo/wav/48286033141b_v2.wav",
+  "dur": 3.791917,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " safe",
+    "s": 0.32,
+    "e": 0.76
+   },
+   {
+    "w": " for",
+    "s": 0.76,
+    "e": 1.18
+   },
+   {
+    "w": " the",
+    "s": 1.18,
+    "e": 1.3
+   },
+   {
+    "w": " free",
+    "s": 1.3,
+    "e": 1.62
+   },
+   {
+    "w": " scam",
+    "s": 1.62,
+    "e": 1.88
+   },
+   {
+    "w": " proof",
+    "s": 1.88,
+    "e": 2.26
+   },
+   {
+    "w": " checklist",
+    "s": 2.26,
+    "e": 2.66
+   },
+   {
+    "w": " for",
+    "s": 2.66,
+    "e": 3.02
+   },
+   {
+    "w": " your",
+    "s": 3.02,
+    "e": 3.14
+   },
+   {
+    "w": " parents.",
+    "s": 3.14,
+    "e": 3.44
+   }
+  ],
+  "heard": "Comment safe for the free scam proof checklist for your parents.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "Comment SAFE for the free scam-proof checklist for your parents.",
+  "voice": "mira_narrator"
+ }
+}

@@ -1,0 +1,1206 @@
+{
+ "0": {
+  "wav": "vo/wav/d56f0bfc7654_v2.wav",
+  "dur": 3.769104,
+  "words": [
+   {
+    "w": " In",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " 1880,",
+    "s": 0.14,
+    "e": 0.76
+   },
+   {
+    "w": " a",
+    "s": 1.0,
+    "e": 1.08
+   },
+   {
+    "w": " broke",
+    "s": 1.08,
+    "e": 1.28
+   },
+   {
+    "w": " cotton",
+    "s": 1.28,
+    "e": 1.56
+   },
+   {
+    "w": " man",
+    "s": 1.56,
+    "e": 1.8
+   },
+   {
+    "w": " beat",
+    "s": 1.8,
+    "e": 2.02
+   },
+   {
+    "w": " a",
+    "s": 2.02,
+    "e": 2.12
+   },
+   {
+    "w": " casino",
+    "s": 2.12,
+    "e": 2.44
+   },
+   {
+    "w": " without",
+    "s": 2.44,
+    "e": 2.78
+   },
+   {
+    "w": " cheating",
+    "s": 2.78,
+    "e": 3.12
+   },
+   {
+    "w": " once.",
+    "s": 3.12,
+    "e": 3.42
+   }
+  ],
+  "heard": "In 1880, a broke cotton man beat a casino without cheating once.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "In 1880, a broke cotton man beat a casino without cheating once.",
+  "voice": "w_jett"
+ },
+ "1": {
+  "wav": "vo/wav/1998bdcf162b_v2.wav",
+  "dur": 4.169104,
+  "words": [
+   {
+    "w": " Joseph",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " Jagger",
+    "s": 0.26,
+    "e": 0.72
+   },
+   {
+    "w": " works",
+    "s": 0.72,
+    "e": 0.9
+   },
+   {
+    "w": " in",
+    "s": 0.9,
+    "e": 1.06
+   },
+   {
+    "w": " the",
+    "s": 1.06,
+    "e": 1.14
+   },
+   {
+    "w": " mills",
+    "s": 1.14,
+    "e": 1.46
+   },
+   {
+    "w": " of",
+    "s": 1.46,
+    "e": 1.5
+   },
+   {
+    "w": " Yorkshire,",
+    "s": 1.5,
+    "e": 1.92
+   },
+   {
+    "w": " watching",
+    "s": 2.2,
+    "e": 2.5
+   },
+   {
+    "w": " spinning",
+    "s": 2.5,
+    "e": 2.88
+   },
+   {
+    "w": " machines",
+    "s": 2.88,
+    "e": 3.34
+   },
+   {
+    "w": " all",
+    "s": 3.34,
+    "e": 3.68
+   },
+   {
+    "w": " day.",
+    "s": 3.68,
+    "e": 3.92
+   }
+  ],
+  "heard": "Joseph Jagger works in the mills of Yorkshire, watching spinning machines all day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Joseph Jagger works in the mills of Yorkshire, watching spinning machines all day.",
+  "voice": "w_jett"
+ },
+ "2": {
+  "wav": "vo/wav/0165e88ce947_v2.wav",
+  "dur": 3.481417,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " his",
+    "s": 0.18,
+    "e": 0.32
+   },
+   {
+    "w": " business",
+    "s": 0.32,
+    "e": 0.58
+   },
+   {
+    "w": " fails.",
+    "s": 0.58,
+    "e": 0.96
+   },
+   {
+    "w": " He's",
+    "s": 1.36,
+    "e": 1.52
+   },
+   {
+    "w": " broke,",
+    "s": 1.52,
+    "e": 1.76
+   },
+   {
+    "w": " with",
+    "s": 2.14,
+    "e": 2.32
+   },
+   {
+    "w": " four",
+    "s": 2.32,
+    "e": 2.56
+   },
+   {
+    "w": " kids",
+    "s": 2.56,
+    "e": 2.86
+   },
+   {
+    "w": " to",
+    "s": 2.86,
+    "e": 3.04
+   },
+   {
+    "w": " feed.",
+    "s": 3.04,
+    "e": 3.24
+   }
+  ],
+  "heard": "Then his business fails. He's broke, with four kids to feed.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Then his business fails. He's broke, with four kids to feed.",
+  "voice": "w_jett"
+ },
+ "3": {
+  "wav": "vo/wav/9b997ff8353f_v2.wav",
+  "dur": 4.782,
+  "words": [
+   {
+    "w": " But",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " all",
+    "s": 0.16,
+    "e": 0.34
+   },
+   {
+    "w": " those",
+    "s": 0.34,
+    "e": 0.54
+   },
+   {
+    "w": " years",
+    "s": 0.54,
+    "e": 0.78
+   },
+   {
+    "w": " taught",
+    "s": 0.78,
+    "e": 1.04
+   },
+   {
+    "w": " him",
+    "s": 1.04,
+    "e": 1.24
+   },
+   {
+    "w": " one",
+    "s": 1.24,
+    "e": 1.42
+   },
+   {
+    "w": " thing.",
+    "s": 1.42,
+    "e": 1.72
+   },
+   {
+    "w": " Nothing",
+    "s": 2.32,
+    "e": 2.6
+   },
+   {
+    "w": " that",
+    "s": 2.6,
+    "e": 2.86
+   },
+   {
+    "w": " spins",
+    "s": 2.86,
+    "e": 3.18
+   },
+   {
+    "w": " is",
+    "s": 3.18,
+    "e": 3.44
+   },
+   {
+    "w": " ever",
+    "s": 3.44,
+    "e": 3.62
+   },
+   {
+    "w": " perfectly",
+    "s": 3.62,
+    "e": 4.1
+   },
+   {
+    "w": " balanced.",
+    "s": 4.1,
+    "e": 4.46
+   }
+  ],
+  "heard": "But all those years taught him one thing. Nothing that spins is ever perfectly balanced.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "But all those years taught him one thing. Nothing that spins is ever perfectly balanced.",
+  "voice": "w_jett"
+ },
+ "4": {
+  "wav": "vo/wav/b8ba181743e7_v2.wav",
+  "dur": 4.019708,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " he",
+    "s": 0.16,
+    "e": 0.3
+   },
+   {
+    "w": " borrows",
+    "s": 0.3,
+    "e": 0.68
+   },
+   {
+    "w": " money,",
+    "s": 0.68,
+    "e": 0.92
+   },
+   {
+    "w": " grabs",
+    "s": 1.36,
+    "e": 1.52
+   },
+   {
+    "w": " his",
+    "s": 1.52,
+    "e": 1.72
+   },
+   {
+    "w": " son",
+    "s": 1.72,
+    "e": 1.98
+   },
+   {
+    "w": " and",
+    "s": 1.98,
+    "e": 2.16
+   },
+   {
+    "w": " his",
+    "s": 2.16,
+    "e": 2.3
+   },
+   {
+    "w": " nephew,",
+    "s": 2.3,
+    "e": 2.56
+   },
+   {
+    "w": " and",
+    "s": 2.9,
+    "e": 2.94
+   },
+   {
+    "w": " goes",
+    "s": 2.94,
+    "e": 3.1
+   },
+   {
+    "w": " to",
+    "s": 3.1,
+    "e": 3.26
+   },
+   {
+    "w": " Monte",
+    "s": 3.26,
+    "e": 3.42
+   },
+   {
+    "w": " Carlo.",
+    "s": 3.42,
+    "e": 3.7
+   }
+  ],
+  "heard": "So he borrows money, grabs his son and his nephew, and goes to Monte Carlo.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So he borrows money, grabs his son and his nephew, and goes to Monte Carlo.",
+  "voice": "w_jett"
+ },
+ "5": {
+  "wav": "vo/wav/e6bbe35c1164_v2.wav",
+  "dur": 5.418229,
+  "words": [
+   {
+    "w": " For",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " a",
+    "s": 0.18,
+    "e": 0.3
+   },
+   {
+    "w": " month,",
+    "s": 0.3,
+    "e": 0.52
+   },
+   {
+    "w": " they",
+    "s": 0.7,
+    "e": 0.76
+   },
+   {
+    "w": " don't",
+    "s": 0.76,
+    "e": 0.94
+   },
+   {
+    "w": " bet",
+    "s": 0.94,
+    "e": 1.06
+   },
+   {
+    "w": " a",
+    "s": 1.06,
+    "e": 1.18
+   },
+   {
+    "w": " single",
+    "s": 1.18,
+    "e": 1.4
+   },
+   {
+    "w": " coin.",
+    "s": 1.4,
+    "e": 1.8
+   },
+   {
+    "w": " They",
+    "s": 2.24,
+    "e": 2.36
+   },
+   {
+    "w": " just",
+    "s": 2.36,
+    "e": 2.5
+   },
+   {
+    "w": " watch",
+    "s": 2.5,
+    "e": 2.76
+   },
+   {
+    "w": " the",
+    "s": 2.76,
+    "e": 2.94
+   },
+   {
+    "w": " roulette",
+    "s": 2.94,
+    "e": 3.28
+   },
+   {
+    "w": " wheels",
+    "s": 3.28,
+    "e": 3.56
+   },
+   {
+    "w": " and",
+    "s": 3.56,
+    "e": 3.84
+   },
+   {
+    "w": " write",
+    "s": 3.84,
+    "e": 4.04
+   },
+   {
+    "w": " down",
+    "s": 4.04,
+    "e": 4.32
+   },
+   {
+    "w": " every",
+    "s": 4.32,
+    "e": 4.7
+   },
+   {
+    "w": " number.",
+    "s": 4.7,
+    "e": 5.08
+   }
+  ],
+  "heard": "For a month, they don't bet a single coin. They just watch the roulette wheels and write down every number.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "For a month, they don't bet a single coin. They just watch the roulette wheels, and write down every number.",
+  "voice": "w_jett"
+ },
+ "6": {
+  "wav": "vo/wav/3e72ba06376b_v2.wav",
+  "dur": 4.300042,
+  "words": [
+   {
+    "w": " And",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " one",
+    "s": 0.16,
+    "e": 0.36
+   },
+   {
+    "w": " wheel",
+    "s": 0.36,
+    "e": 0.58
+   },
+   {
+    "w": " is",
+    "s": 0.58,
+    "e": 0.78
+   },
+   {
+    "w": " lazy",
+    "s": 0.78,
+    "e": 1.04
+   },
+   {
+    "w": " as",
+    "s": 1.04,
+    "e": 1.24
+   },
+   {
+    "w": " hell.",
+    "s": 1.24,
+    "e": 1.44
+   },
+   {
+    "w": " Some",
+    "s": 2.1,
+    "e": 2.26
+   },
+   {
+    "w": " numbers",
+    "s": 2.26,
+    "e": 2.54
+   },
+   {
+    "w": " come",
+    "s": 2.54,
+    "e": 2.82
+   },
+   {
+    "w": " up",
+    "s": 2.82,
+    "e": 2.94
+   },
+   {
+    "w": " way",
+    "s": 2.94,
+    "e": 3.16
+   },
+   {
+    "w": " more",
+    "s": 3.16,
+    "e": 3.4
+   },
+   {
+    "w": " than",
+    "s": 3.4,
+    "e": 3.58
+   },
+   {
+    "w": " they",
+    "s": 3.58,
+    "e": 3.74
+   },
+   {
+    "w": " should.",
+    "s": 3.74,
+    "e": 4.0
+   }
+  ],
+  "heard": "And one wheel is lazy as hell. Some numbers come up way more than they should.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "And one wheel is lazy as hell. Some numbers come up way more than they should.",
+  "voice": "w_jett"
+ },
+ "7": {
+  "wav": "vo/wav/86651b39d67a_v2.wav",
+  "dur": 4.743792,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " Jagger",
+    "s": 0.16,
+    "e": 0.54
+   },
+   {
+    "w": " starts",
+    "s": 0.54,
+    "e": 0.76
+   },
+   {
+    "w": " betting",
+    "s": 0.76,
+    "e": 1.04
+   },
+   {
+    "w": " on",
+    "s": 1.04,
+    "e": 1.24
+   },
+   {
+    "w": " that",
+    "s": 1.24,
+    "e": 1.44
+   },
+   {
+    "w": " wheel,",
+    "s": 1.44,
+    "e": 1.64
+   },
+   {
+    "w": " and",
+    "s": 2.04,
+    "e": 2.12
+   },
+   {
+    "w": " he",
+    "s": 2.12,
+    "e": 2.24
+   },
+   {
+    "w": " wins,",
+    "s": 2.24,
+    "e": 2.54
+   },
+   {
+    "w": " and",
+    "s": 2.98,
+    "e": 3.18
+   },
+   {
+    "w": " wins,",
+    "s": 3.18,
+    "e": 3.44
+   },
+   {
+    "w": " and",
+    "s": 4.08,
+    "e": 4.18
+   },
+   {
+    "w": " wins.",
+    "s": 4.18,
+    "e": 4.4
+   }
+  ],
+  "heard": "So Jagger starts betting on that wheel, and he wins, and wins, and wins.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So Jagger starts betting on that wheel. And he wins. And wins. And wins.",
+  "voice": "w_jett"
+ },
+ "8": {
+  "wav": "vo/wav/79f25c320e44_v2.wav",
+  "dur": 5.240542,
+  "words": [
+   {
+    "w": " Each",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " table",
+    "s": 0.18,
+    "e": 0.46
+   },
+   {
+    "w": " only",
+    "s": 0.46,
+    "e": 0.72
+   },
+   {
+    "w": " holds",
+    "s": 0.72,
+    "e": 0.94
+   },
+   {
+    "w": " 100",
+    "s": 0.94,
+    "e": 1.22
+   },
+   {
+    "w": ",000",
+    "s": 1.22,
+    "e": 1.6
+   },
+   {
+    "w": " francs.",
+    "s": 1.6,
+    "e": 2.26
+   },
+   {
+    "w": " He",
+    "s": 2.42,
+    "e": 2.56
+   },
+   {
+    "w": " empties",
+    "s": 2.56,
+    "e": 2.9
+   },
+   {
+    "w": " it,",
+    "s": 2.9,
+    "e": 3.02
+   },
+   {
+    "w": " and",
+    "s": 3.18,
+    "e": 3.28
+   },
+   {
+    "w": " the",
+    "s": 3.28,
+    "e": 3.38
+   },
+   {
+    "w": " game",
+    "s": 3.38,
+    "e": 3.56
+   },
+   {
+    "w": " stops",
+    "s": 3.56,
+    "e": 3.88
+   },
+   {
+    "w": " until",
+    "s": 3.88,
+    "e": 4.24
+   },
+   {
+    "w": " they",
+    "s": 4.24,
+    "e": 4.44
+   },
+   {
+    "w": " bring",
+    "s": 4.44,
+    "e": 4.64
+   },
+   {
+    "w": " more",
+    "s": 4.64,
+    "e": 4.82
+   },
+   {
+    "w": " money.",
+    "s": 4.82,
+    "e": 5.06
+   }
+  ],
+  "heard": "Each table only holds 100,000 francs. He empties it, and the game stops until they bring more money.",
+  "score": 0.95,
+  "attempt": 0,
+  "tts": "Each table only holds a hundred thousand francs. He empties it, and the game stops until they bring more money.",
+  "voice": "w_jett"
+ },
+ "9": {
+  "wav": "vo/wav/9c8d0e4c9fe2_v2.wav",
+  "dur": 6.487979,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " see?",
+    "s": 0.12,
+    "e": 0.3
+   },
+   {
+    "w": " A",
+    "s": 0.78,
+    "e": 0.94
+   },
+   {
+    "w": " roulette",
+    "s": 0.94,
+    "e": 1.3
+   },
+   {
+    "w": " wheel",
+    "s": 1.3,
+    "e": 1.48
+   },
+   {
+    "w": " is",
+    "s": 1.48,
+    "e": 1.68
+   },
+   {
+    "w": " like",
+    "s": 1.68,
+    "e": 1.84
+   },
+   {
+    "w": " a",
+    "s": 1.84,
+    "e": 1.92
+   },
+   {
+    "w": " shopping",
+    "s": 1.92,
+    "e": 2.24
+   },
+   {
+    "w": " cart",
+    "s": 2.24,
+    "e": 2.58
+   },
+   {
+    "w": " with",
+    "s": 2.58,
+    "e": 2.74
+   },
+   {
+    "w": " one",
+    "s": 2.74,
+    "e": 2.96
+   },
+   {
+    "w": " bad",
+    "s": 2.96,
+    "e": 3.22
+   },
+   {
+    "w": " wheel.",
+    "s": 3.22,
+    "e": 3.52
+   },
+   {
+    "w": " You",
+    "s": 4.02,
+    "e": 4.14
+   },
+   {
+    "w": " don't",
+    "s": 4.14,
+    "e": 4.34
+   },
+   {
+    "w": " notice",
+    "s": 4.34,
+    "e": 4.6
+   },
+   {
+    "w": " it",
+    "s": 4.6,
+    "e": 4.8
+   },
+   {
+    "w": " until",
+    "s": 4.8,
+    "e": 5.02
+   },
+   {
+    "w": " you",
+    "s": 5.02,
+    "e": 5.18
+   },
+   {
+    "w": " push",
+    "s": 5.18,
+    "e": 5.44
+   },
+   {
+    "w": " it",
+    "s": 5.44,
+    "e": 5.54
+   },
+   {
+    "w": " a",
+    "s": 5.54,
+    "e": 5.64
+   },
+   {
+    "w": " thousand",
+    "s": 5.64,
+    "e": 5.88
+   },
+   {
+    "w": " times.",
+    "s": 5.88,
+    "e": 6.26
+   }
+  ],
+  "heard": "You see? A roulette wheel is like a shopping cart with one bad wheel. You don't notice it until you push it a thousand times.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "You see, a roulette wheel is like a shopping cart with one bad wheel. You don't notice it, until you push it a thousand times.",
+  "voice": "w_jett"
+ },
+ "10": {
+  "wav": "vo/wav/adddf794e70d_v2.wav",
+  "dur": 2.400229,
+  "words": [
+   {
+    "w": " In",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " a",
+    "s": 0.12,
+    "e": 0.2
+   },
+   {
+    "w": " few",
+    "s": 0.2,
+    "e": 0.36
+   },
+   {
+    "w": " days,",
+    "s": 0.36,
+    "e": 0.6
+   },
+   {
+    "w": " he's",
+    "s": 0.72,
+    "e": 0.88
+   },
+   {
+    "w": " up",
+    "s": 0.88,
+    "e": 0.96
+   },
+   {
+    "w": " over",
+    "s": 0.96,
+    "e": 1.16
+   },
+   {
+    "w": " 2",
+    "s": 1.16,
+    "e": 1.4
+   },
+   {
+    "w": " million",
+    "s": 1.4,
+    "e": 1.68
+   },
+   {
+    "w": " francs.",
+    "s": 1.68,
+    "e": 2.26
+   }
+  ],
+  "heard": "In a few days, he's up over 2 million francs.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "In a few days, he's up over two million francs.",
+  "voice": "w_jett"
+ },
+ "11": {
+  "wav": "vo/wav/e030789c9eba_v2.wav",
+  "dur": 4.680438,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " casino",
+    "s": 0.14,
+    "e": 0.42
+   },
+   {
+    "w": " panics",
+    "s": 0.42,
+    "e": 0.9
+   },
+   {
+    "w": " and",
+    "s": 0.9,
+    "e": 1.16
+   },
+   {
+    "w": " the",
+    "s": 1.16,
+    "e": 1.26
+   },
+   {
+    "w": " wheel",
+    "s": 1.26,
+    "e": 1.42
+   },
+   {
+    "w": " makers",
+    "s": 1.42,
+    "e": 1.72
+   },
+   {
+    "w": " add",
+    "s": 1.72,
+    "e": 2.02
+   },
+   {
+    "w": " parts",
+    "s": 2.02,
+    "e": 2.28
+   },
+   {
+    "w": " that",
+    "s": 2.28,
+    "e": 2.48
+   },
+   {
+    "w": " move,",
+    "s": 2.48,
+    "e": 2.76
+   },
+   {
+    "w": " so",
+    "s": 2.96,
+    "e": 3.26
+   },
+   {
+    "w": " no",
+    "s": 3.26,
+    "e": 3.44
+   },
+   {
+    "w": " wheel",
+    "s": 3.44,
+    "e": 3.66
+   },
+   {
+    "w": " can",
+    "s": 3.66,
+    "e": 3.9
+   },
+   {
+    "w": " stay",
+    "s": 3.9,
+    "e": 4.12
+   },
+   {
+    "w": " lazy.",
+    "s": 4.12,
+    "e": 4.4
+   }
+  ],
+  "heard": "The casino panics and the wheel makers add parts that move, so no wheel can stay lazy.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The casino panics, and the wheel makers add parts that move, so no wheel can stay lazy.",
+  "voice": "w_jett"
+ },
+ "12": {
+  "wav": "vo/wav/04fb886a73d5_v2.wav",
+  "dur": 2.861833,
+  "words": [
+   {
+    "w": " But",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " it's",
+    "s": 0.18,
+    "e": 0.36
+   },
+   {
+    "w": " too",
+    "s": 0.36,
+    "e": 0.5
+   },
+   {
+    "w": " late.",
+    "s": 0.5,
+    "e": 0.76
+   },
+   {
+    "w": " Jagger",
+    "s": 1.2800000000000005,
+    "e": 1.72
+   },
+   {
+    "w": " has",
+    "s": 1.72,
+    "e": 1.86
+   },
+   {
+    "w": " already",
+    "s": 1.86,
+    "e": 2.16
+   },
+   {
+    "w": " gone",
+    "s": 2.16,
+    "e": 2.36
+   },
+   {
+    "w": " home.",
+    "s": 2.36,
+    "e": 2.62
+   }
+  ],
+  "heard": "But it's too late. Jagger has already gone home.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "But it's too late. Jagger has already gone home.",
+  "voice": "w_jett"
+ },
+ "13": {
+  "wav": "vo/wav/2424f10c2143_v2.wav",
+  "dur": 4.063188,
+  "words": [
+   {
+    "w": " Everyone",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " knows",
+    "s": 0.28,
+    "e": 0.62
+   },
+   {
+    "w": " the",
+    "s": 0.62,
+    "e": 0.8
+   },
+   {
+    "w": " house",
+    "s": 0.8,
+    "e": 0.98
+   },
+   {
+    "w": " always",
+    "s": 0.98,
+    "e": 1.26
+   },
+   {
+    "w": " wins,",
+    "s": 1.26,
+    "e": 1.6
+   },
+   {
+    "w": " so",
+    "s": 1.92,
+    "e": 2.0
+   },
+   {
+    "w": " Jagger",
+    "s": 2.0,
+    "e": 2.36
+   },
+   {
+    "w": " took",
+    "s": 2.36,
+    "e": 2.54
+   },
+   {
+    "w": " the",
+    "s": 2.54,
+    "e": 2.68
+   },
+   {
+    "w": " money",
+    "s": 2.68,
+    "e": 2.92
+   },
+   {
+    "w": " and",
+    "s": 2.92,
+    "e": 3.14
+   },
+   {
+    "w": " bought",
+    "s": 3.14,
+    "e": 3.34
+   },
+   {
+    "w": " houses.",
+    "s": 3.34,
+    "e": 3.66
+   }
+  ],
+  "heard": "Everyone knows the house always wins, so Jagger took the money and bought houses.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Everyone knows the house always wins. So Jagger took the money, and bought houses.",
+  "voice": "w_jett"
+ }
+}

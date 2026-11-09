@@ -1,0 +1,21 @@
+{
+ "title": "This smoothie stand hooked a whole island without a single ad",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Volcano island",
+ "cta": "INVITE",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[intrigued] This smoothie stand hooked a whole island. Without a single ad.", "text": "This smoothie stand hooked a whole island. Without a single ad.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "At first, Lani paid Koa to shout ads. All day.", "text": "At first, Lani paid Koa to shout ads. All day.", "gap": 0.3},
+  {"voice": "w_koa", "who": "KOA", "tts": "[booming, radio announcer] SMOOTHIES! GET YOUR SMOOTHIES!", "text": "Smoothies! Get your smoothies!", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[dry] One customer. Koa's mom.", "text": "One customer. Koa's mom.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "Then Mele tried one... and ran to get her friends.", "text": "Then Mele tried one... and ran to get her friends.", "gap": 0.25},
+  {"voice": "w_mele", "who": "MELE", "tts": "[excited] Guys! You HAVE to try this!", "text": "Guys! You have to try this!", "gap": 0.35},
+  {"voice": "w_lani", "who": "LANI", "tts": "[lightbulb, excited] Wait. Bring a friend, and you BOTH get one free!", "text": "Wait. Bring a friend, and you both get one free!", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[building, faster] One became two. Two became four. Four became the whole damn island.", "text": "One became two. Two became four. Four became the whole damn island.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "That's a referral loop. Dropbox grew from a hundred thousand to four million users in fifteen months doing this.", "text": "That's a referral loop. Dropbox grew from a hundred thousand to four million users in fifteen months doing this.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "Make customers your marketers. Reward both sides.", "text": "Make customers your marketers. Reward both sides.", "gap": 0.6},
+  {"voice": "w_koa", "who": "KOA", "tts": "[hopeful] Can I bring myself as a friend?", "text": "Can I bring myself as a friend?", "gap": 0.3},
+  {"voice": "w_lani", "who": "LANI", "tts": "[flat] No, Koa.", "text": "No, Koa.", "gap": 0.7},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment INVITE for the free referral program template.", "text": "Comment INVITE for the free referral program template.", "gap": 0.0}
+ ]
+}

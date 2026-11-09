@@ -1,0 +1,676 @@
+{
+ "0": {
+  "wav": "vo/wav/71167da165df_v2.wav",
+  "dur": 2.845063,
+  "words": [
+   {
+    "w": " Every",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " AI",
+    "s": 0.26,
+    "e": 0.56
+   },
+   {
+    "w": " agent",
+    "s": 0.56,
+    "e": 0.94
+   },
+   {
+    "w": " in",
+    "s": 0.94,
+    "e": 1.06
+   },
+   {
+    "w": " this",
+    "s": 1.06,
+    "e": 1.22
+   },
+   {
+    "w": " town",
+    "s": 1.22,
+    "e": 1.44
+   },
+   {
+    "w": " looks",
+    "s": 1.44,
+    "e": 1.68
+   },
+   {
+    "w": " exactly",
+    "s": 1.68,
+    "e": 2.12
+   },
+   {
+    "w": " the",
+    "s": 2.12,
+    "e": 2.32
+   },
+   {
+    "w": " same.",
+    "s": 2.32,
+    "e": 2.58
+   }
+  ],
+  "heard": "Every AI agent in this town looks exactly the same.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Every AI agent in this town looks exactly the same.",
+  "voice": "w_jett"
+ },
+ "1": {
+  "wav": "vo/wav/b516fe17155e_v2.wav",
+  "dur": 2.716042,
+  "words": [
+   {
+    "w": " Ask",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " the",
+    "s": 0.18,
+    "e": 0.32
+   },
+   {
+    "w": " coding",
+    "s": 0.32,
+    "e": 0.54
+   },
+   {
+    "w": " bot",
+    "s": 0.54,
+    "e": 0.74
+   },
+   {
+    "w": " for",
+    "s": 0.74,
+    "e": 0.88
+   },
+   {
+    "w": " help,",
+    "s": 0.88,
+    "e": 1.12
+   },
+   {
+    "w": " and",
+    "s": 1.32,
+    "e": 1.56
+   },
+   {
+    "w": " the",
+    "s": 1.56,
+    "e": 1.68
+   },
+   {
+    "w": " email",
+    "s": 1.68,
+    "e": 1.84
+   },
+   {
+    "w": " bot",
+    "s": 1.84,
+    "e": 2.12
+   },
+   {
+    "w": " shows",
+    "s": 2.12,
+    "e": 2.34
+   },
+   {
+    "w": " up.",
+    "s": 2.34,
+    "e": 2.58
+   }
+  ],
+  "heard": "Ask the coding bot for help, and the email bot shows up.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Ask the coding bot for help, and the email bot shows up.",
+  "voice": "w_jett"
+ },
+ "2": {
+  "wav": "vo/wav/d821805867ce_v2.wav",
+  "dur": 1.565813,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " somebody",
+    "s": 0.16,
+    "e": 0.48
+   },
+   {
+    "w": " gave",
+    "s": 0.48,
+    "e": 0.72
+   },
+   {
+    "w": " them",
+    "s": 0.72,
+    "e": 0.88
+   },
+   {
+    "w": " faces.",
+    "s": 0.88,
+    "e": 1.14
+   }
+  ],
+  "heard": "So somebody gave them faces.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So somebody gave them faces.",
+  "voice": "w_jett"
+ },
+ "3": {
+  "wav": "vo/wav/34c2313d7458_v2.wav",
+  "dur": 7.084083,
+  "words": [
+   {
+    "w": " It's",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " called",
+    "s": 0.2,
+    "e": 0.4
+   },
+   {
+    "w": " OpenBot",
+    "s": 0.4,
+    "e": 1.1
+   },
+   {
+    "w": " Avatar.",
+    "s": 1.1,
+    "e": 1.42
+   },
+   {
+    "w": " Every",
+    "s": 2.18,
+    "e": 2.52
+   },
+   {
+    "w": " face",
+    "s": 2.52,
+    "e": 2.82
+   },
+   {
+    "w": " is",
+    "s": 2.82,
+    "e": 3.06
+   },
+   {
+    "w": " one",
+    "s": 3.06,
+    "e": 3.28
+   },
+   {
+    "w": " tiny",
+    "s": 3.28,
+    "e": 3.56
+   },
+   {
+    "w": " jason",
+    "s": 3.56,
+    "e": 3.98
+   },
+   {
+    "w": " file,",
+    "s": 3.98,
+    "e": 4.26
+   },
+   {
+    "w": " a",
+    "s": 4.66,
+    "e": 4.78
+   },
+   {
+    "w": " single",
+    "s": 4.78,
+    "e": 5.02
+   },
+   {
+    "w": " shape,",
+    "s": 5.02,
+    "e": 5.34
+   },
+   {
+    "w": " plus",
+    "s": 5.72,
+    "e": 5.92
+   },
+   {
+    "w": " where",
+    "s": 5.92,
+    "e": 6.14
+   },
+   {
+    "w": " the",
+    "s": 6.14,
+    "e": 6.24
+   },
+   {
+    "w": " eyes",
+    "s": 6.24,
+    "e": 6.44
+   },
+   {
+    "w": " go.",
+    "s": 6.44,
+    "e": 6.7
+   }
+  ],
+  "heard": "It's called OpenBot Avatar. Every face is one tiny jason file, a single shape, plus where the eyes go.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "It's called Open Bot Avatar. Every face is one tiny JSON file: a single shape, plus where the eyes go.",
+  "voice": "w_jett"
+ },
+ "4": {
+  "wav": "vo/wav/aa6cd7e9146d_v2.wav",
+  "dur": 4.863167,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " renderer",
+    "s": 0.16,
+    "e": 0.6
+   },
+   {
+    "w": " does",
+    "s": 0.6,
+    "e": 0.76
+   },
+   {
+    "w": " the",
+    "s": 0.76,
+    "e": 0.92
+   },
+   {
+    "w": " rest.",
+    "s": 0.92,
+    "e": 1.26
+   },
+   {
+    "w": " It",
+    "s": 1.52,
+    "e": 1.6
+   },
+   {
+    "w": " adds",
+    "s": 1.6,
+    "e": 1.78
+   },
+   {
+    "w": " depth,",
+    "s": 1.78,
+    "e": 2.12
+   },
+   {
+    "w": " makes",
+    "s": 2.34,
+    "e": 2.52
+   },
+   {
+    "w": " them",
+    "s": 2.52,
+    "e": 2.7
+   },
+   {
+    "w": " blink,",
+    "s": 2.7,
+    "e": 2.92
+   },
+   {
+    "w": " and",
+    "s": 3.28,
+    "e": 3.4
+   },
+   {
+    "w": " their",
+    "s": 3.4,
+    "e": 3.52
+   },
+   {
+    "w": " eyes",
+    "s": 3.52,
+    "e": 3.76
+   },
+   {
+    "w": " follow",
+    "s": 3.76,
+    "e": 4.08
+   },
+   {
+    "w": " you",
+    "s": 4.08,
+    "e": 4.3
+   },
+   {
+    "w": " around.",
+    "s": 4.3,
+    "e": 4.6
+   }
+  ],
+  "heard": "The renderer does the rest. It adds depth, makes them blink, and their eyes follow you around.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The renderer does the rest. It adds depth, makes them blink, and their eyes follow you around.",
+  "voice": "w_jett"
+ },
+ "5": {
+  "wav": "vo/wav/4676c1e42e28_v2.wav",
+  "dur": 4.660917,
+  "words": [
+   {
+    "w": " They",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " even",
+    "s": 0.16,
+    "e": 0.38
+   },
+   {
+    "w": " have",
+    "s": 0.38,
+    "e": 0.58
+   },
+   {
+    "w": " moods,",
+    "s": 0.58,
+    "e": 1.18
+   },
+   {
+    "w": " thinking",
+    "s": 1.26,
+    "e": 1.48
+   },
+   {
+    "w": " while",
+    "s": 1.48,
+    "e": 1.94
+   },
+   {
+    "w": " your",
+    "s": 1.94,
+    "e": 2.08
+   },
+   {
+    "w": " agent",
+    "s": 2.08,
+    "e": 2.28
+   },
+   {
+    "w": " works,",
+    "s": 2.28,
+    "e": 2.62
+   },
+   {
+    "w": " and",
+    "s": 3.04,
+    "e": 3.32
+   },
+   {
+    "w": " happy",
+    "s": 3.32,
+    "e": 3.62
+   },
+   {
+    "w": " when",
+    "s": 3.62,
+    "e": 4.04
+   },
+   {
+    "w": " it's",
+    "s": 4.04,
+    "e": 4.24
+   },
+   {
+    "w": " done.",
+    "s": 4.24,
+    "e": 4.42
+   }
+  ],
+  "heard": "They even have moods, thinking while your agent works, and happy when it's done.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "They even have moods. Thinking, while your agent works... and happy, when it's done.",
+  "voice": "w_jett"
+ },
+ "6": {
+  "wav": "vo/wav/b953728a357f_v2.wav",
+  "dur": 4.291167,
+  "words": [
+   {
+    "w": " 22",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " ready",
+    "s": 0.4,
+    "e": 0.76
+   },
+   {
+    "w": "-made",
+    "s": 0.76,
+    "e": 0.96
+   },
+   {
+    "w": " faces,",
+    "s": 0.96,
+    "e": 1.36
+   },
+   {
+    "w": " or",
+    "s": 1.72,
+    "e": 1.8
+   },
+   {
+    "w": " describe",
+    "s": 1.8,
+    "e": 2.1
+   },
+   {
+    "w": " one,",
+    "s": 2.1,
+    "e": 2.38
+   },
+   {
+    "w": " and",
+    "s": 2.62,
+    "e": 2.7
+   },
+   {
+    "w": " any",
+    "s": 2.7,
+    "e": 2.94
+   },
+   {
+    "w": " AI",
+    "s": 2.94,
+    "e": 3.16
+   },
+   {
+    "w": " will",
+    "s": 3.16,
+    "e": 3.46
+   },
+   {
+    "w": " write",
+    "s": 3.46,
+    "e": 3.66
+   },
+   {
+    "w": " it",
+    "s": 3.66,
+    "e": 3.78
+   },
+   {
+    "w": " for",
+    "s": 3.78,
+    "e": 3.96
+   },
+   {
+    "w": " you.",
+    "s": 3.96,
+    "e": 4.12
+   }
+  ],
+  "heard": "22 ready-made faces, or describe one, and any AI will write it for you.",
+  "score": 0.875,
+  "attempt": 0,
+  "tts": "Twenty-two ready-made faces. Or describe one, and any AI will write it for you.",
+  "voice": "w_jett"
+ },
+ "7": {
+  "wav": "vo/wav/e47601e0bad3_v2.wav",
+  "dur": 4.486146,
+  "words": [
+   {
+    "w": " It's",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " free",
+    "s": 0.2,
+    "e": 0.44
+   },
+   {
+    "w": " open",
+    "s": 0.44,
+    "e": 0.72
+   },
+   {
+    "w": " source",
+    "s": 0.72,
+    "e": 1.04
+   },
+   {
+    "w": " and",
+    "s": 1.04,
+    "e": 1.3
+   },
+   {
+    "w": " MIT",
+    "s": 1.3,
+    "e": 1.64
+   },
+   {
+    "w": " licensed.",
+    "s": 1.64,
+    "e": 2.12
+   },
+   {
+    "w": " Search",
+    "s": 2.42,
+    "e": 2.78
+   },
+   {
+    "w": " OpenBot",
+    "s": 2.78,
+    "e": 3.28
+   },
+   {
+    "w": " Avatar",
+    "s": 3.28,
+    "e": 3.62
+   },
+   {
+    "w": " on",
+    "s": 3.62,
+    "e": 3.92
+   },
+   {
+    "w": " GitHub.",
+    "s": 3.92,
+    "e": 4.1
+   }
+  ],
+  "heard": "It's free open source and MIT licensed. Search OpenBot Avatar on GitHub.",
+  "score": 0.9230769230769231,
+  "attempt": 0,
+  "tts": "It's free, open source and M.I.T. licensed. Search Open Bot Avatar on GitHub.",
+  "voice": "w_jett"
+ },
+ "8": {
+  "wav": "vo/wav/b22ef5acc9e0_v2.wav",
+  "dur": 2.732521,
+  "words": [
+   {
+    "w": " Now",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " if",
+    "s": 0.16,
+    "e": 0.34
+   },
+   {
+    "w": " only",
+    "s": 0.34,
+    "e": 0.56
+   },
+   {
+    "w": " the",
+    "s": 0.56,
+    "e": 0.72
+   },
+   {
+    "w": " email",
+    "s": 0.72,
+    "e": 0.94
+   },
+   {
+    "w": " bot",
+    "s": 0.94,
+    "e": 1.24
+   },
+   {
+    "w": " would",
+    "s": 1.24,
+    "e": 1.4
+   },
+   {
+    "w": " stop",
+    "s": 1.4,
+    "e": 1.6
+   },
+   {
+    "w": " hitting",
+    "s": 1.6,
+    "e": 1.84
+   },
+   {
+    "w": " reply",
+    "s": 1.84,
+    "e": 2.16
+   },
+   {
+    "w": " all.",
+    "s": 2.16,
+    "e": 2.52
+   }
+  ],
+  "heard": "Now if only the email bot would stop hitting reply all.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Now if only the email bot would stop hitting reply-all.",
+  "voice": "w_jett"
+ }
+}

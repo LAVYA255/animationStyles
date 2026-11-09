@@ -1,0 +1,600 @@
+{
+ "0": {
+  "wav": "vo/wav/623783220d8b_v2.wav",
+  "dur": 5.316896,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " broken",
+    "s": 0.3,
+    "e": 0.62
+   },
+   {
+    "w": " spaceship,",
+    "s": 0.62,
+    "e": 1.16
+   },
+   {
+    "w": " three",
+    "s": 1.78,
+    "e": 1.98
+   },
+   {
+    "w": " astronauts.",
+    "s": 1.98,
+    "e": 2.56
+   },
+   {
+    "w": " Here's",
+    "s": 3.24,
+    "e": 3.66
+   },
+   {
+    "w": " how",
+    "s": 3.66,
+    "e": 3.78
+   },
+   {
+    "w": " different",
+    "s": 3.78,
+    "e": 4.1
+   },
+   {
+    "w": " IQs",
+    "s": 4.1,
+    "e": 4.7
+   },
+   {
+    "w": " fix",
+    "s": 4.7,
+    "e": 4.9
+   },
+   {
+    "w": " it.",
+    "s": 4.9,
+    "e": 5.1
+   }
+  ],
+  "heard": "One broken spaceship, three astronauts. Here's how different IQs fix it.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] One broken spaceship. Three astronauts. Here's how different IQs fix it.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/50b07b4982f1_v2.wav",
+  "dur": 1.622688,
+  "words": [
+   {
+    "w": " Low",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " IQ.",
+    "s": 0.26,
+    "e": 0.66
+   }
+  ],
+  "heard": "Low IQ.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan] Low IQ.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/b8bd8fb7343e_v2.wav",
+  "dur": 2.274333,
+  "words": [
+   {
+    "w": " Fix!",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " Fix!",
+    "s": 0.58,
+    "e": 0.9
+   },
+   {
+    "w": " Fiiiix!",
+    "s": 1.36,
+    "e": 2.0
+   }
+  ],
+  "heard": "Fix! Fix! Fiiiix!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[confident, shouting] Fix! Fix! FIX!",
+  "voice": "w_bo"
+ },
+ "3": {
+  "wav": "vo/wav/474ffe407a53_v2.wav",
+  "dur": 2.224208,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " ship",
+    "s": 0.12,
+    "e": 0.4
+   },
+   {
+    "w": " is",
+    "s": 0.4,
+    "e": 0.64
+   },
+   {
+    "w": " now",
+    "s": 0.64,
+    "e": 0.9
+   },
+   {
+    "w": " more",
+    "s": 0.9,
+    "e": 1.42
+   },
+   {
+    "w": " broken.",
+    "s": 1.42,
+    "e": 1.9
+   }
+  ],
+  "heard": "The ship is now more broken.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] The ship is now more broken.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/497ad8f485fc_v2.wav",
+  "dur": 1.547292,
+  "words": [
+   {
+    "w": " medium",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " IQ.",
+    "s": 0.38,
+    "e": 0.74
+   }
+  ],
+  "heard": "medium IQ.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan] Medium IQ.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/69711ec94e8c_v2.wav",
+  "dur": 5.23,
+  "words": [
+   {
+    "w": " Manual,",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " page",
+    "s": 0.74,
+    "e": 0.92
+   },
+   {
+    "w": " one",
+    "s": 0.92,
+    "e": 1.26
+   },
+   {
+    "w": " of",
+    "s": 1.26,
+    "e": 1.42
+   },
+   {
+    "w": " 900,",
+    "s": 1.42,
+    "e": 2.06
+   },
+   {
+    "w": " chapter",
+    "s": 2.42,
+    "e": 2.72
+   },
+   {
+    "w": " one.",
+    "s": 2.72,
+    "e": 3.2
+   },
+   {
+    "w": " What",
+    "s": 3.68,
+    "e": 3.94
+   },
+   {
+    "w": " is",
+    "s": 3.94,
+    "e": 4.36
+   },
+   {
+    "w": " a",
+    "s": 4.36,
+    "e": 4.48
+   },
+   {
+    "w": " spaceship?",
+    "s": 4.48,
+    "e": 4.82
+   }
+  ],
+  "heard": "Manual, page one of 900, chapter one. What is a spaceship?",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[studious, fast] Manual, page one of nine hundred. Chapter one: what is a spaceship.",
+  "voice": "w_gwen"
+ },
+ "6": {
+  "wav": "vo/wav/12ef8235f739_v2.wav",
+  "dur": 2.293813,
+  "words": [
+   {
+    "w": " Oxygen",
+    "s": 0.0,
+    "e": 0.46
+   },
+   {
+    "w": " left,",
+    "s": 0.46,
+    "e": 0.76
+   },
+   {
+    "w": " four",
+    "s": 1.22,
+    "e": 1.62
+   },
+   {
+    "w": " minutes.",
+    "s": 1.62,
+    "e": 1.94
+   }
+  ],
+  "heard": "Oxygen left, four minutes.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[tense] Oxygen left: four minutes.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/ca40219fc60c_v2.wav",
+  "dur": 1.781313,
+  "words": [
+   {
+    "w": " Hi",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " IQ.",
+    "s": 0.34,
+    "e": 0.76
+   }
+  ],
+  "heard": "Hi IQ.",
+  "score": 0.5,
+  "attempt": 2,
+  "tts": "[deadpan] High IQ.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/61e2b944b53c_v2.wav",
+  "dur": 9.6315,
+  "words": [
+   {
+    "w": " Okay,",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " duck.",
+    "s": 0.56,
+    "e": 0.78
+   },
+   {
+    "w": " Line",
+    "s": 1.58,
+    "e": 1.74
+   },
+   {
+    "w": " one",
+    "s": 1.74,
+    "e": 2.12
+   },
+   {
+    "w": " reads",
+    "s": 2.12,
+    "e": 2.62
+   },
+   {
+    "w": " the",
+    "s": 2.62,
+    "e": 2.88
+   },
+   {
+    "w": " fuel.",
+    "s": 2.88,
+    "e": 3.26
+   },
+   {
+    "w": " Line",
+    "s": 3.82,
+    "e": 4.16
+   },
+   {
+    "w": " two",
+    "s": 4.16,
+    "e": 4.58
+   },
+   {
+    "w": " adds",
+    "s": 4.58,
+    "e": 5.1
+   },
+   {
+    "w": " the",
+    "s": 5.1,
+    "e": 5.34
+   },
+   {
+    "w": " speed.",
+    "s": 5.34,
+    "e": 5.66
+   },
+   {
+    "w": " Line",
+    "s": 6.28,
+    "e": 6.64
+   },
+   {
+    "w": " three,",
+    "s": 6.64,
+    "e": 7.04
+   },
+   {
+    "w": " wait,",
+    "s": 7.7,
+    "e": 7.94
+   },
+   {
+    "w": " that's",
+    "s": 8.52,
+    "e": 8.88
+   },
+   {
+    "w": " a",
+    "s": 8.88,
+    "e": 8.94
+   },
+   {
+    "w": " minus.",
+    "s": 8.94,
+    "e": 9.24
+   }
+  ],
+  "heard": "Okay, duck. Line one reads the fuel. Line two adds the speed. Line three, wait, that's a minus.",
+  "score": 1.0,
+  "attempt": 2,
+  "tts": "[calm] Okay, duck. Line one reads the fuel. Line two adds the speed. Line three... wait. That's a minus.",
+  "voice": "w_juno"
+ },
+ "9": {
+  "wav": "vo/wav/0b8171604478_v2.wav",
+  "dur": 4.080063,
+  "words": [
+   {
+    "w": " Saying",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " it",
+    "s": 0.32,
+    "e": 0.5
+   },
+   {
+    "w": " out",
+    "s": 0.5,
+    "e": 0.6
+   },
+   {
+    "w": " loud,",
+    "s": 0.6,
+    "e": 0.98
+   },
+   {
+    "w": " line",
+    "s": 1.3,
+    "e": 1.54
+   },
+   {
+    "w": " by",
+    "s": 1.54,
+    "e": 1.78
+   },
+   {
+    "w": " line,",
+    "s": 1.78,
+    "e": 2.2
+   },
+   {
+    "w": " meet",
+    "s": 2.36,
+    "e": 2.52
+   },
+   {
+    "w": " the",
+    "s": 2.52,
+    "e": 2.68
+   },
+   {
+    "w": " bug",
+    "s": 2.68,
+    "e": 2.9
+   },
+   {
+    "w": " jump",
+    "s": 2.9,
+    "e": 3.18
+   },
+   {
+    "w": " right",
+    "s": 3.18,
+    "e": 3.58
+   },
+   {
+    "w": " out!",
+    "s": 3.58,
+    "e": 3.86
+   }
+  ],
+  "heard": "Saying it out loud, line by line, meet the bug jump right out!",
+  "score": 0.9230769230769231,
+  "attempt": 0,
+  "tts": "[building] Saying it out loud, line by line, made the bug jump right out.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/2a3bbd83d1aa_v2.wav",
+  "dur": 3.693167,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " rubber",
+    "s": 0.42,
+    "e": 0.64
+   },
+   {
+    "w": " duct",
+    "s": 0.64,
+    "e": 0.92
+   },
+   {
+    "w": " debugging.",
+    "s": 0.92,
+    "e": 1.26
+   },
+   {
+    "w": " Real",
+    "s": 1.8,
+    "e": 2.0
+   },
+   {
+    "w": " engineers",
+    "s": 2.0,
+    "e": 2.44
+   },
+   {
+    "w": " really",
+    "s": 2.44,
+    "e": 3.0
+   },
+   {
+    "w": " do",
+    "s": 3.0,
+    "e": 3.28
+   },
+   {
+    "w": " this.",
+    "s": 3.28,
+    "e": 3.46
+   }
+  ],
+  "heard": "That's rubber duct debugging. Real engineers really do this.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "[warm] That's rubber duck debugging. Real engineers really do this.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/90b88f70b0b3_v2.wav",
+  "dur": 1.905813,
+  "words": [
+   {
+    "w": " My",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " turn.",
+    "s": 0.26,
+    "e": 0.6
+   },
+   {
+    "w": " Fix.",
+    "s": 1.06,
+    "e": 1.44
+   }
+  ],
+  "heard": "My turn. Fix.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[proud] My turn! FIX!",
+  "voice": "w_bo"
+ },
+ "12": {
+  "wav": "vo/wav/4f1cf1b3952d_v2.wav",
+  "dur": 2.432,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " debug",
+    "s": 0.28,
+    "e": 0.64
+   },
+   {
+    "w": " for",
+    "s": 0.64,
+    "e": 0.98
+   },
+   {
+    "w": " the",
+    "s": 0.98,
+    "e": 1.08
+   },
+   {
+    "w": " free",
+    "s": 1.08,
+    "e": 1.34
+   },
+   {
+    "w": " debugging",
+    "s": 1.34,
+    "e": 1.74
+   },
+   {
+    "w": " checklist.",
+    "s": 1.74,
+    "e": 2.04
+   }
+  ],
+  "heard": "Comment debug for the free debugging checklist.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment DEBUG for the free debugging checklist.",
+  "voice": "mira_narrator"
+ }
+}

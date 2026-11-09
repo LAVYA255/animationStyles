@@ -1,0 +1,278 @@
+{
+ "2": {
+  "title": "Comical",
+  "tags": [
+   "comedy",
+   "funny",
+   "playful",
+   "quirky"
+  ],
+  "dur": 114.4,
+  "bpm": 143.6,
+  "drops": [
+   1.161,
+   42.028,
+   95.991
+  ]
+ },
+ "5": {
+  "title": "Feeling Happy",
+  "tags": [
+   "comedy",
+   "funny",
+   "happy",
+   "ukulele"
+  ],
+  "dur": 147.9,
+  "bpm": 161.5,
+  "drops": []
+ },
+ "6": {
+  "title": "Fun and Games",
+  "tags": [
+   "comedy",
+   "funny",
+   "quirky"
+  ],
+  "dur": 138.6,
+  "bpm": 99.4,
+  "drops": [
+   72.934
+  ]
+ },
+ "9": {
+  "title": "Kidding Around",
+  "tags": [
+   "comedy",
+   "funny",
+   "quirky"
+  ],
+  "dur": 107.0,
+  "bpm": 172.3,
+  "drops": [
+   75.883
+  ]
+ },
+ "12": {
+  "title": "Playground Fun",
+  "tags": [
+   "happy",
+   "ukulele"
+  ],
+  "dur": 181.8,
+  "bpm": 129.2,
+  "drops": [
+   15.72,
+   103.863
+  ]
+ },
+ "15": {
+  "title": "Keep Smiling",
+  "tags": [
+   "comedy",
+   "funny",
+   "playful",
+   "quirky"
+  ],
+  "dur": 106.2,
+  "bpm": 172.3,
+  "drops": [
+   42.493,
+   76.742
+  ]
+ },
+ "24": {
+  "title": "Smooth Like Jazz",
+  "tags": [
+   "comedy",
+   "funny"
+  ],
+  "dur": 158.3,
+  "bpm": 80.8,
+  "drops": [
+   97.547
+  ]
+ },
+ "41": {
+  "title": "?",
+  "tags": [],
+  "dur": 120.0,
+  "bpm": 112.3,
+  "drops": [
+   100.937
+  ]
+ },
+ "64": {
+  "dur": 106.125,
+  "bpm": 117.45,
+  "drops": [
+   49.667,
+   72.655
+  ]
+ },
+ "274": {
+  "title": "Reggaetton",
+  "tags": [
+   "comedy",
+   "quirky"
+  ],
+  "dur": 108.0,
+  "bpm": 117.5,
+  "drops": [
+   21.873,
+   79.226,
+   85.705
+  ]
+ },
+ "460": {
+  "title": "Arab Nights",
+  "tags": [
+   "quirky"
+  ],
+  "dur": 104.9,
+  "bpm": 80.8,
+  "drops": [
+   50.294
+  ]
+ },
+ "543": {
+  "title": "?",
+  "tags": [],
+  "dur": 99.4,
+  "bpm": 129.2,
+  "drops": [
+   40.147
+  ]
+ },
+ "595": {
+  "title": "Secret Garden",
+  "tags": [
+   "comedy",
+   "funny",
+   "playful",
+   "quirky"
+  ],
+  "dur": 153.0,
+  "bpm": 99.4,
+  "drops": [
+   45.65,
+   88.84,
+   117.632
+  ]
+ },
+ "647": {
+  "title": "Fun Jazz",
+  "tags": [
+   "comedy",
+   "funny"
+  ],
+  "dur": 140.6,
+  "bpm": 136.0,
+  "drops": [
+   15.929,
+   70.798
+  ]
+ },
+ "680": {
+  "title": "?",
+  "tags": [],
+  "dur": 102.4,
+  "bpm": 152.0,
+  "drops": [
+   50.039
+  ]
+ },
+ "686": {
+  "title": "?",
+  "tags": [],
+  "dur": 102.6,
+  "bpm": 143.6,
+  "drops": [
+   79.9
+  ]
+ },
+ "729": {
+  "dur": 96.888,
+  "bpm": 107.67,
+  "drops": [
+   5.039
+  ]
+ },
+ "764": {
+  "title": "Lo-Fi 02",
+  "tags": [
+   "quirky"
+  ],
+  "dur": 98.2,
+  "bpm": 83.3,
+  "drops": [
+   22.756
+  ]
+ },
+ "780": {
+  "title": "Okay",
+  "tags": [
+   "comedy",
+   "funny",
+   "happy",
+   "playful"
+  ],
+  "dur": 120.4,
+  "bpm": 152.0,
+  "drops": [
+   30.047
+  ]
+ },
+ "1063": {
+  "title": "Fun at the Farm",
+  "tags": [
+   "happy"
+  ],
+  "dur": 105.5,
+  "bpm": 161.5,
+  "drops": [
+   5.666,
+   12.399,
+   53.661
+  ]
+ },
+ "1072": {
+  "title": "Owies Ukulele",
+  "tags": [
+   "happy",
+   "playful",
+   "ukulele"
+  ],
+  "dur": 159.5,
+  "bpm": 152.0,
+  "drops": [
+   42.632,
+   49.041,
+   100.241
+  ]
+ },
+ "1076": {
+  "title": "Smile",
+  "tags": [
+   "happy",
+   "ukulele"
+  ],
+  "dur": 96.6,
+  "bpm": 152.0,
+  "drops": [
+   44.559
+  ]
+ },
+ "1254": {
+  "title": "Party Robot",
+  "tags": [
+   "quirky"
+  ],
+  "dur": 163.5,
+  "bpm": 152.0,
+  "drops": [
+   7.639,
+   91.626
+  ]
+ }
+}

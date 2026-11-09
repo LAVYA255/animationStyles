@@ -1,0 +1,693 @@
+{
+ "dur": 50.79,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.4,
+   "end": 4.436,
+   "text": "This smoothie stand hooked a whole island. Without a single ad.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.4,
+     0.82,
+     "This"
+    ],
+    [
+     0.82,
+     1.2,
+     "moody"
+    ],
+    [
+     1.2,
+     1.5,
+     "stand"
+    ],
+    [
+     1.5,
+     1.8,
+     "hooked"
+    ],
+    [
+     1.8,
+     1.98,
+     "a"
+    ],
+    [
+     1.98,
+     2.3,
+     "whole"
+    ],
+    [
+     2.3,
+     2.82,
+     "island,"
+    ],
+    [
+     3.2,
+     3.6,
+     "without"
+    ],
+    [
+     3.6,
+     3.8,
+     "a"
+    ],
+    [
+     3.8,
+     4.02,
+     "single"
+    ],
+    [
+     4.02,
+     4.32,
+     "ad."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 4.736,
+   "end": 9.251,
+   "text": "At first, Lani paid Koa to shout ads. All day.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     4.736,
+     4.896,
+     "At"
+    ],
+    [
+     4.896,
+     5.276,
+     "first,"
+    ],
+    [
+     5.636,
+     6.056,
+     "Lonnie"
+    ],
+    [
+     6.056,
+     6.256,
+     "paid"
+    ],
+    [
+     6.256,
+     6.556,
+     "Koa"
+    ],
+    [
+     6.556,
+     6.716,
+     "to"
+    ],
+    [
+     6.716,
+     6.996,
+     "shout"
+    ],
+    [
+     6.996,
+     7.516,
+     "ads."
+    ],
+    [
+     8.036,
+     8.536,
+     "All"
+    ],
+    [
+     8.536,
+     9.096,
+     "day."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "KOA",
+   "voice": "w_koa",
+   "start": 9.601,
+   "end": 12.036,
+   "text": "Smoothies! Get your smoothies!",
+   "file": "line_02.wav",
+   "words": [
+    [
+     9.601,
+     10.381,
+     "Smoothies!"
+    ],
+    [
+     10.681,
+     10.821,
+     "Get"
+    ],
+    [
+     10.821,
+     11.061,
+     "your"
+    ],
+    [
+     11.061,
+     11.741,
+     "smoothies!"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 12.486,
+   "end": 15.013,
+   "text": "One customer. Koa's mom.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     12.486,
+     12.886,
+     "One"
+    ],
+    [
+     12.886,
+     13.566,
+     "customer."
+    ],
+    [
+     14.126,
+     14.686,
+     "Coa's"
+    ],
+    [
+     14.686,
+     14.886,
+     "mom."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 15.263,
+   "end": 18.435,
+   "text": "Then Mele tried one... and ran to get her friends.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     15.263,
+     15.503,
+     "then"
+    ],
+    [
+     15.503,
+     15.843,
+     "Mellie"
+    ],
+    [
+     15.843,
+     16.083,
+     "tried"
+    ],
+    [
+     16.083,
+     16.343,
+     "one"
+    ],
+    [
+     16.343,
+     17.103,
+     "and"
+    ],
+    [
+     17.103,
+     17.383,
+     "ran"
+    ],
+    [
+     17.383,
+     17.583,
+     "to"
+    ],
+    [
+     17.583,
+     17.743,
+     "get"
+    ],
+    [
+     17.743,
+     17.903,
+     "her"
+    ],
+    [
+     17.903,
+     18.163,
+     "friends."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "MELE",
+   "voice": "w_mele",
+   "start": 18.785,
+   "end": 21.005,
+   "text": "Guys! You have to try this!",
+   "file": "line_05.wav",
+   "words": [
+    [
+     18.785,
+     19.145,
+     "Guys,"
+    ],
+    [
+     19.445,
+     19.725,
+     "you"
+    ],
+    [
+     19.725,
+     20.105,
+     "have"
+    ],
+    [
+     20.105,
+     20.325,
+     "to"
+    ],
+    [
+     20.325,
+     20.565,
+     "try"
+    ],
+    [
+     20.565,
+     20.805,
+     "this!"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "LANI",
+   "voice": "w_lani",
+   "start": 21.355,
+   "end": 25.62,
+   "text": "Wait. Bring a friend, and you both get one free!",
+   "file": "line_06.wav",
+   "words": [
+    [
+     21.355,
+     21.675,
+     "Wait!"
+    ],
+    [
+     22.275,
+     22.595,
+     "Bring"
+    ],
+    [
+     22.595,
+     22.795,
+     "a"
+    ],
+    [
+     22.795,
+     23.115,
+     "friend"
+    ],
+    [
+     23.115,
+     23.415,
+     "and"
+    ],
+    [
+     23.415,
+     23.575,
+     "you"
+    ],
+    [
+     23.575,
+     23.995,
+     "both"
+    ],
+    [
+     23.995,
+     24.355,
+     "get"
+    ],
+    [
+     24.355,
+     24.595,
+     "one"
+    ],
+    [
+     24.595,
+     24.895,
+     "free!"
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 26.02,
+   "end": 30.223,
+   "text": "One became two. Two became four. Four became the whole damn island.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     26.02,
+     26.22,
+     "One"
+    ],
+    [
+     26.22,
+     26.46,
+     "became"
+    ],
+    [
+     26.46,
+     26.74,
+     "two,"
+    ],
+    [
+     27.04,
+     27.22,
+     "two"
+    ],
+    [
+     27.22,
+     27.5,
+     "became"
+    ],
+    [
+     27.5,
+     27.84,
+     "four,"
+    ],
+    [
+     28.04,
+     28.3,
+     "four"
+    ],
+    [
+     28.3,
+     28.58,
+     "became"
+    ],
+    [
+     28.58,
+     28.8,
+     "the"
+    ],
+    [
+     28.8,
+     29.22,
+     "whole"
+    ],
+    [
+     29.22,
+     29.64,
+     "damn"
+    ],
+    [
+     29.64,
+     30.02,
+     "island."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 30.573,
+   "end": 37.555,
+   "text": "That's a referral loop. Dropbox grew from a hundred thousand to four million users in fifteen months doing this.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     30.573,
+     31.073,
+     "That's"
+    ],
+    [
+     31.073,
+     31.253,
+     "a"
+    ],
+    [
+     31.253,
+     31.533,
+     "referral"
+    ],
+    [
+     31.533,
+     31.913,
+     "loop."
+    ],
+    [
+     32.333,
+     32.873,
+     "Jopbox"
+    ],
+    [
+     32.873,
+     33.153,
+     "grew"
+    ],
+    [
+     33.153,
+     33.353,
+     "from"
+    ],
+    [
+     33.353,
+     33.753,
+     "100"
+    ],
+    [
+     33.753,
+     34.233,
+     ",000"
+    ],
+    [
+     34.233,
+     34.353,
+     "to"
+    ],
+    [
+     34.353,
+     34.713,
+     "4"
+    ],
+    [
+     34.713,
+     35.013,
+     "million"
+    ],
+    [
+     35.013,
+     35.433,
+     "users"
+    ],
+    [
+     35.433,
+     35.693,
+     "in"
+    ],
+    [
+     35.693,
+     36.153,
+     "15"
+    ],
+    [
+     36.153,
+     36.653,
+     "months"
+    ],
+    [
+     36.653,
+     37.133,
+     "doing"
+    ],
+    [
+     37.133,
+     37.393,
+     "this."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 38.155,
+   "end": 41.577,
+   "text": "Make customers your marketers. Reward both sides.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     38.155,
+     38.335,
+     "Make"
+    ],
+    [
+     38.335,
+     38.835,
+     "customers"
+    ],
+    [
+     38.835,
+     39.175,
+     "your"
+    ],
+    [
+     39.175,
+     39.615,
+     "marketers."
+    ],
+    [
+     40.195,
+     40.635,
+     "Reward"
+    ],
+    [
+     40.635,
+     40.915,
+     "both"
+    ],
+    [
+     40.915,
+     41.235,
+     "sides."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "KOA",
+   "voice": "w_koa",
+   "start": 41.877,
+   "end": 43.909,
+   "text": "Can I bring myself as a friend?",
+   "file": "line_10.wav",
+   "words": [
+    [
+     41.877,
+     42.037,
+     "Can"
+    ],
+    [
+     42.037,
+     42.217,
+     "I"
+    ],
+    [
+     42.217,
+     42.557,
+     "bring"
+    ],
+    [
+     42.557,
+     43.037,
+     "myself"
+    ],
+    [
+     43.037,
+     43.337,
+     "as"
+    ],
+    [
+     43.337,
+     43.437,
+     "a"
+    ],
+    [
+     43.437,
+     43.697,
+     "friend?"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "LANI",
+   "voice": "w_lani",
+   "start": 44.609,
+   "end": 46.347,
+   "text": "No, Koa.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     44.609,
+     45.089,
+     "No,"
+    ],
+    [
+     45.209,
+     45.629,
+     "Kua."
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 46.347,
+   "end": 49.192,
+   "text": "Comment INVITE for the free referral program template.",
+   "file": "line_12.wav",
+   "words": [
+    [
+     46.347,
+     46.647,
+     "Comment,"
+    ],
+    [
+     46.807,
+     47.107,
+     "invite"
+    ],
+    [
+     47.107,
+     47.387,
+     "for"
+    ],
+    [
+     47.387,
+     47.507,
+     "the"
+    ],
+    [
+     47.507,
+     47.747,
+     "free"
+    ],
+    [
+     47.747,
+     48.087,
+     "referral"
+    ],
+    [
+     48.087,
+     48.487,
+     "program"
+    ],
+    [
+     48.487,
+     48.867,
+     "template."
+    ]
+   ]
+  }
+ ]
+}

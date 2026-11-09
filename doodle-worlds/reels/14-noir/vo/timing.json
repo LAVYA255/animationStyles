@@ -1,0 +1,644 @@
+{
+ "dur": 55.51,
+ "lines": [
+  {
+   "i": 0,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 0.45,
+   "end": 4.601,
+   "text": "Customers were vanishing from this shop. Without a trace.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     1.19,
+     "Customers"
+    ],
+    [
+     1.19,
+     1.35,
+     "were"
+    ],
+    [
+     1.35,
+     1.93,
+     "vanishing"
+    ],
+    [
+     1.93,
+     2.21,
+     "from"
+    ],
+    [
+     2.21,
+     2.45,
+     "this"
+    ],
+    [
+     2.45,
+     2.85,
+     "shop"
+    ],
+    [
+     2.85,
+     3.63,
+     "without"
+    ],
+    [
+     3.63,
+     3.87,
+     "a"
+    ],
+    [
+     3.87,
+     4.19,
+     "trace."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "BENNY",
+   "voice": "w_benny",
+   "start": 5.001,
+   "end": 9.33,
+   "text": "They walk in, they fill the damn cart... and then they're gone!",
+   "file": "line_01.wav",
+   "words": [
+    [
+     5.001,
+     5.141,
+     "They"
+    ],
+    [
+     5.141,
+     5.481,
+     "walk"
+    ],
+    [
+     5.481,
+     5.841,
+     "in,"
+    ],
+    [
+     6.261,
+     6.361,
+     "they"
+    ],
+    [
+     6.361,
+     6.721,
+     "fill"
+    ],
+    [
+     6.721,
+     6.921,
+     "the"
+    ],
+    [
+     6.921,
+     7.121,
+     "damn"
+    ],
+    [
+     7.121,
+     7.521,
+     "cart,"
+    ],
+    [
+     7.901,
+     8.221,
+     "and"
+    ],
+    [
+     8.221,
+     8.441,
+     "then"
+    ],
+    [
+     8.441,
+     8.721,
+     "they're"
+    ],
+    [
+     8.721,
+     9.021,
+     "gone!"
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 9.68,
+   "end": 15.209,
+   "text": "So I followed one. The shop: fine. The cart: fine.",
+   "file": "line_02.wav",
+   "words": [
+    [
+     9.68,
+     9.96,
+     "So"
+    ],
+    [
+     9.96,
+     10.12,
+     "I"
+    ],
+    [
+     10.12,
+     10.44,
+     "followed"
+    ],
+    [
+     10.44,
+     10.78,
+     "one."
+    ],
+    [
+     11.44,
+     11.54,
+     "The"
+    ],
+    [
+     11.54,
+     11.9,
+     "shop,"
+    ],
+    [
+     12.42,
+     12.86,
+     "fine."
+    ],
+    [
+     13.54,
+     13.64,
+     "The"
+    ],
+    [
+     13.64,
+     13.94,
+     "cart,"
+    ],
+    [
+     14.6,
+     14.94,
+     "fine."
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 15.559,
+   "end": 18.919,
+   "text": "Then: create an account. Confirm your email.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     15.559,
+     15.979,
+     "Then"
+    ],
+    [
+     15.979,
+     16.599,
+     "create"
+    ],
+    [
+     16.599,
+     16.799,
+     "an"
+    ],
+    [
+     16.799,
+     17.099,
+     "account."
+    ],
+    [
+     17.619,
+     18.219,
+     "Confirm"
+    ],
+    [
+     18.219,
+     18.339,
+     "your"
+    ],
+    [
+     18.339,
+     18.619,
+     "email."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 19.219,
+   "end": 22.678,
+   "text": "And then... confirm your password.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     19.219,
+     19.479,
+     "and"
+    ],
+    [
+     19.479,
+     19.939,
+     "then"
+    ],
+    [
+     19.939,
+     21.159,
+     "confirm"
+    ],
+    [
+     21.159,
+     21.799,
+     "your"
+    ],
+    [
+     21.799,
+     22.259,
+     "password."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "SHOPPER",
+   "voice": "w_zoe",
+   "start": 23.178,
+   "end": 26.178,
+   "text": "Screw this. I'm out.",
+   "file": "line_05.wav",
+   "words": [
+    [
+     23.178,
+     23.658,
+     "Screw"
+    ],
+    [
+     23.658,
+     24.018,
+     "this."
+    ],
+    [
+     24.758,
+     25.178,
+     "I'm"
+    ],
+    [
+     25.178,
+     25.378,
+     "out."
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 26.578,
+   "end": 28.729,
+   "text": "There it was. The killer.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     26.578,
+     26.778,
+     "There"
+    ],
+    [
+     26.778,
+     26.898,
+     "it"
+    ],
+    [
+     26.898,
+     27.178,
+     "was,"
+    ],
+    [
+     27.978,
+     28.158,
+     "the"
+    ],
+    [
+     28.158,
+     28.418,
+     "killer."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 29.079,
+   "end": 33.639,
+   "text": "Forced sign-ups alone scare off about one in five shoppers.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     29.079,
+     29.559,
+     "Forced"
+    ],
+    [
+     29.559,
+     29.879,
+     "sign"
+    ],
+    [
+     29.879,
+     30.079,
+     "-ups"
+    ],
+    [
+     30.079,
+     30.459,
+     "alone"
+    ],
+    [
+     30.459,
+     31.079,
+     "scare"
+    ],
+    [
+     31.079,
+     31.379,
+     "off"
+    ],
+    [
+     31.379,
+     31.639,
+     "about"
+    ],
+    [
+     31.639,
+     32.079,
+     "one"
+    ],
+    [
+     32.079,
+     32.399,
+     "in"
+    ],
+    [
+     32.399,
+     32.799,
+     "five"
+    ],
+    [
+     32.799,
+     33.439,
+     "shoppers."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 34.039,
+   "end": 38.897,
+   "text": "Every extra step is a leak. Find it. Cut it.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     34.039,
+     34.399,
+     "Every"
+    ],
+    [
+     34.399,
+     34.919,
+     "extra"
+    ],
+    [
+     34.919,
+     35.419,
+     "step"
+    ],
+    [
+     35.419,
+     35.999,
+     "is"
+    ],
+    [
+     35.999,
+     36.139,
+     "a"
+    ],
+    [
+     36.139,
+     36.439,
+     "leak."
+    ],
+    [
+     37.059,
+     37.459,
+     "Find"
+    ],
+    [
+     37.459,
+     37.779,
+     "it."
+    ],
+    [
+     38.359,
+     38.559,
+     "Cut"
+    ],
+    [
+     38.559,
+     38.739,
+     "it."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "BENNY",
+   "voice": "w_benny",
+   "start": 39.197,
+   "end": 42.009,
+   "text": "So... a guest checkout?",
+   "file": "line_09.wav",
+   "words": [
+    [
+     39.197,
+     39.697,
+     "So,"
+    ],
+    [
+     40.477,
+     40.557,
+     "a"
+    ],
+    [
+     40.557,
+     40.937,
+     "guess"
+    ],
+    [
+     40.937,
+     41.257,
+     "check"
+    ],
+    [
+     41.257,
+     41.537,
+     "out?"
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 42.609,
+   "end": 44.432,
+   "text": "Case closed.",
+   "file": "line_10.wav",
+   "words": [
+    [
+     42.609,
+     42.949,
+     "Case"
+    ],
+    [
+     42.949,
+     43.569,
+     "closed."
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "BENNY",
+   "voice": "w_benny",
+   "start": 44.732,
+   "end": 47.291,
+   "text": "Detective, how do I pay you?",
+   "file": "line_11.wav",
+   "words": [
+    [
+     44.732,
+     45.272,
+     "Detective,"
+    ],
+    [
+     45.892,
+     46.112,
+     "how"
+    ],
+    [
+     46.112,
+     46.252,
+     "do"
+    ],
+    [
+     46.252,
+     46.412,
+     "I"
+    ],
+    [
+     46.412,
+     46.712,
+     "pay"
+    ],
+    [
+     46.712,
+     47.052,
+     "you?"
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 47.991,
+   "end": 50.395,
+   "text": "First... create an account.",
+   "file": "line_12.wav",
+   "words": [
+    [
+     47.991,
+     48.371,
+     "First,"
+    ],
+    [
+     49.311,
+     49.551,
+     "create"
+    ],
+    [
+     49.551,
+     49.771,
+     "an"
+    ],
+    [
+     49.771,
+     50.051,
+     "account."
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "who": "VERA",
+   "voice": "w_vera",
+   "start": 50.395,
+   "end": 53.915,
+   "text": "Comment FUNNEL for the free leak checklist.",
+   "file": "line_13.wav",
+   "words": [
+    [
+     50.395,
+     50.775,
+     "comment"
+    ],
+    [
+     50.775,
+     51.395,
+     "funnel"
+    ],
+    [
+     51.395,
+     52.035,
+     "for"
+    ],
+    [
+     52.035,
+     52.175,
+     "the"
+    ],
+    [
+     52.175,
+     52.575,
+     "free"
+    ],
+    [
+     52.575,
+     53.075,
+     "leak"
+    ],
+    [
+     53.075,
+     53.515,
+     "checklist."
+    ]
+   ]
+  }
+ ]
+}

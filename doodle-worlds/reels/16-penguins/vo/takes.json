@@ -1,0 +1,655 @@
+{
+ "0": {
+  "wav": "vo/wav/8fcf11fd0ec0_v2.wav",
+  "dur": 3.014771,
+  "words": [
+   {
+    "w": " She",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " tried",
+    "s": 0.18,
+    "e": 0.52
+   },
+   {
+    "w": " to",
+    "s": 0.52,
+    "e": 0.76
+   },
+   {
+    "w": " sell",
+    "s": 0.76,
+    "e": 0.92
+   },
+   {
+    "w": " ice",
+    "s": 0.92,
+    "e": 1.5
+   },
+   {
+    "w": " to",
+    "s": 1.5,
+    "e": 2.28
+   },
+   {
+    "w": " penguins.",
+    "s": 2.28,
+    "e": 2.82
+   }
+  ],
+  "heard": "She tried to sell ice to penguins.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] She tried to sell ice... to penguins.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/90a84c5dc8ed_v2.wav",
+  "dur": 4.136917,
+  "words": [
+   {
+    "w": " Fresh",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " ice,",
+    "s": 0.34,
+    "e": 0.84
+   },
+   {
+    "w": " artisanal",
+    "s": 1.22,
+    "e": 1.8
+   },
+   {
+    "w": " ice,",
+    "s": 1.8,
+    "e": 2.1
+   },
+   {
+    "w": " ice",
+    "s": 2.54,
+    "e": 2.82
+   },
+   {
+    "w": " with",
+    "s": 2.82,
+    "e": 3.04
+   },
+   {
+    "w": " a",
+    "s": 3.04,
+    "e": 3.18
+   },
+   {
+    "w": " tiny",
+    "s": 3.18,
+    "e": 3.4
+   },
+   {
+    "w": " umbrella.",
+    "s": 3.4,
+    "e": 3.74
+   }
+  ],
+  "heard": "Fresh ice, artisanal ice, ice with a tiny umbrella.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[excited, salesy] Fresh ice! Artisanal ice! Ice with a tiny umbrella!",
+  "voice": "w_pemmy"
+ },
+ "2": {
+  "wav": "vo/wav/0f1332fde836_v2.wav",
+  "dur": 3.431271,
+  "words": [
+   {
+    "w": " Lady,",
+    "s": 0.0,
+    "e": 0.44
+   },
+   {
+    "w": " I'm",
+    "s": 1.14,
+    "e": 1.34
+   },
+   {
+    "w": " standing",
+    "s": 1.34,
+    "e": 1.74
+   },
+   {
+    "w": " on",
+    "s": 1.74,
+    "e": 2.04
+   },
+   {
+    "w": " your",
+    "s": 2.04,
+    "e": 2.24
+   },
+   {
+    "w": " damn",
+    "s": 2.24,
+    "e": 2.56
+   },
+   {
+    "w": " product.",
+    "s": 2.56,
+    "e": 3.12
+   }
+  ],
+  "heard": "Lady, I'm standing on your damn product.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[grumpy, flat] Lady. I'm standing on your damn product.",
+  "voice": "w_grump"
+ },
+ "3": {
+  "wav": "vo/wav/cf638cd8ec4e_v2.wav",
+  "dur": 6.559958,
+  "words": [
+   {
+    "w": " zero",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " sales.",
+    "s": 0.34,
+    "e": 0.7
+   },
+   {
+    "w": " So",
+    "s": 1.34,
+    "e": 1.54
+   },
+   {
+    "w": " she",
+    "s": 1.54,
+    "e": 1.7
+   },
+   {
+    "w": " made",
+    "s": 1.7,
+    "e": 1.9
+   },
+   {
+    "w": " it",
+    "s": 1.9,
+    "e": 2.0
+   },
+   {
+    "w": " fancier.",
+    "s": 2.0,
+    "e": 2.48
+   },
+   {
+    "w": " Ice",
+    "s": 2.98,
+    "e": 3.24
+   },
+   {
+    "w": " sculptures,",
+    "s": 3.24,
+    "e": 3.62
+   },
+   {
+    "w": " premium",
+    "s": 4.2,
+    "e": 4.62
+   },
+   {
+    "w": " ice,",
+    "s": 4.62,
+    "e": 4.96
+   },
+   {
+    "w": " ice",
+    "s": 5.48,
+    "e": 5.7
+   },
+   {
+    "w": " subscriptions.",
+    "s": 5.7,
+    "e": 6.14
+   }
+  ],
+  "heard": "zero sales. So she made it fancier. Ice sculptures, premium ice, ice subscriptions.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Zero sales. So she made it fancier. Ice sculptures. Premium ice. Ice subscriptions.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/5793cf4f3469_v2.wav",
+  "dur": 1.112896,
+  "words": [
+   {
+    "w": " Still",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " zero.",
+    "s": 0.36,
+    "e": 0.68
+   }
+  ],
+  "heard": "Still zero.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] Still zero.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/cda230028116_v2.wav",
+  "dur": 4.368292,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " Pemi",
+    "s": 0.3,
+    "e": 0.62
+   },
+   {
+    "w": " tried",
+    "s": 0.62,
+    "e": 0.86
+   },
+   {
+    "w": " something",
+    "s": 0.86,
+    "e": 1.18
+   },
+   {
+    "w": " radical.",
+    "s": 1.18,
+    "e": 1.68
+   },
+   {
+    "w": " She",
+    "s": 2.3,
+    "e": 2.54
+   },
+   {
+    "w": " asked",
+    "s": 2.54,
+    "e": 2.84
+   },
+   {
+    "w": " what",
+    "s": 2.84,
+    "e": 3.02
+   },
+   {
+    "w": " their",
+    "s": 3.02,
+    "e": 3.12
+   },
+   {
+    "w": " biggest",
+    "s": 3.12,
+    "e": 3.42
+   },
+   {
+    "w": " problem",
+    "s": 3.42,
+    "e": 3.88
+   },
+   {
+    "w": " was.",
+    "s": 3.88,
+    "e": 4.16
+   }
+  ],
+  "heard": "Then Pemi tried something radical. She asked what their biggest problem was.",
+  "score": 0.9166666666666666,
+  "attempt": 0,
+  "tts": "Then Pemmy tried something radical. She asked what their biggest problem was.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/b8c1823bfe15_v2.wav",
+  "dur": 5.848083,
+  "words": [
+   {
+    "w": " My",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " feet",
+    "s": 0.4,
+    "e": 0.82
+   },
+   {
+    "w": " are",
+    "s": 0.82,
+    "e": 1.06
+   },
+   {
+    "w": " freezing.",
+    "s": 1.06,
+    "e": 1.7
+   },
+   {
+    "w": " Every.",
+    "s": 2.4,
+    "e": 3.12
+   },
+   {
+    "w": " Single.",
+    "s": 3.58,
+    "e": 4.36
+   },
+   {
+    "w": " Day.",
+    "s": 5.12,
+    "e": 5.48
+   }
+  ],
+  "heard": "My feet are freezing. Every. Single. Day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[grumpy] My feet are freezing. Every. Single. Day.",
+  "voice": "w_grump"
+ },
+ "7": {
+  "wav": "vo/wav/790938ead4d7_v2.wav",
+  "dur": 4.240042,
+  "words": [
+   {
+    "w": " Every",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " penguin",
+    "s": 0.3,
+    "e": 0.6
+   },
+   {
+    "w": " said",
+    "s": 0.6,
+    "e": 0.84
+   },
+   {
+    "w": " the",
+    "s": 0.84,
+    "e": 1.0
+   },
+   {
+    "w": " same",
+    "s": 1.0,
+    "e": 1.18
+   },
+   {
+    "w": " thing.",
+    "s": 1.18,
+    "e": 1.44
+   },
+   {
+    "w": " So",
+    "s": 2.02,
+    "e": 2.34
+   },
+   {
+    "w": " she",
+    "s": 2.34,
+    "e": 2.72
+   },
+   {
+    "w": " sold",
+    "s": 2.72,
+    "e": 2.96
+   },
+   {
+    "w": " tiny",
+    "s": 2.96,
+    "e": 3.3
+   },
+   {
+    "w": " wool",
+    "s": 3.3,
+    "e": 3.64
+   },
+   {
+    "w": " socks.",
+    "s": 3.64,
+    "e": 3.9
+   }
+  ],
+  "heard": "Every penguin said the same thing. So she sold tiny wool socks.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Every penguin said the same thing. So she sold tiny wool socks.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/befa06a0b6f4_v2.wav",
+  "dur": 1.920063,
+  "words": [
+   {
+    "w": " Sold",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " out",
+    "s": 0.32,
+    "e": 0.6
+   },
+   {
+    "w": " in",
+    "s": 0.6,
+    "e": 0.94
+   },
+   {
+    "w": " one",
+    "s": 0.94,
+    "e": 1.3
+   },
+   {
+    "w": " day!",
+    "s": 1.3,
+    "e": 1.7
+   }
+  ],
+  "heard": "Sold out in one day!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[triumphant] Sold out in one day.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/9c9ec7d1efc6_v2.wav",
+  "dur": 4.577292,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " customer",
+    "s": 0.3,
+    "e": 0.64
+   },
+   {
+    "w": " discovery.",
+    "s": 0.64,
+    "e": 1.08
+   },
+   {
+    "w": " Don't",
+    "s": 1.64,
+    "e": 2.08
+   },
+   {
+    "w": " pitch",
+    "s": 2.08,
+    "e": 2.2
+   },
+   {
+    "w": " your",
+    "s": 2.2,
+    "e": 2.44
+   },
+   {
+    "w": " idea.",
+    "s": 2.44,
+    "e": 2.7
+   },
+   {
+    "w": " Ask",
+    "s": 3.16,
+    "e": 3.5
+   },
+   {
+    "w": " about",
+    "s": 3.5,
+    "e": 3.78
+   },
+   {
+    "w": " their",
+    "s": 3.78,
+    "e": 3.98
+   },
+   {
+    "w": " problem.",
+    "s": 3.98,
+    "e": 4.38
+   }
+  ],
+  "heard": "That's customer discovery. Don't pitch your idea. Ask about their problem.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's customer discovery. Don't pitch your idea. Ask about their problem.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/37f220922f07_v2.wav",
+  "dur": 2.652813,
+  "words": [
+   {
+    "w": " Okay,",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " next",
+    "s": 0.54,
+    "e": 0.74
+   },
+   {
+    "w": " product,",
+    "s": 0.74,
+    "e": 1.2
+   },
+   {
+    "w": " ice!",
+    "s": 1.98,
+    "e": 2.24
+   }
+  ],
+  "heard": "Okay, next product, ice!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[excited] Okay! Next product... ice!",
+  "voice": "w_pemmy"
+ },
+ "11": {
+  "wav": "vo/wav/dfb9395b35ff_v2.wav",
+  "dur": 2.673563,
+  "words": [
+   {
+    "w": " Ugh,",
+    "s": 0.0,
+    "e": 0.54
+   },
+   {
+    "w": " oh",
+    "s": 0.96,
+    "e": 1.28
+   },
+   {
+    "w": " for",
+    "s": 1.28,
+    "e": 1.48
+   },
+   {
+    "w": " God's",
+    "s": 1.48,
+    "e": 2.14
+   },
+   {
+    "w": " sake.",
+    "s": 2.14,
+    "e": 2.44
+   }
+  ],
+  "heard": "Ugh, oh for God's sake.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[exasperated groan] Oh, for God's sake.",
+  "voice": "w_grump"
+ },
+ "12": {
+  "wav": "vo/wav/bcc65852cfd8_v2.wav",
+  "dur": 2.960063,
+  "words": [
+   {
+    "w": " comment",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " ask",
+    "s": 0.36,
+    "e": 0.9
+   },
+   {
+    "w": " for",
+    "s": 0.9,
+    "e": 1.18
+   },
+   {
+    "w": " the",
+    "s": 1.18,
+    "e": 1.28
+   },
+   {
+    "w": " free",
+    "s": 1.28,
+    "e": 1.56
+   },
+   {
+    "w": " customer",
+    "s": 1.56,
+    "e": 1.94
+   },
+   {
+    "w": " interview",
+    "s": 1.94,
+    "e": 2.48
+   },
+   {
+    "w": " script.",
+    "s": 2.48,
+    "e": 2.74
+   }
+  ],
+  "heard": "comment ask for the free customer interview script.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment ASK for the free customer interview script.",
+  "voice": "mira_narrator"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "Bricolage Grotesque": {
+  "id": "bricolage-grotesque",
+  "files": [
+   "bricolage-grotesque-500-normal.woff2",
+   "bricolage-grotesque-500-normal.ttf",
+   "bricolage-grotesque-700-normal.woff2",
+   "bricolage-grotesque-700-normal.ttf",
+   "bricolage-grotesque-800-normal.woff2",
+   "bricolage-grotesque-800-normal.ttf"
+  ],
+  "license": "OFL-1.1",
+  "category": "sans-serif",
+  "version": "v9"
+ },
+ "JetBrains Mono": {
+  "id": "jetbrains-mono",
+  "files": [
+   "jetbrains-mono-500-normal.woff2",
+   "jetbrains-mono-500-normal.ttf",
+   "jetbrains-mono-700-normal.woff2",
+   "jetbrains-mono-700-normal.ttf"
+  ],
+  "license": "OFL-1.1",
+  "category": "monospace",
+  "version": "v24"
+ }
+}

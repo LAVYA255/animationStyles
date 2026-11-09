@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "s": 0.08,
+  "e": 3.86,
+  "text": "ChatGPT has no idea what it's about to say. Not even the next word."
+ },
+ {
+  "i": 1,
+  "s": 4.06,
+  "e": 8.195,
+  "text": "Every time it answers you, it plays one tiny game, over and over."
+ },
+ {
+  "i": 2,
+  "s": 8.315,
+  "e": 12.909,
+  "text": "It reads everything so far, and asks one question. What word probably comes next?"
+ },
+ {
+  "i": 3,
+  "s": 13.109,
+  "e": 20.12,
+  "text": "Say you typed, the cat sat on the... Mat gets a big slice of the wheel. Sofa gets a smaller one. Moon gets a tiny sliver."
+ },
+ {
+  "i": 4,
+  "s": 20.24,
+  "e": 28.22,
+  "text": "Then it spins. Picks one word. Sticks it on the end. And spins again. For every single word."
+ },
+ {
+  "i": 5,
+  "s": 28.57,
+  "e": 34.917,
+  "text": "You see, it's like a gambler who's watched a billion games. He can't see the future, but he's scary good at betting on it."
+ },
+ {
+  "i": 6,
+  "s": 35.037,
+  "e": 39.498,
+  "text": "That's why the same question can get a different answer. The wheel just landed somewhere else."
+ },
+ {
+  "i": 7,
+  "s": 39.848,
+  "e": 44.237,
+  "text": "So next time AI sounds super sure of itself, remember. It's just on a hot streak."
+ }
+]

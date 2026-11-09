@@ -1,0 +1,610 @@
+{
+ "0": {
+  "wav": "vo/wav/56da592058c3_v2.wav",
+  "dur": 4.69825,
+  "words": [
+   {
+    "w": " Three",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " pirates,",
+    "s": 0.42,
+    "e": 0.94
+   },
+   {
+    "w": " one",
+    "s": 1.48,
+    "e": 1.78
+   },
+   {
+    "w": " pile",
+    "s": 1.78,
+    "e": 2.1
+   },
+   {
+    "w": " of",
+    "s": 2.1,
+    "e": 2.24
+   },
+   {
+    "w": " gold.",
+    "s": 2.24,
+    "e": 2.52
+   },
+   {
+    "w": " Here's",
+    "s": 3.04,
+    "e": 3.42
+   },
+   {
+    "w": " how",
+    "s": 3.42,
+    "e": 3.54
+   },
+   {
+    "w": " different",
+    "s": 3.54,
+    "e": 3.8
+   },
+   {
+    "w": " IQs",
+    "s": 3.8,
+    "e": 4.3
+   },
+   {
+    "w": " split",
+    "s": 4.3,
+    "e": 4.54
+   },
+   {
+    "w": " it.",
+    "s": 4.54,
+    "e": 4.66
+   }
+  ],
+  "heard": "Three pirates, one pile of gold. Here's how different IQs split it.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] Three pirates. One pile of gold. Here's how different IQs split it.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/50b07b4982f1_v2.wav",
+  "dur": 0.98425,
+  "words": [
+   {
+    "w": " Low",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " IQ.",
+    "s": 0.26,
+    "e": 0.62
+   }
+  ],
+  "heard": "Low IQ.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan] Low IQ.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/cfab3515e2bc_v2.wav",
+  "dur": 2.400063,
+  "words": [
+   {
+    "w": " Mine!",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " All",
+    "s": 1.04,
+    "e": 1.48
+   },
+   {
+    "w": " mine!",
+    "s": 1.48,
+    "e": 1.94
+   }
+  ],
+  "heard": "Mine! All mine!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[greedy, shouting] MINE! ALL MINE!",
+  "voice": "w_gus"
+ },
+ "3": {
+  "wav": "vo/wav/9800314254e7_v2.wav",
+  "dur": 2.45325,
+  "words": [
+   {
+    "w": " Now",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " nobody",
+    "s": 0.18,
+    "e": 0.54
+   },
+   {
+    "w": " has",
+    "s": 0.54,
+    "e": 0.8
+   },
+   {
+    "w": " gold",
+    "s": 0.8,
+    "e": 1.18
+   },
+   {
+    "w": " or",
+    "s": 1.18,
+    "e": 1.92
+   },
+   {
+    "w": " teeth.",
+    "s": 1.92,
+    "e": 2.18
+   }
+  ],
+  "heard": "Now nobody has gold or teeth.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] Now nobody has gold. Or teeth.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/497ad8f485fc_v2.wav",
+  "dur": 1.739146,
+  "words": [
+   {
+    "w": " Medium",
+    "s": 0.0,
+    "e": 0.54
+   },
+   {
+    "w": " IQ.",
+    "s": 0.54,
+    "e": 0.96
+   }
+  ],
+  "heard": "Medium IQ.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan] Medium IQ.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/c5f13bae094d_v2.wav",
+  "dur": 4.127021,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " for",
+    "s": 0.2,
+    "e": 0.42
+   },
+   {
+    "w": " you,",
+    "s": 0.42,
+    "e": 0.68
+   },
+   {
+    "w": " one",
+    "s": 1.42,
+    "e": 1.56
+   },
+   {
+    "w": " for",
+    "s": 1.56,
+    "e": 1.78
+   },
+   {
+    "w": " me,",
+    "s": 1.78,
+    "e": 1.98
+   },
+   {
+    "w": " one",
+    "s": 2.56,
+    "e": 2.84
+   },
+   {
+    "w": " for",
+    "s": 2.84,
+    "e": 3.06
+   },
+   {
+    "w": " you.",
+    "s": 3.06,
+    "e": 3.32
+   }
+  ],
+  "heard": "One for you, one for me, one for you.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[slow, counting] One for you... one for me... one for you...",
+  "voice": "w_fen"
+ },
+ "6": {
+  "wav": "vo/wav/44d13565d2ee_v2.wav",
+  "dur": 2.204354,
+  "words": [
+   {
+    "w": " Three",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " days",
+    "s": 0.18,
+    "e": 0.4
+   },
+   {
+    "w": " later,",
+    "s": 0.4,
+    "e": 0.76
+   },
+   {
+    "w": " still",
+    "s": 1.4,
+    "e": 1.68
+   },
+   {
+    "w": " counting.",
+    "s": 1.68,
+    "e": 1.98
+   }
+  ],
+  "heard": "Three days later, still counting.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] Three days later. Still counting.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/ca40219fc60c_v2.wav",
+  "dur": 1.241625,
+  "words": [
+   {
+    "w": " Hi",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " IQ.",
+    "s": 0.42,
+    "e": 0.9
+   }
+  ],
+  "heard": "Hi IQ.",
+  "score": 0.5,
+  "attempt": 2,
+  "tts": "[deadpan] High IQ.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/630dab18738b_v2.wav",
+  "dur": 3.327271,
+  "words": [
+   {
+    "w": " I'll",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " split",
+    "s": 0.22,
+    "e": 0.54
+   },
+   {
+    "w": " it",
+    "s": 0.54,
+    "e": 0.76
+   },
+   {
+    "w": " into",
+    "s": 0.76,
+    "e": 0.94
+   },
+   {
+    "w": " two",
+    "s": 0.94,
+    "e": 1.26
+   },
+   {
+    "w": " piles.",
+    "s": 1.26,
+    "e": 1.7
+   },
+   {
+    "w": " You",
+    "s": 2.38,
+    "e": 2.58
+   },
+   {
+    "w": " pick",
+    "s": 2.58,
+    "e": 2.78
+   },
+   {
+    "w": " first.",
+    "s": 2.78,
+    "e": 3.12
+   }
+  ],
+  "heard": "I'll split it into two piles. You pick first.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[calm, clever] I'll split it into two piles. You pick first.",
+  "voice": "w_ada"
+ },
+ "9": {
+  "wav": "vo/wav/b2ec5d8b0e84_v2.wav",
+  "dur": 4.31175,
+  "words": [
+   {
+    "w": " Now",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " her",
+    "s": 0.2,
+    "e": 0.46
+   },
+   {
+    "w": " split",
+    "s": 0.46,
+    "e": 0.76
+   },
+   {
+    "w": " has",
+    "s": 0.76,
+    "e": 1.0
+   },
+   {
+    "w": " to",
+    "s": 1.0,
+    "e": 1.16
+   },
+   {
+    "w": " be",
+    "s": 1.16,
+    "e": 1.26
+   },
+   {
+    "w": " perfectly",
+    "s": 1.26,
+    "e": 1.8
+   },
+   {
+    "w": " fair.",
+    "s": 1.8,
+    "e": 2.2
+   },
+   {
+    "w": " Because",
+    "s": 2.62,
+    "e": 3.02
+   },
+   {
+    "w": " he'll",
+    "s": 3.02,
+    "e": 3.36
+   },
+   {
+    "w": " grab",
+    "s": 3.36,
+    "e": 3.54
+   },
+   {
+    "w": " the",
+    "s": 3.54,
+    "e": 3.7
+   },
+   {
+    "w": " bigger",
+    "s": 3.7,
+    "e": 3.86
+   },
+   {
+    "w": " pile.",
+    "s": 3.86,
+    "e": 4.16
+   }
+  ],
+  "heard": "Now her split has to be perfectly fair. Because he'll grab the bigger pile.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building] Now her split has to be perfectly fair... because he'll grab the bigger pile.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/407433324fa3_v2.wav",
+  "dur": 7.429313,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.46
+   },
+   {
+    "w": " I",
+    "s": 0.46,
+    "e": 0.78
+   },
+   {
+    "w": " cut.",
+    "s": 0.78,
+    "e": 1.06
+   },
+   {
+    "w": " You",
+    "s": 1.6,
+    "e": 1.7
+   },
+   {
+    "w": " choose.",
+    "s": 1.7,
+    "e": 1.94
+   },
+   {
+    "w": " The",
+    "s": 2.62,
+    "e": 2.78
+   },
+   {
+    "w": " fairest",
+    "s": 2.78,
+    "e": 3.24
+   },
+   {
+    "w": " way",
+    "s": 3.24,
+    "e": 3.4
+   },
+   {
+    "w": " to",
+    "s": 3.4,
+    "e": 3.52
+   },
+   {
+    "w": " split",
+    "s": 3.52,
+    "e": 3.76
+   },
+   {
+    "w": " anything.",
+    "s": 3.76,
+    "e": 4.2
+   },
+   {
+    "w": " Treasure,",
+    "s": 4.54,
+    "e": 4.96
+   },
+   {
+    "w": " chores,",
+    "s": 5.32,
+    "e": 5.66
+   },
+   {
+    "w": " even",
+    "s": 6.46,
+    "e": 6.7
+   },
+   {
+    "w": " a",
+    "s": 6.7,
+    "e": 6.84
+   },
+   {
+    "w": " business.",
+    "s": 6.84,
+    "e": 7.08
+   }
+  ],
+  "heard": "That's I cut. You choose. The fairest way to split anything. Treasure, chores, even a business.",
+  "score": 0.8823529411764706,
+  "attempt": 0,
+  "tts": "That's 'I cut, you choose.' The fairest way to split anything: treasure, chores... even a business.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/eabdca48d944_v2.wav",
+  "dur": 2.754188,
+  "words": [
+   {
+    "w": " And",
+    "s": 0.0,
+    "e": 1.04
+   },
+   {
+    "w": " one",
+    "s": 1.04,
+    "e": 1.5
+   },
+   {
+    "w": " for",
+    "s": 1.5,
+    "e": 1.8
+   },
+   {
+    "w": " the",
+    "s": 1.8,
+    "e": 1.94
+   },
+   {
+    "w": " parrot.",
+    "s": 1.94,
+    "e": 2.4
+   }
+  ],
+  "heard": "And one for the parrot.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[squawking, cheeky] And one for the PARROT!",
+  "voice": "w_parrot"
+ },
+ "12": {
+  "wav": "vo/wav/11f071103fbe_v2.wav",
+  "dur": 2.720063,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " Split",
+    "s": 0.36,
+    "e": 0.82
+   },
+   {
+    "w": " for",
+    "s": 0.82,
+    "e": 1.24
+   },
+   {
+    "w": " the",
+    "s": 1.24,
+    "e": 1.38
+   },
+   {
+    "w": " free",
+    "s": 1.38,
+    "e": 1.7
+   },
+   {
+    "w": " fair",
+    "s": 1.7,
+    "e": 1.96
+   },
+   {
+    "w": " split",
+    "s": 1.96,
+    "e": 2.22
+   },
+   {
+    "w": " guide.",
+    "s": 2.22,
+    "e": 2.54
+   }
+  ],
+  "heard": "Comment Split for the free fair split guide.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment SPLIT for the free fair-split guide.",
+  "voice": "mira_narrator"
+ }
+}

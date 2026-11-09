@@ -1,0 +1,12 @@
+{
+ "Permanent Marker": {
+  "id": "permanent-marker",
+  "files": [
+   "permanent-marker-400-normal.woff2",
+   "permanent-marker-400-normal.ttf"
+  ],
+  "license": "Apache-2.0",
+  "category": "handwriting",
+  "version": "v16"
+ }
+}

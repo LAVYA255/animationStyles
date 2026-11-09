@@ -1,0 +1,599 @@
+{
+ "0": {
+  "wav": "vo/wav/e16a8704a5fa_v2.wav",
+  "dur": 4.836771,
+  "words": [
+   {
+    "w": " Why",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " does",
+    "s": 0.26,
+    "e": 0.54
+   },
+   {
+    "w": " everything",
+    "s": 0.54,
+    "e": 1.12
+   },
+   {
+    "w": " cost",
+    "s": 1.12,
+    "e": 1.64
+   },
+   {
+    "w": " 99?",
+    "s": 1.64,
+    "e": 2.42
+   },
+   {
+    "w": " Squirrels",
+    "s": 3.28,
+    "e": 3.82
+   },
+   {
+    "w": " figured",
+    "s": 3.82,
+    "e": 4.02
+   },
+   {
+    "w": " it",
+    "s": 4.02,
+    "e": 4.22
+   },
+   {
+    "w": " out",
+    "s": 4.22,
+    "e": 4.34
+   },
+   {
+    "w": " first.",
+    "s": 4.34,
+    "e": 4.56
+   }
+  ],
+  "heard": "Why does everything cost 99? Squirrels figured it out first.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[curious] Why does everything cost ninety-nine? Squirrels figured it out first.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/5f6ab03442a0_v2.wav",
+  "dur": 3.650729,
+  "words": [
+   {
+    "w": " Hazel",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " sold",
+    "s": 0.4,
+    "e": 0.68
+   },
+   {
+    "w": " acorns",
+    "s": 0.68,
+    "e": 1.14
+   },
+   {
+    "w": " for",
+    "s": 1.14,
+    "e": 1.32
+   },
+   {
+    "w": " a",
+    "s": 1.32,
+    "e": 1.48
+   },
+   {
+    "w": " hundred,",
+    "s": 1.48,
+    "e": 1.74
+   },
+   {
+    "w": " and",
+    "s": 2.42,
+    "e": 2.64
+   },
+   {
+    "w": " nobody",
+    "s": 2.64,
+    "e": 3.12
+   },
+   {
+    "w": " bought.",
+    "s": 3.12,
+    "e": 3.48
+   }
+  ],
+  "heard": "Hazel sold acorns for a hundred, and nobody bought.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Hazel sold acorns for a hundred... and nobody bought.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/17ca0c065c55_v2.wav",
+  "dur": 3.954542,
+  "words": [
+   {
+    "w": " A",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " hundred?",
+    "s": 0.24,
+    "e": 0.82
+   },
+   {
+    "w": " That's",
+    "s": 1.44,
+    "e": 1.9
+   },
+   {
+    "w": " like",
+    "s": 1.9,
+    "e": 2.18
+   },
+   {
+    "w": " a",
+    "s": 2.18,
+    "e": 2.96
+   },
+   {
+    "w": " hundred!",
+    "s": 2.96,
+    "e": 3.46
+   }
+  ],
+  "heard": "A hundred? That's like a hundred!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[whiny, squeaky] A HUNDRED? That's like... a HUNDRED!",
+  "voice": "w_nutmeg"
+ },
+ "3": {
+  "wav": "vo/wav/8271e9572296_v2.wav",
+  "dur": 2.768063,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " she",
+    "s": 0.22,
+    "e": 0.4
+   },
+   {
+    "w": " changed",
+    "s": 0.4,
+    "e": 0.8
+   },
+   {
+    "w": " one",
+    "s": 0.8,
+    "e": 1.28
+   },
+   {
+    "w": " tiny",
+    "s": 1.28,
+    "e": 2.12
+   },
+   {
+    "w": " thing.",
+    "s": 2.12,
+    "e": 2.62
+   }
+  ],
+  "heard": "So she changed one tiny thing.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[hushed] So she changed one tiny thing.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/3c1bb0befa57_v2.wav",
+  "dur": 1.480979,
+  "words": [
+   {
+    "w": " 99",
+    "s": 0.0,
+    "e": 0.48
+   }
+  ],
+  "heard": "99",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[playful] Ninety-nine.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/c2fd04313828_v2.wav",
+  "dur": 3.178771,
+  "words": [
+   {
+    "w": " 99?",
+    "s": 0.0,
+    "e": 0.92
+   },
+   {
+    "w": " That's",
+    "s": 1.3,
+    "e": 1.86
+   },
+   {
+    "w": " basically",
+    "s": 1.86,
+    "e": 2.3
+   },
+   {
+    "w": " 90!",
+    "s": 2.3,
+    "e": 2.78
+   }
+  ],
+  "heard": "99? That's basically 90!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[excited, squeaky] Ninety-nine? That's basically ninety!",
+  "voice": "w_nutmeg"
+ },
+ "6": {
+  "wav": "vo/wav/096aa554ab45_v2.wav",
+  "dur": 2.088292,
+  "words": [
+   {
+    "w": " Sold",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " out",
+    "s": 0.36,
+    "e": 0.64
+   },
+   {
+    "w": " by",
+    "s": 0.64,
+    "e": 0.86
+   },
+   {
+    "w": " lunch.",
+    "s": 0.86,
+    "e": 1.28
+   }
+  ],
+  "heard": "Sold out by lunch.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[triumphant] Sold out by lunch.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/b3be28ad0dc6_v2.wav",
+  "dur": 4.810458,
+  "words": [
+   {
+    "w": " Our",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " brains",
+    "s": 0.14,
+    "e": 0.48
+   },
+   {
+    "w": " read",
+    "s": 0.48,
+    "e": 0.74
+   },
+   {
+    "w": " prices",
+    "s": 0.74,
+    "e": 1.18
+   },
+   {
+    "w": " left",
+    "s": 1.18,
+    "e": 1.5
+   },
+   {
+    "w": " to",
+    "s": 1.5,
+    "e": 1.68
+   },
+   {
+    "w": " right.",
+    "s": 1.68,
+    "e": 1.92
+   },
+   {
+    "w": " We",
+    "s": 2.4,
+    "e": 2.64
+   },
+   {
+    "w": " see",
+    "s": 2.64,
+    "e": 2.8
+   },
+   {
+    "w": " the",
+    "s": 2.8,
+    "e": 2.92
+   },
+   {
+    "w": " first",
+    "s": 2.92,
+    "e": 3.18
+   },
+   {
+    "w": " digit",
+    "s": 3.18,
+    "e": 3.52
+   },
+   {
+    "w": " and",
+    "s": 3.52,
+    "e": 4.4
+   },
+   {
+    "w": " stop.",
+    "s": 4.4,
+    "e": 4.6
+   }
+  ],
+  "heard": "Our brains read prices left to right. We see the first digit and stop.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Our brains read prices left to right. We see the first digit... and stop.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/2eca45b7f773_v2.wav",
+  "dur": 3.729792,
+  "words": [
+   {
+    "w": " 99",
+    "s": 0.0,
+    "e": 0.44
+   },
+   {
+    "w": " feels",
+    "s": 0.44,
+    "e": 0.8
+   },
+   {
+    "w": " like",
+    "s": 0.8,
+    "e": 0.98
+   },
+   {
+    "w": " 90.",
+    "s": 0.98,
+    "e": 1.3
+   },
+   {
+    "w": " It's",
+    "s": 1.78,
+    "e": 2.06
+   },
+   {
+    "w": " just",
+    "s": 2.06,
+    "e": 2.2
+   },
+   {
+    "w": " one",
+    "s": 2.2,
+    "e": 2.5
+   },
+   {
+    "w": " acorn",
+    "s": 2.5,
+    "e": 2.92
+   },
+   {
+    "w": " less",
+    "s": 2.92,
+    "e": 3.08
+   },
+   {
+    "w": " than",
+    "s": 3.08,
+    "e": 3.24
+   },
+   {
+    "w": " 100.",
+    "s": 3.24,
+    "e": 3.5
+   }
+  ],
+  "heard": "99 feels like 90. It's just one acorn less than 100.",
+  "score": 0.8461538461538461,
+  "attempt": 2,
+  "tts": "Ninety-nine feels like ninety. It's just one acorn less than a hundred.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/89f137ba2d3e_v2.wav",
+  "dur": 4.080042,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " charm",
+    "s": 0.36,
+    "e": 0.66
+   },
+   {
+    "w": " pricing.",
+    "s": 0.66,
+    "e": 1.1
+   },
+   {
+    "w": " Shops",
+    "s": 1.64,
+    "e": 2.1
+   },
+   {
+    "w": " use",
+    "s": 2.1,
+    "e": 2.32
+   },
+   {
+    "w": " it",
+    "s": 2.32,
+    "e": 2.44
+   },
+   {
+    "w": " on",
+    "s": 2.44,
+    "e": 2.58
+   },
+   {
+    "w": " you",
+    "s": 2.58,
+    "e": 2.7
+   },
+   {
+    "w": " every",
+    "s": 2.7,
+    "e": 3.16
+   },
+   {
+    "w": " single",
+    "s": 3.16,
+    "e": 3.52
+   },
+   {
+    "w": " day.",
+    "s": 3.52,
+    "e": 3.82
+   }
+  ],
+  "heard": "That's charm pricing. Shops use it on you every single day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's charm pricing. Shops use it on you every single day.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/606ae76ab37c_v2.wav",
+  "dur": 4.896813,
+  "words": [
+   {
+    "w": " Can",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " I",
+    "s": 0.18,
+    "e": 0.36
+   },
+   {
+    "w": " pay",
+    "s": 0.36,
+    "e": 0.66
+   },
+   {
+    "w": " 98",
+    "s": 0.66,
+    "e": 1.46
+   },
+   {
+    "w": " now",
+    "s": 1.46,
+    "e": 1.98
+   },
+   {
+    "w": " and",
+    "s": 1.98,
+    "e": 2.7
+   },
+   {
+    "w": " one",
+    "s": 2.7,
+    "e": 3.08
+   },
+   {
+    "w": " acorn",
+    "s": 3.08,
+    "e": 3.64
+   },
+   {
+    "w": " tomorrow?",
+    "s": 3.64,
+    "e": 4.06
+   }
+  ],
+  "heard": "Can I pay 98 now and one acorn tomorrow?",
+  "score": 0.8,
+  "attempt": 2,
+  "tts": "[sheepish, squeaky] Can I pay ninety-eight now... and one acorn tomorrow?",
+  "voice": "w_nutmeg"
+ },
+ "11": {
+  "wav": "vo/wav/a02c193a0463_v2.wav",
+  "dur": 2.555604,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " price",
+    "s": 0.32,
+    "e": 0.7
+   },
+   {
+    "w": " for",
+    "s": 0.7,
+    "e": 0.98
+   },
+   {
+    "w": " the",
+    "s": 0.98,
+    "e": 1.08
+   },
+   {
+    "w": " free",
+    "s": 1.08,
+    "e": 1.32
+   },
+   {
+    "w": " pricing",
+    "s": 1.32,
+    "e": 1.74
+   },
+   {
+    "w": " cheat",
+    "s": 1.74,
+    "e": 2.04
+   },
+   {
+    "w": " sheet.",
+    "s": 2.04,
+    "e": 2.32
+   }
+  ],
+  "heard": "Comment price for the free pricing cheat sheet.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment PRICE for the free pricing cheat sheet.",
+  "voice": "mira_narrator"
+ }
+}

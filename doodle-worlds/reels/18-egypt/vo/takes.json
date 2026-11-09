@@ -1,0 +1,731 @@
+{
+ "0": {
+  "wav": "vo/wav/5d153173b89c_v2.wav",
+  "dur": 4.705438,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " pyramid",
+    "s": 0.18,
+    "e": 0.6
+   },
+   {
+    "w": " builders",
+    "s": 0.6,
+    "e": 1.16
+   },
+   {
+    "w": " were",
+    "s": 1.16,
+    "e": 1.42
+   },
+   {
+    "w": " paid",
+    "s": 1.42,
+    "e": 1.8
+   },
+   {
+    "w": " in",
+    "s": 1.8,
+    "e": 2.14
+   },
+   {
+    "w": " beer,",
+    "s": 2.14,
+    "e": 2.5
+   },
+   {
+    "w": " about",
+    "s": 3.04,
+    "e": 3.38
+   },
+   {
+    "w": " four",
+    "s": 3.38,
+    "e": 3.7
+   },
+   {
+    "w": " liters",
+    "s": 3.7,
+    "e": 3.98
+   },
+   {
+    "w": " a",
+    "s": 3.98,
+    "e": 4.2
+   },
+   {
+    "w": " day.",
+    "s": 4.2,
+    "e": 4.42
+   }
+  ],
+  "heard": "The pyramid builders were paid in beer, about four liters a day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] The pyramid builders were paid in beer. About four liters a day.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/7d332d109f02_v2.wav",
+  "dur": 3.576104,
+  "words": [
+   {
+    "w": " Overseer",
+    "s": 0.0,
+    "e": 0.54
+   },
+   {
+    "w": " Nacht",
+    "s": 0.54,
+    "e": 0.78
+   },
+   {
+    "w": " had",
+    "s": 0.78,
+    "e": 1.06
+   },
+   {
+    "w": " a",
+    "s": 1.06,
+    "e": 1.14
+   },
+   {
+    "w": " problem.",
+    "s": 1.14,
+    "e": 1.54
+   },
+   {
+    "w": " The",
+    "s": 2.2,
+    "e": 2.32
+   },
+   {
+    "w": " work",
+    "s": 2.32,
+    "e": 2.64
+   },
+   {
+    "w": " was",
+    "s": 2.64,
+    "e": 2.94
+   },
+   {
+    "w": " slow.",
+    "s": 2.94,
+    "e": 3.4
+   }
+  ],
+  "heard": "Overseer Nacht had a problem. The work was slow.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "Overseer Nakht had a problem. The work was slow.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/cc695ed0b593_v2.wav",
+  "dur": 2.594583,
+  "words": [
+   {
+    "w": " Faster!",
+    "s": 0.0,
+    "e": 0.44
+   },
+   {
+    "w": " For",
+    "s": 0.84,
+    "e": 0.94
+   },
+   {
+    "w": " the",
+    "s": 0.94,
+    "e": 1.1
+   },
+   {
+    "w": " glory",
+    "s": 1.1,
+    "e": 1.52
+   },
+   {
+    "w": " of",
+    "s": 1.52,
+    "e": 1.76
+   },
+   {
+    "w": " the",
+    "s": 1.76,
+    "e": 1.9
+   },
+   {
+    "w": " Pharaoh!",
+    "s": 1.9,
+    "e": 2.18
+   }
+  ],
+  "heard": "Faster! For the glory of the Pharaoh!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[shouting, pompous] Faster! For the glory of the Pharaoh!",
+  "voice": "w_nakht"
+ },
+ "3": {
+  "wav": "vo/wav/621e7047ecc9_v2.wav",
+  "dur": 2.341958,
+  "words": [
+   {
+    "w": " Glory",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " doesn't",
+    "s": 0.42,
+    "e": 0.84
+   },
+   {
+    "w": " fill",
+    "s": 0.84,
+    "e": 1.04
+   },
+   {
+    "w": " my",
+    "s": 1.04,
+    "e": 1.22
+   },
+   {
+    "w": " cup,",
+    "s": 1.22,
+    "e": 1.54
+   },
+   {
+    "w": " boss.",
+    "s": 1.68,
+    "e": 1.92
+   }
+  ],
+  "heard": "Glory doesn't fill my cup, boss.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[lazy, flat] Glory doesn't fill my cup, boss.",
+  "voice": "w_worker"
+ },
+ "4": {
+  "wav": "vo/wav/1024ba2cc971_v2.wav",
+  "dur": 3.892021,
+  "words": [
+   {
+    "w": " Fine,",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " every",
+    "s": 0.66,
+    "e": 0.96
+   },
+   {
+    "w": " block",
+    "s": 0.96,
+    "e": 1.26
+   },
+   {
+    "w": " you",
+    "s": 1.26,
+    "e": 1.48
+   },
+   {
+    "w": " place,",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": " one",
+    "s": 2.52,
+    "e": 2.84
+   },
+   {
+    "w": " extra",
+    "s": 2.84,
+    "e": 3.26
+   },
+   {
+    "w": " beer.",
+    "s": 3.26,
+    "e": 3.62
+   }
+  ],
+  "heard": "Fine, every block you place, one extra beer.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[scheming] Fine. Every block you place... one extra beer.",
+  "voice": "w_nakht"
+ },
+ "5": {
+  "wav": "vo/wav/495609ba60ec_v2.wav",
+  "dur": 2.549333,
+  "words": [
+   {
+    "w": " Blocks",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " started",
+    "s": 0.38,
+    "e": 0.68
+   },
+   {
+    "w": " flying",
+    "s": 0.68,
+    "e": 1.18
+   },
+   {
+    "w": " up,",
+    "s": 1.18,
+    "e": 1.68
+   },
+   {
+    "w": " up,",
+    "s": 1.9,
+    "e": 2.02
+   },
+   {
+    "w": " up!",
+    "s": 2.18,
+    "e": 2.38
+   }
+  ],
+  "heard": "Blocks started flying up, up, up!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building, fast] Blocks started flying. Up, up, up!",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/7b792f407c48_v2.wav",
+  "dur": 2.490104,
+  "words": [
+   {
+    "w": " and",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " every",
+    "s": 0.14,
+    "e": 0.7
+   },
+   {
+    "w": " single",
+    "s": 0.7,
+    "e": 1.08
+   },
+   {
+    "w": " one",
+    "s": 1.08,
+    "e": 1.46
+   },
+   {
+    "w": " was",
+    "s": 1.46,
+    "e": 1.82
+   },
+   {
+    "w": " crooked.",
+    "s": 1.82,
+    "e": 2.14
+   }
+  ],
+  "heard": "and every single one was crooked.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[beat, dry] And every single one was crooked.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/eb7e77251282_v2.wav",
+  "dur": 2.135104,
+  "words": [
+   {
+    "w": " Why",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " is",
+    "s": 0.24,
+    "e": 0.4
+   },
+   {
+    "w": " my",
+    "s": 0.4,
+    "e": 0.56
+   },
+   {
+    "w": " damn",
+    "s": 0.56,
+    "e": 0.82
+   },
+   {
+    "w": " pyramid",
+    "s": 0.82,
+    "e": 1.26
+   },
+   {
+    "w": " leading?",
+    "s": 1.26,
+    "e": 1.72
+   }
+  ],
+  "heard": "Why is my damn pyramid leading?",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[horrified, shouting] Why is my damn pyramid leaning?!",
+  "voice": "w_nakht"
+ },
+ "8": {
+  "wav": "vo/wav/0f81135b8f8e_v2.wav",
+  "dur": 3.069,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " paid",
+    "s": 0.14,
+    "e": 0.44
+   },
+   {
+    "w": " for",
+    "s": 0.44,
+    "e": 0.64
+   },
+   {
+    "w": " blocks,",
+    "s": 0.64,
+    "e": 1.04
+   },
+   {
+    "w": " boss.",
+    "s": 1.18,
+    "e": 1.48
+   },
+   {
+    "w": " Not",
+    "s": 2.06,
+    "e": 2.28
+   },
+   {
+    "w": " straight",
+    "s": 2.28,
+    "e": 2.6
+   },
+   {
+    "w": " ones.",
+    "s": 2.6,
+    "e": 2.9
+   }
+  ],
+  "heard": "You paid for blocks, boss. Not straight ones.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[proud, chill] You paid for blocks, boss. Not straight ones.",
+  "voice": "w_worker"
+ },
+ "9": {
+  "wav": "vo/wav/6346f28250d5_v2.wav",
+  "dur": 3.722875,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " get",
+    "s": 0.16,
+    "e": 0.3
+   },
+   {
+    "w": " exactly",
+    "s": 0.3,
+    "e": 0.8
+   },
+   {
+    "w": " what",
+    "s": 0.8,
+    "e": 1.0
+   },
+   {
+    "w": " you",
+    "s": 1.0,
+    "e": 1.12
+   },
+   {
+    "w": " pay",
+    "s": 1.12,
+    "e": 1.3
+   },
+   {
+    "w": " for.",
+    "s": 1.3,
+    "e": 1.54
+   },
+   {
+    "w": " So",
+    "s": 1.92,
+    "e": 2.2
+   },
+   {
+    "w": " pay",
+    "s": 2.2,
+    "e": 2.4
+   },
+   {
+    "w": " for",
+    "s": 2.4,
+    "e": 2.54
+   },
+   {
+    "w": " what",
+    "s": 2.54,
+    "e": 2.68
+   },
+   {
+    "w": " you",
+    "s": 2.68,
+    "e": 2.78
+   },
+   {
+    "w": " actually",
+    "s": 2.78,
+    "e": 3.1
+   },
+   {
+    "w": " want.",
+    "s": 3.1,
+    "e": 3.44
+   }
+  ],
+  "heard": "You get exactly what you pay for. So pay for what you actually want.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "You get exactly what you pay for. So pay for what you actually want.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/8a167e3602d8_v2.wav",
+  "dur": 2.616146,
+  "words": [
+   {
+    "w": " New",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " rule,",
+    "s": 0.22,
+    "e": 0.52
+   },
+   {
+    "w": " beer",
+    "s": 0.84,
+    "e": 1.06
+   },
+   {
+    "w": " for",
+    "s": 1.06,
+    "e": 1.32
+   },
+   {
+    "w": " straight",
+    "s": 1.32,
+    "e": 1.68
+   },
+   {
+    "w": " blocks",
+    "s": 1.68,
+    "e": 2.04
+   },
+   {
+    "w": " only.",
+    "s": 2.04,
+    "e": 2.4
+   }
+  ],
+  "heard": "New rule, beer for straight blocks only.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[firm] New rule. Beer for straight blocks only.",
+  "voice": "w_nakht"
+ },
+ "11": {
+  "wav": "vo/wav/6102ad873919_v2.wav",
+  "dur": 4.159,
+  "words": [
+   {
+    "w": " That",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " pyramid",
+    "s": 0.22,
+    "e": 0.54
+   },
+   {
+    "w": " is",
+    "s": 0.54,
+    "e": 0.76
+   },
+   {
+    "w": " still",
+    "s": 0.76,
+    "e": 0.92
+   },
+   {
+    "w": " standing,",
+    "s": 0.92,
+    "e": 1.32
+   },
+   {
+    "w": " 4",
+    "s": 1.78,
+    "e": 2.18
+   },
+   {
+    "w": ",500",
+    "s": 2.18,
+    "e": 3.02
+   },
+   {
+    "w": " years",
+    "s": 3.02,
+    "e": 3.6
+   },
+   {
+    "w": " later.",
+    "s": 3.6,
+    "e": 3.94
+   }
+  ],
+  "heard": "That pyramid is still standing, 4,500 years later.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[triumphant] That pyramid is still standing. Four thousand five hundred years later.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/7810034c2b24_v2.wav",
+  "dur": 3.443583,
+  "words": [
+   {
+    "w": " Boss,",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " can",
+    "s": 0.78,
+    "e": 0.88
+   },
+   {
+    "w": " we",
+    "s": 0.88,
+    "e": 1.08
+   },
+   {
+    "w": " build",
+    "s": 1.08,
+    "e": 1.38
+   },
+   {
+    "w": " another",
+    "s": 1.38,
+    "e": 1.78
+   },
+   {
+    "w": " one",
+    "s": 1.78,
+    "e": 2.14
+   },
+   {
+    "w": " for",
+    "s": 2.14,
+    "e": 2.84
+   },
+   {
+    "w": " the",
+    "s": 2.84,
+    "e": 2.96
+   },
+   {
+    "w": " beer?",
+    "s": 2.96,
+    "e": 3.24
+   }
+  ],
+  "heard": "Boss, can we build another one for the beer?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[hopeful, chill] Boss... can we build another one? For the beer?",
+  "voice": "w_worker"
+ },
+ "13": {
+  "wav": "vo/wav/7b016c85da37_v2.wav",
+  "dur": 2.800063,
+  "words": [
+   {
+    "w": " Comment,",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " pay",
+    "s": 0.58,
+    "e": 0.82
+   },
+   {
+    "w": " for",
+    "s": 0.82,
+    "e": 1.12
+   },
+   {
+    "w": " the",
+    "s": 1.12,
+    "e": 1.26
+   },
+   {
+    "w": " free",
+    "s": 1.26,
+    "e": 1.46
+   },
+   {
+    "w": " incentive",
+    "s": 1.46,
+    "e": 1.8
+   },
+   {
+    "w": " plan",
+    "s": 1.8,
+    "e": 2.14
+   },
+   {
+    "w": " template.",
+    "s": 2.14,
+    "e": 2.5
+   }
+  ],
+  "heard": "Comment, pay for the free incentive plan template.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment PAY for the free incentive plan template.",
+  "voice": "mira_narrator"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "title": "The pyramid builders were paid in beer",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Ancient Egypt",
+ "cta": "PAY",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[intrigued] The pyramid builders were paid in beer. About four liters a day.", "text": "The pyramid builders were paid in beer. About four liters a day.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "Overseer Nakht had a problem. The work was slow.", "text": "Overseer Nakht had a problem. The work was slow.", "gap": 0.3},
+  {"voice": "w_nakht", "who": "NAKHT", "tts": "[shouting, pompous] Faster! For the glory of the Pharaoh!", "text": "Faster! For the glory of the Pharaoh!", "gap": 0.3},
+  {"voice": "w_worker", "who": "WORKER", "tts": "[lazy, flat] Glory doesn't fill my cup, boss.", "text": "Glory doesn't fill my cup, boss.", "gap": 0.45},
+  {"voice": "w_nakht", "who": "NAKHT", "tts": "[scheming] Fine. Every block you place... one extra beer.", "text": "Fine. Every block you place... one extra beer.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[building, fast] Blocks started flying. Up, up, up!", "text": "Blocks started flying. Up, up, up!", "gap": 0.3},
+  {"voice": "mira_narrator", "who": "N", "tts": "[beat, dry] And every single one was crooked.", "text": "And every single one was crooked.", "gap": 0.35},
+  {"voice": "w_nakht", "who": "NAKHT", "tts": "[horrified, shouting] Why is my damn pyramid leaning?!", "text": "Why is my damn pyramid leaning?!", "gap": 0.3},
+  {"voice": "w_worker", "who": "WORKER", "tts": "[proud, chill] You paid for blocks, boss. Not straight ones.", "text": "You paid for blocks, boss. Not straight ones.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "You get exactly what you pay for. So pay for what you actually want.", "text": "You get exactly what you pay for. So pay for what you actually want.", "gap": 0.35},
+  {"voice": "w_nakht", "who": "NAKHT", "tts": "[firm] New rule. Beer for straight blocks only.", "text": "New rule. Beer for straight blocks only.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "[triumphant] That pyramid is still standing. Four thousand five hundred years later.", "text": "That pyramid is still standing. Four thousand five hundred years later.", "gap": 0.6},
+  {"voice": "w_worker", "who": "WORKER", "tts": "[hopeful, chill] Boss... can we build another one? For the beer?", "text": "Boss... can we build another one? For the beer?", "gap": 0.7},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment PAY for the free incentive plan template.", "text": "Comment PAY for the free incentive plan template.", "gap": 0.0}
+ ]
+}

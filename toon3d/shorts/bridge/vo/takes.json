@@ -1,0 +1,1267 @@
+{
+ "0": {
+  "wav": "vo/wav/af10803986ee_v2.wav",
+  "dur": 4.000063,
+  "words": [
+   {
+    "w": " 74",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " soldiers",
+    "s": 0.36,
+    "e": 0.96
+   },
+   {
+    "w": " knocked",
+    "s": 0.96,
+    "e": 1.4
+   },
+   {
+    "w": " down",
+    "s": 1.4,
+    "e": 1.64
+   },
+   {
+    "w": " an",
+    "s": 1.64,
+    "e": 1.78
+   },
+   {
+    "w": " iron",
+    "s": 1.78,
+    "e": 2.04
+   },
+   {
+    "w": " bridge",
+    "s": 2.04,
+    "e": 2.34
+   },
+   {
+    "w": " just",
+    "s": 2.34,
+    "e": 2.84
+   },
+   {
+    "w": " by",
+    "s": 2.84,
+    "e": 3.04
+   },
+   {
+    "w": " walking",
+    "s": 3.04,
+    "e": 3.34
+   },
+   {
+    "w": " across",
+    "s": 3.34,
+    "e": 3.68
+   },
+   {
+    "w": " it.",
+    "s": 3.68,
+    "e": 3.92
+   }
+  ],
+  "heard": "74 soldiers knocked down an iron bridge just by walking across it.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Seventy-four soldiers knocked down an iron bridge just by walking across it.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/e6f6ba61b83f_v2.wav",
+  "dur": 5.743813,
+  "words": [
+   {
+    "w": " It's",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " 1831",
+    "s": 0.2,
+    "e": 1.02
+   },
+   {
+    "w": " and",
+    "s": 1.02,
+    "e": 1.64
+   },
+   {
+    "w": " the",
+    "s": 1.64,
+    "e": 1.78
+   },
+   {
+    "w": " brand",
+    "s": 1.78,
+    "e": 2.0
+   },
+   {
+    "w": " new",
+    "s": 2.0,
+    "e": 2.26
+   },
+   {
+    "w": " bridge",
+    "s": 2.26,
+    "e": 2.6
+   },
+   {
+    "w": " over",
+    "s": 2.6,
+    "e": 2.86
+   },
+   {
+    "w": " the",
+    "s": 2.86,
+    "e": 3.02
+   },
+   {
+    "w": " river",
+    "s": 3.02,
+    "e": 3.3
+   },
+   {
+    "w": " is",
+    "s": 3.3,
+    "e": 3.84
+   },
+   {
+    "w": " the",
+    "s": 3.84,
+    "e": 4.0
+   },
+   {
+    "w": " pride",
+    "s": 4.0,
+    "e": 4.34
+   },
+   {
+    "w": " of",
+    "s": 4.34,
+    "e": 4.48
+   },
+   {
+    "w": " the",
+    "s": 4.48,
+    "e": 4.62
+   },
+   {
+    "w": " whole",
+    "s": 4.62,
+    "e": 5.06
+   },
+   {
+    "w": " town.",
+    "s": 5.06,
+    "e": 5.52
+   }
+  ],
+  "heard": "It's 1831 and the brand new bridge over the river is the pride of the whole town.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "It's 1831, and the brand new bridge over the river is the pride of the whole town.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/392e443f6b1f_v2.wav",
+  "dur": 5.487646,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " men",
+    "s": 0.12,
+    "e": 0.36
+   },
+   {
+    "w": " are",
+    "s": 0.36,
+    "e": 0.46
+   },
+   {
+    "w": " marching",
+    "s": 0.46,
+    "e": 0.74
+   },
+   {
+    "w": " home",
+    "s": 0.74,
+    "e": 1.04
+   },
+   {
+    "w": " four",
+    "s": 1.04,
+    "e": 1.32
+   },
+   {
+    "w": " across,",
+    "s": 1.32,
+    "e": 1.72
+   },
+   {
+    "w": " every",
+    "s": 2.12,
+    "e": 2.56
+   },
+   {
+    "w": " boot",
+    "s": 2.56,
+    "e": 2.88
+   },
+   {
+    "w": " hitting",
+    "s": 2.88,
+    "e": 3.16
+   },
+   {
+    "w": " the",
+    "s": 3.16,
+    "e": 3.38
+   },
+   {
+    "w": " planks",
+    "s": 3.38,
+    "e": 3.74
+   },
+   {
+    "w": " at",
+    "s": 3.74,
+    "e": 3.84
+   },
+   {
+    "w": " the",
+    "s": 3.84,
+    "e": 3.96
+   },
+   {
+    "w": " exact",
+    "s": 3.96,
+    "e": 4.46
+   },
+   {
+    "w": " same",
+    "s": 4.46,
+    "e": 4.82
+   },
+   {
+    "w": " moment.",
+    "s": 4.82,
+    "e": 5.22
+   }
+  ],
+  "heard": "The men are marching home four across, every boot hitting the planks at the exact same moment.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The men are marching home four across, every boot hitting the planks at the exact same moment.",
+  "voice": "mira_narrator"
+ },
+ "3": {
+  "wav": "vo/wav/6ed4215ea56b_v2.wav",
+  "dur": 3.279896,
+  "words": [
+   {
+    "w": " Halfway",
+    "s": 0.0,
+    "e": 0.46
+   },
+   {
+    "w": " over,",
+    "s": 0.46,
+    "e": 0.76
+   },
+   {
+    "w": " the",
+    "s": 1.16,
+    "e": 1.22
+   },
+   {
+    "w": " bridge",
+    "s": 1.22,
+    "e": 1.5
+   },
+   {
+    "w": " starts",
+    "s": 1.5,
+    "e": 1.8
+   },
+   {
+    "w": " bouncing",
+    "s": 1.8,
+    "e": 2.42
+   },
+   {
+    "w": " under",
+    "s": 2.42,
+    "e": 2.72
+   },
+   {
+    "w": " their",
+    "s": 2.72,
+    "e": 2.9
+   },
+   {
+    "w": " feet.",
+    "s": 2.9,
+    "e": 3.1
+   }
+  ],
+  "heard": "Halfway over, the bridge starts bouncing under their feet.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Halfway over, the bridge starts bouncing under their feet.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/f54ac3254306_v2.wav",
+  "dur": 4.138104,
+  "words": [
+   {
+    "w": " A",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " normal",
+    "s": 0.14,
+    "e": 0.38
+   },
+   {
+    "w": " person",
+    "s": 0.38,
+    "e": 0.74
+   },
+   {
+    "w": " would",
+    "s": 0.74,
+    "e": 0.92
+   },
+   {
+    "w": " slow",
+    "s": 0.92,
+    "e": 1.12
+   },
+   {
+    "w": " down,",
+    "s": 1.12,
+    "e": 1.5
+   },
+   {
+    "w": " but",
+    "s": 1.74,
+    "e": 2.06
+   },
+   {
+    "w": " these",
+    "s": 2.06,
+    "e": 2.32
+   },
+   {
+    "w": " guys",
+    "s": 2.32,
+    "e": 2.64
+   },
+   {
+    "w": " think",
+    "s": 2.64,
+    "e": 3.14
+   },
+   {
+    "w": " it's",
+    "s": 3.14,
+    "e": 3.36
+   },
+   {
+    "w": " hilarious.",
+    "s": 3.36,
+    "e": 3.6
+   }
+  ],
+  "heard": "A normal person would slow down, but these guys think it's hilarious.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "A normal person would slow down, but these guys think it's hilarious.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/6ab68830887d_v2.wav",
+  "dur": 6.560063,
+  "words": [
+   {
+    "w": " If",
+    "s": 0.0,
+    "e": 0.08
+   },
+   {
+    "w": " somebody",
+    "s": 0.08,
+    "e": 0.4
+   },
+   {
+    "w": " starts",
+    "s": 0.4,
+    "e": 0.66
+   },
+   {
+    "w": " whistling",
+    "s": 0.66,
+    "e": 1.08
+   },
+   {
+    "w": " a",
+    "s": 1.08,
+    "e": 1.2
+   },
+   {
+    "w": " marching",
+    "s": 1.2,
+    "e": 1.5
+   },
+   {
+    "w": " tune",
+    "s": 1.5,
+    "e": 1.78
+   },
+   {
+    "w": " and",
+    "s": 1.78,
+    "e": 1.96
+   },
+   {
+    "w": " the",
+    "s": 1.96,
+    "e": 2.06
+   },
+   {
+    "w": " whole",
+    "s": 2.06,
+    "e": 2.56
+   },
+   {
+    "w": " column",
+    "s": 2.56,
+    "e": 3.18
+   },
+   {
+    "w": " stomps",
+    "s": 3.18,
+    "e": 3.8
+   },
+   {
+    "w": " along",
+    "s": 3.8,
+    "e": 4.02
+   },
+   {
+    "w": " to",
+    "s": 4.02,
+    "e": 4.26
+   },
+   {
+    "w": " it,",
+    "s": 4.26,
+    "e": 4.4
+   },
+   {
+    "w": " a",
+    "s": 4.68,
+    "e": 4.84
+   },
+   {
+    "w": " little",
+    "s": 4.84,
+    "e": 5.24
+   },
+   {
+    "w": " harder",
+    "s": 5.24,
+    "e": 5.64
+   },
+   {
+    "w": " every",
+    "s": 5.64,
+    "e": 6.16
+   },
+   {
+    "w": " step.",
+    "s": 6.16,
+    "e": 6.46
+   }
+  ],
+  "heard": "If somebody starts whistling a marching tune and the whole column stomps along to it, a little harder every step.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Somebody starts whistling a marching tune, and the whole column stomps along to it, a little harder every step.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/cf7aac7a136d_v2.wav",
+  "dur": 5.614854,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " bounce",
+    "s": 0.12,
+    "e": 0.36
+   },
+   {
+    "w": " gets",
+    "s": 0.36,
+    "e": 0.58
+   },
+   {
+    "w": " bigger,",
+    "s": 0.58,
+    "e": 0.9
+   },
+   {
+    "w": " the",
+    "s": 1.42,
+    "e": 1.54
+   },
+   {
+    "w": " chains",
+    "s": 1.54,
+    "e": 1.9
+   },
+   {
+    "w": " start",
+    "s": 1.9,
+    "e": 2.2
+   },
+   {
+    "w": " groaning,",
+    "s": 2.2,
+    "e": 2.9
+   },
+   {
+    "w": " and",
+    "s": 3.36,
+    "e": 3.5
+   },
+   {
+    "w": " nobody",
+    "s": 3.5,
+    "e": 3.92
+   },
+   {
+    "w": " wants",
+    "s": 3.92,
+    "e": 4.2
+   },
+   {
+    "w": " to",
+    "s": 4.2,
+    "e": 4.38
+   },
+   {
+    "w": " be",
+    "s": 4.38,
+    "e": 4.46
+   },
+   {
+    "w": " the",
+    "s": 4.46,
+    "e": 4.58
+   },
+   {
+    "w": " one",
+    "s": 4.58,
+    "e": 4.72
+   },
+   {
+    "w": " who",
+    "s": 4.72,
+    "e": 4.84
+   },
+   {
+    "w": " breaks",
+    "s": 4.84,
+    "e": 5.08
+   },
+   {
+    "w": " step.",
+    "s": 5.08,
+    "e": 5.38
+   }
+  ],
+  "heard": "The bounce gets bigger, the chains start groaning, and nobody wants to be the one who breaks step.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The bounce gets bigger, the chains start groaning, and nobody wants to be the one who breaks step.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/5115b2c880c7_v2.wav",
+  "dur": 4.998042,
+  "words": [
+   {
+    "w": " than",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " a",
+    "s": 0.14,
+    "e": 0.24
+   },
+   {
+    "w": " single",
+    "s": 0.24,
+    "e": 0.66
+   },
+   {
+    "w": " bolt",
+    "s": 0.66,
+    "e": 1.0
+   },
+   {
+    "w": " snaps,",
+    "s": 1.0,
+    "e": 1.5
+   },
+   {
+    "w": " and",
+    "s": 2.2,
+    "e": 2.38
+   },
+   {
+    "w": " the",
+    "s": 2.38,
+    "e": 2.52
+   },
+   {
+    "w": " whole",
+    "s": 2.52,
+    "e": 2.78
+   },
+   {
+    "w": " end",
+    "s": 2.78,
+    "e": 3.18
+   },
+   {
+    "w": " of",
+    "s": 3.18,
+    "e": 3.28
+   },
+   {
+    "w": " the",
+    "s": 3.28,
+    "e": 3.36
+   },
+   {
+    "w": " bridge",
+    "s": 3.36,
+    "e": 3.66
+   },
+   {
+    "w": " drops",
+    "s": 3.66,
+    "e": 4.14
+   },
+   {
+    "w": " into",
+    "s": 4.14,
+    "e": 4.44
+   },
+   {
+    "w": " the",
+    "s": 4.44,
+    "e": 4.58
+   },
+   {
+    "w": " river.",
+    "s": 4.58,
+    "e": 4.8
+   }
+  ],
+  "heard": "than a single bolt snaps, and the whole end of the bridge drops into the river.",
+  "score": 0.9375,
+  "attempt": 0,
+  "tts": "Then a single bolt snaps, and the whole end of the bridge drops into the river.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/08b9440a37e6_v2.wav",
+  "dur": 2.160063,
+  "words": [
+   {
+    "w": " Luckily,",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " the",
+    "s": 0.6,
+    "e": 0.66
+   },
+   {
+    "w": " river",
+    "s": 0.66,
+    "e": 0.84
+   },
+   {
+    "w": " was",
+    "s": 0.84,
+    "e": 1.08
+   },
+   {
+    "w": " only",
+    "s": 1.08,
+    "e": 1.28
+   },
+   {
+    "w": " two",
+    "s": 1.28,
+    "e": 1.52
+   },
+   {
+    "w": " feet",
+    "s": 1.52,
+    "e": 1.72
+   },
+   {
+    "w": " deep.",
+    "s": 1.72,
+    "e": 1.94
+   }
+  ],
+  "heard": "Luckily, the river was only two feet deep.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Luckily, the river was only two feet deep.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/ca1b6fd453d6_v2.wav",
+  "dur": 2.783396,
+  "words": [
+   {
+    "w": " All",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " luckily,",
+    "s": 0.18,
+    "e": 0.5
+   },
+   {
+    "w": " the",
+    "s": 0.88,
+    "e": 0.98
+   },
+   {
+    "w": " river",
+    "s": 0.98,
+    "e": 1.18
+   },
+   {
+    "w": " was",
+    "s": 1.18,
+    "e": 1.4
+   },
+   {
+    "w": " only",
+    "s": 1.4,
+    "e": 1.62
+   },
+   {
+    "w": " two",
+    "s": 1.62,
+    "e": 1.98
+   },
+   {
+    "w": " feet",
+    "s": 1.98,
+    "e": 2.24
+   },
+   {
+    "w": " deep.",
+    "s": 2.24,
+    "e": 2.52
+   }
+  ],
+  "heard": "All luckily, the river was only two feet deep.",
+  "score": 0.875,
+  "attempt": 0,
+  "tts": "Unluckily, the river was only two feet deep.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/92515cc861cf_v2.wav",
+  "dur": 3.840063,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " see,",
+    "s": 0.12,
+    "e": 0.34
+   },
+   {
+    "w": " every",
+    "s": 0.6,
+    "e": 0.9
+   },
+   {
+    "w": " bridge",
+    "s": 0.9,
+    "e": 1.22
+   },
+   {
+    "w": " has",
+    "s": 1.22,
+    "e": 1.46
+   },
+   {
+    "w": " a",
+    "s": 1.46,
+    "e": 1.56
+   },
+   {
+    "w": " rhythm",
+    "s": 1.56,
+    "e": 1.88
+   },
+   {
+    "w": " it",
+    "s": 1.88,
+    "e": 2.04
+   },
+   {
+    "w": " naturally",
+    "s": 2.04,
+    "e": 2.58
+   },
+   {
+    "w": " likes",
+    "s": 2.58,
+    "e": 2.94
+   },
+   {
+    "w": " to",
+    "s": 2.94,
+    "e": 3.12
+   },
+   {
+    "w": " sway",
+    "s": 3.12,
+    "e": 3.36
+   },
+   {
+    "w": " at.",
+    "s": 3.36,
+    "e": 3.64
+   }
+  ],
+  "heard": "You see, every bridge has a rhythm it naturally likes to sway at.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "You see, every bridge has a rhythm it naturally likes to sway at.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/dcec57a18e59_v2.wav",
+  "dur": 8.023792,
+  "words": [
+   {
+    "w": " ever",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " push",
+    "s": 0.2,
+    "e": 0.44
+   },
+   {
+    "w": " the",
+    "s": 0.44,
+    "e": 0.56
+   },
+   {
+    "w": " kid",
+    "s": 0.56,
+    "e": 0.74
+   },
+   {
+    "w": " on",
+    "s": 0.74,
+    "e": 0.88
+   },
+   {
+    "w": " a",
+    "s": 0.88,
+    "e": 0.98
+   },
+   {
+    "w": " swing?",
+    "s": 0.98,
+    "e": 1.24
+   },
+   {
+    "w": " Each",
+    "s": 1.78,
+    "e": 2.12
+   },
+   {
+    "w": " push",
+    "s": 2.12,
+    "e": 2.4
+   },
+   {
+    "w": " is",
+    "s": 2.4,
+    "e": 2.58
+   },
+   {
+    "w": " tiny,",
+    "s": 2.58,
+    "e": 2.98
+   },
+   {
+    "w": " but",
+    "s": 3.44,
+    "e": 3.74
+   },
+   {
+    "w": " if",
+    "s": 3.74,
+    "e": 3.86
+   },
+   {
+    "w": " they",
+    "s": 3.86,
+    "e": 4.02
+   },
+   {
+    "w": " all",
+    "s": 4.02,
+    "e": 4.4
+   },
+   {
+    "w": " land",
+    "s": 4.4,
+    "e": 4.72
+   },
+   {
+    "w": " at",
+    "s": 4.72,
+    "e": 4.92
+   },
+   {
+    "w": " just",
+    "s": 4.92,
+    "e": 5.1
+   },
+   {
+    "w": " the",
+    "s": 5.1,
+    "e": 5.26
+   },
+   {
+    "w": " right",
+    "s": 5.26,
+    "e": 5.42
+   },
+   {
+    "w": " moment,",
+    "s": 5.42,
+    "e": 5.78
+   },
+   {
+    "w": " the",
+    "s": 6.06,
+    "e": 6.16
+   },
+   {
+    "w": " swing",
+    "s": 6.16,
+    "e": 6.4
+   },
+   {
+    "w": " goes",
+    "s": 6.4,
+    "e": 6.68
+   },
+   {
+    "w": " higher",
+    "s": 6.68,
+    "e": 7.14
+   },
+   {
+    "w": " and",
+    "s": 7.14,
+    "e": 7.54
+   },
+   {
+    "w": " higher.",
+    "s": 7.54,
+    "e": 7.84
+   }
+  ],
+  "heard": "ever push the kid on a swing? Each push is tiny, but if they all land at just the right moment, the swing goes higher and higher.",
+  "score": 0.9629629629629629,
+  "attempt": 0,
+  "tts": "Ever pushed a kid on a swing? Each push is tiny, but if they all land at just the right moment, the swing goes higher and higher.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/8528b1dfff6a_v2.wav",
+  "dur": 4.000063,
+  "words": [
+   {
+    "w": " 74",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " men",
+    "s": 0.34,
+    "e": 0.82
+   },
+   {
+    "w": " stepping",
+    "s": 0.82,
+    "e": 1.2
+   },
+   {
+    "w": " together",
+    "s": 1.2,
+    "e": 1.76
+   },
+   {
+    "w": " were",
+    "s": 1.76,
+    "e": 2.18
+   },
+   {
+    "w": " pushing",
+    "s": 2.18,
+    "e": 2.58
+   },
+   {
+    "w": " that",
+    "s": 2.58,
+    "e": 2.82
+   },
+   {
+    "w": " bridge",
+    "s": 2.82,
+    "e": 3.1
+   },
+   {
+    "w": " like",
+    "s": 3.1,
+    "e": 3.44
+   },
+   {
+    "w": " a",
+    "s": 3.44,
+    "e": 3.54
+   },
+   {
+    "w": " swing.",
+    "s": 3.54,
+    "e": 3.76
+   }
+  ],
+  "heard": "74 men stepping together were pushing that bridge like a swing.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Seventy-four men stepping together were pushing that bridge like a swing.",
+  "voice": "mira_narrator"
+ },
+ "13": {
+  "wav": "vo/wav/b3cd5413569c_v2.wav",
+  "dur": 5.28,
+  "words": [
+   {
+    "w": " Nobody",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " died,",
+    "s": 0.28,
+    "e": 0.66
+   },
+   {
+    "w": " but",
+    "s": 1.14,
+    "e": 1.36
+   },
+   {
+    "w": " the",
+    "s": 1.36,
+    "e": 1.5
+   },
+   {
+    "w": " army",
+    "s": 1.5,
+    "e": 1.84
+   },
+   {
+    "w": " made",
+    "s": 1.84,
+    "e": 2.12
+   },
+   {
+    "w": " a",
+    "s": 2.12,
+    "e": 2.22
+   },
+   {
+    "w": " rule,",
+    "s": 2.22,
+    "e": 2.48
+   },
+   {
+    "w": " never",
+    "s": 2.9,
+    "e": 3.4
+   },
+   {
+    "w": " cross",
+    "s": 3.4,
+    "e": 3.84
+   },
+   {
+    "w": " a",
+    "s": 3.84,
+    "e": 4.1
+   },
+   {
+    "w": " bridge",
+    "s": 4.1,
+    "e": 4.46
+   },
+   {
+    "w": " in",
+    "s": 4.46,
+    "e": 4.8
+   },
+   {
+    "w": " step.",
+    "s": 4.8,
+    "e": 5.1
+   }
+  ],
+  "heard": "Nobody died, but the army made a rule, never cross a bridge in step.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Nobody died, but the army made a rule: never cross a bridge in step.",
+  "voice": "mira_narrator"
+ },
+ "14": {
+  "wav": "vo/wav/75354dc5b361_v2.wav",
+  "dur": 6.282,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " now,",
+    "s": 0.2,
+    "e": 0.48
+   },
+   {
+    "w": " the",
+    "s": 0.86,
+    "e": 1.1
+   },
+   {
+    "w": " best",
+    "s": 1.1,
+    "e": 1.58
+   },
+   {
+    "w": "-drilled",
+    "s": 1.58,
+    "e": 2.0
+   },
+   {
+    "w": " soldiers",
+    "s": 2.0,
+    "e": 2.36
+   },
+   {
+    "w": " in",
+    "s": 2.36,
+    "e": 2.6
+   },
+   {
+    "w": " the",
+    "s": 2.6,
+    "e": 2.68
+   },
+   {
+    "w": " world",
+    "s": 2.68,
+    "e": 3.02
+   },
+   {
+    "w": " cross",
+    "s": 3.02,
+    "e": 3.6
+   },
+   {
+    "w": " every",
+    "s": 3.6,
+    "e": 4.22
+   },
+   {
+    "w": " bridge",
+    "s": 4.22,
+    "e": 4.62
+   },
+   {
+    "w": " like",
+    "s": 4.62,
+    "e": 4.94
+   },
+   {
+    "w": " a",
+    "s": 4.94,
+    "e": 5.04
+   },
+   {
+    "w": " crowd",
+    "s": 5.04,
+    "e": 5.38
+   },
+   {
+    "w": " of",
+    "s": 5.38,
+    "e": 5.5
+   },
+   {
+    "w": " tourists.",
+    "s": 5.5,
+    "e": 5.8
+   }
+  ],
+  "heard": "So now, the best-drilled soldiers in the world cross every bridge like a crowd of tourists.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So now, the best drilled soldiers in the world cross every bridge like a crowd of tourists.",
+  "voice": "mira_narrator"
+ }
+}

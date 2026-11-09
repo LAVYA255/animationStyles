@@ -1,0 +1,93 @@
+{
+ "title": "In 2087 you pay with your attention",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Dystopia 2087",
+ "cta": "FOCUS",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[ominous, slow] In 2087, money is gone. You pay... with your attention.",
+   "text": "In 2087, money is gone. You pay... with your attention.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Nova's coffee costs thirty seconds of ads.",
+   "text": "Nova's coffee costs thirty seconds of ads.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Her rent? Four hours of scrolling a day.",
+   "text": "Her rent? Four hours of scrolling a day.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_city",
+   "who": "CITY",
+   "tts": "[cheerful, robotic] Thank you for your attention! Balance: zero.",
+   "text": "Thank you for your attention! Balance: zero.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Every buzz. Every ping. Every 'you won't believe this'... was a tax.",
+   "text": "Every buzz. Every ping. Every 'you won't believe this'... was a tax.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[hushed] So Nova did the one thing nobody did.",
+   "text": "So Nova did the one thing nobody did.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[firm] She turned them off.",
+   "text": "She turned them off.",
+   "gap": 0.9
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[warm, building] Suddenly, she had hours. She read. She built. She started something of her own.",
+   "text": "Suddenly, she had hours. She read. She built. She started something of her own.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_city",
+   "who": "CITY",
+   "tts": "[glitching, alarmed] Attention levels... critical.",
+   "text": "Attention levels... critical.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[warm, firm] The richest people in 2087... owned their attention.",
+   "text": "The richest people in 2087... owned their attention.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[knowing, slight smile] Funny thing is... you just paid fifty seconds for this video.",
+   "text": "Funny thing is... you just paid fifty seconds for this video.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment FOCUS for the free notification detox.",
+   "text": "Comment FOCUS for the free notification detox.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

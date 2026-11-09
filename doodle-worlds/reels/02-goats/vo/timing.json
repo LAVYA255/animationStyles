@@ -1,0 +1,745 @@
+{
+ "dur": 55.2,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 3.356,
+   "text": "Interest was invented... by goats.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     1.03,
+     "Interest"
+    ],
+    [
+     1.03,
+     1.17,
+     "was"
+    ],
+    [
+     1.17,
+     1.71,
+     "invented"
+    ],
+    [
+     1.71,
+     2.63,
+     "by"
+    ],
+    [
+     2.63,
+     2.93,
+     "goats."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 3.656,
+   "end": 7.996,
+   "text": "Ten thousand years ago, Brok needed goats. Kira had ten.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     3.656,
+     3.836,
+     "Ten"
+    ],
+    [
+     3.836,
+     4.236,
+     "thousand"
+    ],
+    [
+     4.236,
+     4.556,
+     "years"
+    ],
+    [
+     4.556,
+     4.936,
+     "ago,"
+    ],
+    [
+     5.296,
+     5.636,
+     "Brock"
+    ],
+    [
+     5.636,
+     5.996,
+     "needed"
+    ],
+    [
+     5.996,
+     6.416,
+     "goats."
+    ],
+    [
+     6.796,
+     7.416,
+     "Kira"
+    ],
+    [
+     7.416,
+     7.576,
+     "had"
+    ],
+    [
+     7.576,
+     7.836,
+     "ten."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "BROK",
+   "voice": "w_brok",
+   "start": 8.396,
+   "end": 12.276,
+   "text": "Lend me your goats? I'll give 'em back after winter!",
+   "file": "line_02.wav",
+   "words": [
+    [
+     8.396,
+     8.816,
+     "Lend"
+    ],
+    [
+     8.816,
+     9.016,
+     "me"
+    ],
+    [
+     9.016,
+     9.216,
+     "your"
+    ],
+    [
+     9.216,
+     9.596,
+     "goats."
+    ],
+    [
+     10.196,
+     10.556,
+     "I'll"
+    ],
+    [
+     10.556,
+     10.756,
+     "give"
+    ],
+    [
+     10.756,
+     10.876,
+     "them"
+    ],
+    [
+     10.876,
+     11.156,
+     "back"
+    ],
+    [
+     11.156,
+     11.496,
+     "after"
+    ],
+    [
+     11.496,
+     11.816,
+     "winter."
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 12.526,
+   "end": 15.726,
+   "text": "Spring came. Brok brought back ten goats...",
+   "file": "line_03.wav",
+   "words": [
+    [
+     12.526,
+     12.826,
+     "Spring"
+    ],
+    [
+     12.826,
+     13.206,
+     "came."
+    ],
+    [
+     13.786,
+     14.186,
+     "Brock"
+    ],
+    [
+     14.186,
+     14.486,
+     "brought"
+    ],
+    [
+     14.486,
+     14.786,
+     "back"
+    ],
+    [
+     14.786,
+     15.106,
+     "ten"
+    ],
+    [
+     15.106,
+     15.426,
+     "goats."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 16.076,
+   "end": 17.79,
+   "text": "...and fourteen babies.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     16.076,
+     16.256,
+     "and"
+    ],
+    [
+     16.256,
+     16.816,
+     "14"
+    ],
+    [
+     16.816,
+     17.357,
+     "babies."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "KIRA",
+   "voice": "w_kira",
+   "start": 17.99,
+   "end": 20.351,
+   "text": "Whose damn babies are those?",
+   "file": "line_05.wav",
+   "words": [
+    [
+     17.99,
+     18.37,
+     "Whose"
+    ],
+    [
+     18.37,
+     18.85,
+     "damn"
+    ],
+    [
+     18.85,
+     19.35,
+     "babies"
+    ],
+    [
+     19.35,
+     19.73,
+     "are"
+    ],
+    [
+     19.73,
+     20.01,
+     "those?"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "BROK",
+   "voice": "w_brok",
+   "start": 20.801,
+   "end": 23.075,
+   "text": "Your goats did it! Not me!",
+   "file": "line_06.wav",
+   "words": [
+    [
+     20.801,
+     21.101,
+     "Your"
+    ],
+    [
+     21.101,
+     21.521,
+     "goats"
+    ],
+    [
+     21.521,
+     21.921,
+     "did"
+    ],
+    [
+     21.921,
+     22.061,
+     "it,"
+    ],
+    [
+     22.301,
+     22.481,
+     "not"
+    ],
+    [
+     22.481,
+     22.781,
+     "me!"
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 23.425,
+   "end": 26.831,
+   "text": "So Kira kept the babies. That's how interest was born.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     23.425,
+     23.625,
+     "So"
+    ],
+    [
+     23.625,
+     23.905,
+     "Kira"
+    ],
+    [
+     23.905,
+     24.105,
+     "kept"
+    ],
+    [
+     24.105,
+     24.245,
+     "the"
+    ],
+    [
+     24.245,
+     24.485,
+     "babies."
+    ],
+    [
+     25.225,
+     25.685,
+     "That's"
+    ],
+    [
+     25.685,
+     25.805,
+     "how"
+    ],
+    [
+     25.805,
+     26.105,
+     "interest"
+    ],
+    [
+     26.105,
+     26.385,
+     "was"
+    ],
+    [
+     26.385,
+     26.645,
+     "born."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 27.281,
+   "end": 31.747,
+   "text": "In ancient Sumer, the word for interest literally meant... baby goat.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     27.281,
+     27.421,
+     "In"
+    ],
+    [
+     27.421,
+     27.741,
+     "ancient"
+    ],
+    [
+     27.741,
+     28.281,
+     "Sumer,"
+    ],
+    [
+     28.601,
+     28.681,
+     "the"
+    ],
+    [
+     28.681,
+     28.921,
+     "word"
+    ],
+    [
+     28.921,
+     29.101,
+     "for"
+    ],
+    [
+     29.101,
+     29.421,
+     "interest"
+    ],
+    [
+     29.421,
+     29.881,
+     "literally"
+    ],
+    [
+     29.881,
+     30.361,
+     "meant"
+    ],
+    [
+     30.361,
+     31.201,
+     "baby"
+    ],
+    [
+     31.201,
+     31.501,
+     "goat."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 32.047,
+   "end": 33.559,
+   "text": "Then the babies had babies.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     32.047,
+     32.267,
+     "Then"
+    ],
+    [
+     32.267,
+     32.427,
+     "the"
+    ],
+    [
+     32.427,
+     32.727,
+     "babies"
+    ],
+    [
+     32.727,
+     32.967,
+     "had"
+    ],
+    [
+     32.967,
+     33.227,
+     "babies."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 33.959,
+   "end": 37.914,
+   "text": "Ten goats became twenty-four. Then fifty-eight. Then a hundred and forty.",
+   "file": "line_10.wav",
+   "words": [
+    [
+     33.959,
+     34.179,
+     "10"
+    ],
+    [
+     34.179,
+     34.399,
+     "goats"
+    ],
+    [
+     34.399,
+     34.699,
+     "became"
+    ],
+    [
+     34.699,
+     35.239,
+     "24,"
+    ],
+    [
+     35.619,
+     35.739,
+     "then"
+    ],
+    [
+     35.739,
+     36.199,
+     "58,"
+    ],
+    [
+     36.719,
+     36.839,
+     "then"
+    ],
+    [
+     36.839,
+     37.379,
+     "140."
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 38.364,
+   "end": 42.963,
+   "text": "That's compound interest. Your money has babies... and the babies have babies.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     38.364,
+     38.704,
+     "That's"
+    ],
+    [
+     38.704,
+     38.964,
+     "compound"
+    ],
+    [
+     38.964,
+     39.464,
+     "interest."
+    ],
+    [
+     40.004,
+     40.144,
+     "Your"
+    ],
+    [
+     40.144,
+     40.364,
+     "money"
+    ],
+    [
+     40.364,
+     40.564,
+     "has"
+    ],
+    [
+     40.564,
+     40.864,
+     "babies,"
+    ],
+    [
+     41.484,
+     41.784,
+     "and"
+    ],
+    [
+     41.784,
+     41.924,
+     "the"
+    ],
+    [
+     41.924,
+     42.164,
+     "babies"
+    ],
+    [
+     42.164,
+     42.384,
+     "have"
+    ],
+    [
+     42.384,
+     42.644,
+     "babies."
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "BROK",
+   "voice": "w_brok",
+   "start": 43.263,
+   "end": 46.078,
+   "text": "Kira... can I borrow ten more?",
+   "file": "line_12.wav",
+   "words": [
+    [
+     43.263,
+     43.763,
+     "Kira,"
+    ],
+    [
+     44.303,
+     44.623,
+     "can"
+    ],
+    [
+     44.623,
+     44.803,
+     "I"
+    ],
+    [
+     44.803,
+     45.123,
+     "borrow"
+    ],
+    [
+     45.123,
+     45.523,
+     "ten"
+    ],
+    [
+     45.523,
+     45.863,
+     "more?"
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "who": "KIRA",
+   "voice": "w_kira",
+   "start": 46.778,
+   "end": 50.572,
+   "text": "Sure. Two babies per goat. Sign the damn rock.",
+   "file": "line_13.wav",
+   "words": [
+    [
+     46.778,
+     47.098,
+     "Sure."
+    ],
+    [
+     47.538,
+     47.818,
+     "Two"
+    ],
+    [
+     47.818,
+     48.098,
+     "babies"
+    ],
+    [
+     48.098,
+     48.418,
+     "per"
+    ],
+    [
+     48.418,
+     48.738,
+     "goat."
+    ],
+    [
+     49.218,
+     49.678,
+     "Sign"
+    ],
+    [
+     49.678,
+     49.858,
+     "the"
+    ],
+    [
+     49.858,
+     50.118,
+     "damn"
+    ],
+    [
+     50.118,
+     50.358,
+     "rock."
+    ]
+   ]
+  },
+  {
+   "i": 14,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 50.572,
+   "end": 53.601,
+   "text": "Comment GROW for the free compound interest calculator.",
+   "file": "line_14.wav",
+   "words": [
+    [
+     50.572,
+     50.912,
+     "Comment,"
+    ],
+    [
+     51.072,
+     51.292,
+     "grow"
+    ],
+    [
+     51.292,
+     51.692,
+     "for"
+    ],
+    [
+     51.692,
+     51.812,
+     "the"
+    ],
+    [
+     51.812,
+     52.072,
+     "free"
+    ],
+    [
+     52.072,
+     52.412,
+     "compound"
+    ],
+    [
+     52.412,
+     52.772,
+     "interest"
+    ],
+    [
+     52.772,
+     53.232,
+     "calculator."
+    ]
+   ]
+  }
+ ]
+}

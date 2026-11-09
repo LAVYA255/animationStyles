@@ -1,0 +1,658 @@
+{
+ "dur": 53.73,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.4,
+   "end": 3.38,
+   "text": "She tried to sell ice... to penguins.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.4,
+     0.58,
+     "she"
+    ],
+    [
+     0.58,
+     0.9,
+     "tried"
+    ],
+    [
+     0.9,
+     1.16,
+     "to"
+    ],
+    [
+     1.16,
+     1.32,
+     "sell"
+    ],
+    [
+     1.32,
+     1.9,
+     "ice"
+    ],
+    [
+     1.9,
+     2.64,
+     "to"
+    ],
+    [
+     2.64,
+     3.18,
+     "penguins."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "PEMMY",
+   "voice": "w_pemmy",
+   "start": 3.73,
+   "end": 7.867,
+   "text": "Fresh ice! Artisanal ice! Ice with a tiny umbrella!",
+   "file": "line_01.wav",
+   "words": [
+    [
+     3.73,
+     4.07,
+     "Fresh"
+    ],
+    [
+     4.07,
+     4.57,
+     "ice,"
+    ],
+    [
+     4.95,
+     5.53,
+     "artisanal"
+    ],
+    [
+     5.53,
+     5.83,
+     "ice,"
+    ],
+    [
+     6.27,
+     6.55,
+     "ice"
+    ],
+    [
+     6.55,
+     6.77,
+     "with"
+    ],
+    [
+     6.77,
+     6.91,
+     "a"
+    ],
+    [
+     6.91,
+     7.13,
+     "tiny"
+    ],
+    [
+     7.13,
+     7.47,
+     "umbrella."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "GRUMP",
+   "voice": "w_grump",
+   "start": 8.317,
+   "end": 11.713,
+   "text": "Lady. I'm standing on your damn product.",
+   "file": "line_02.wav",
+   "words": [
+    [
+     8.317,
+     8.757,
+     "Lady,"
+    ],
+    [
+     9.437,
+     9.637,
+     "I'm"
+    ],
+    [
+     9.637,
+     10.037,
+     "standing"
+    ],
+    [
+     10.037,
+     10.337,
+     "on"
+    ],
+    [
+     10.337,
+     10.517,
+     "your"
+    ],
+    [
+     10.517,
+     10.857,
+     "damn"
+    ],
+    [
+     10.857,
+     11.397,
+     "product."
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 12.013,
+   "end": 18.573,
+   "text": "Zero sales. So she made it fancier. Ice sculptures. Premium ice. Ice subscriptions.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     12.013,
+     12.353,
+     "zero"
+    ],
+    [
+     12.353,
+     12.713,
+     "sales."
+    ],
+    [
+     13.353,
+     13.553,
+     "So"
+    ],
+    [
+     13.553,
+     13.713,
+     "she"
+    ],
+    [
+     13.713,
+     13.913,
+     "made"
+    ],
+    [
+     13.913,
+     14.013,
+     "it"
+    ],
+    [
+     14.013,
+     14.493,
+     "fancier."
+    ],
+    [
+     14.993,
+     15.253,
+     "Ice"
+    ],
+    [
+     15.253,
+     15.633,
+     "sculptures,"
+    ],
+    [
+     16.213,
+     16.633,
+     "premium"
+    ],
+    [
+     16.633,
+     16.973,
+     "ice,"
+    ],
+    [
+     17.493,
+     17.713,
+     "ice"
+    ],
+    [
+     17.713,
+     18.153,
+     "subscriptions."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 19.023,
+   "end": 20.136,
+   "text": "Still zero.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     19.023,
+     19.383,
+     "Still"
+    ],
+    [
+     19.383,
+     19.703,
+     "zero."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 20.486,
+   "end": 24.823,
+   "text": "Then Pemmy tried something radical. She asked what their biggest problem was.",
+   "file": "line_05.wav",
+   "words": [
+    [
+     20.486,
+     20.786,
+     "Then"
+    ],
+    [
+     20.786,
+     21.106,
+     "Pemi"
+    ],
+    [
+     21.106,
+     21.346,
+     "tried"
+    ],
+    [
+     21.346,
+     21.666,
+     "something"
+    ],
+    [
+     21.666,
+     22.166,
+     "radical."
+    ],
+    [
+     22.666,
+     22.986,
+     "She"
+    ],
+    [
+     22.986,
+     23.286,
+     "asked"
+    ],
+    [
+     23.286,
+     23.466,
+     "what"
+    ],
+    [
+     23.466,
+     23.566,
+     "their"
+    ],
+    [
+     23.566,
+     23.866,
+     "biggest"
+    ],
+    [
+     23.866,
+     24.326,
+     "problem"
+    ],
+    [
+     24.326,
+     24.606,
+     "was."
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "GRUMP",
+   "voice": "w_grump",
+   "start": 25.173,
+   "end": 30.834,
+   "text": "My feet are freezing. Every. Single. Day.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     25.173,
+     25.573,
+     "My"
+    ],
+    [
+     25.573,
+     25.993,
+     "feet"
+    ],
+    [
+     25.993,
+     26.233,
+     "are"
+    ],
+    [
+     26.233,
+     26.873,
+     "freezing"
+    ],
+    [
+     26.873,
+     28.113,
+     "every"
+    ],
+    [
+     28.113,
+     29.393,
+     "single"
+    ],
+    [
+     29.393,
+     30.433,
+     "day."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 31.134,
+   "end": 35.344,
+   "text": "Every penguin said the same thing. So she sold tiny wool socks.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     31.134,
+     31.434,
+     "Every"
+    ],
+    [
+     31.434,
+     31.734,
+     "penguin"
+    ],
+    [
+     31.734,
+     31.974,
+     "said"
+    ],
+    [
+     31.974,
+     32.134,
+     "the"
+    ],
+    [
+     32.134,
+     32.314,
+     "same"
+    ],
+    [
+     32.314,
+     32.574,
+     "thing."
+    ],
+    [
+     33.154,
+     33.454,
+     "So"
+    ],
+    [
+     33.454,
+     33.814,
+     "she"
+    ],
+    [
+     33.814,
+     34.074,
+     "sold"
+    ],
+    [
+     34.074,
+     34.394,
+     "tiny"
+    ],
+    [
+     34.394,
+     34.734,
+     "wool"
+    ],
+    [
+     34.734,
+     35.014,
+     "socks."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 35.794,
+   "end": 37.714,
+   "text": "Sold out in one day.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     35.794,
+     36.114,
+     "Sold"
+    ],
+    [
+     36.114,
+     36.394,
+     "out"
+    ],
+    [
+     36.394,
+     36.734,
+     "in"
+    ],
+    [
+     36.734,
+     37.094,
+     "one"
+    ],
+    [
+     37.094,
+     37.494,
+     "day!"
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 38.314,
+   "end": 42.86,
+   "text": "That's customer discovery. Don't pitch your idea. Ask about their problem.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     38.314,
+     38.614,
+     "That's"
+    ],
+    [
+     38.614,
+     38.954,
+     "customer"
+    ],
+    [
+     38.954,
+     39.394,
+     "discovery."
+    ],
+    [
+     39.934,
+     40.354,
+     "Don't"
+    ],
+    [
+     40.354,
+     40.494,
+     "pitch"
+    ],
+    [
+     40.494,
+     40.734,
+     "your"
+    ],
+    [
+     40.734,
+     40.974,
+     "idea."
+    ],
+    [
+     41.454,
+     41.774,
+     "Ask"
+    ],
+    [
+     41.774,
+     42.054,
+     "about"
+    ],
+    [
+     42.054,
+     42.274,
+     "their"
+    ],
+    [
+     42.274,
+     42.674,
+     "problem."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "PEMMY",
+   "voice": "w_pemmy",
+   "start": 43.16,
+   "end": 45.801,
+   "text": "Okay! Next product... ice!",
+   "file": "line_10.wav",
+   "words": [
+    [
+     43.16,
+     43.42,
+     "Okay,"
+    ],
+    [
+     43.7,
+     43.9,
+     "next"
+    ],
+    [
+     43.9,
+     44.34,
+     "product,"
+    ],
+    [
+     45.14,
+     45.4,
+     "ice!"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "GRUMP",
+   "voice": "w_grump",
+   "start": 46.501,
+   "end": 49.174,
+   "text": "Oh, for God's sake.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     46.501,
+     47.041,
+     "Ugh,"
+    ],
+    [
+     47.461,
+     47.781,
+     "oh"
+    ],
+    [
+     47.781,
+     47.981,
+     "for"
+    ],
+    [
+     47.981,
+     48.641,
+     "God's"
+    ],
+    [
+     48.641,
+     48.941,
+     "sake."
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 49.174,
+   "end": 52.134,
+   "text": "Comment ASK for the free customer interview script.",
+   "file": "line_12.wav",
+   "words": [
+    [
+     49.174,
+     49.534,
+     "comment"
+    ],
+    [
+     49.534,
+     50.074,
+     "ask"
+    ],
+    [
+     50.074,
+     50.354,
+     "for"
+    ],
+    [
+     50.354,
+     50.454,
+     "the"
+    ],
+    [
+     50.454,
+     50.734,
+     "free"
+    ],
+    [
+     50.734,
+     51.114,
+     "customer"
+    ],
+    [
+     51.114,
+     51.654,
+     "interview"
+    ],
+    [
+     51.654,
+     51.914,
+     "script."
+    ]
+   ]
+  }
+ ]
+}

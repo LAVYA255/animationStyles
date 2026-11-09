@@ -1,0 +1,602 @@
+{
+ "dur": 48.59,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 5.256,
+   "text": "Why does everything cost ninety-nine? Squirrels figured it out first.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     0.71,
+     "Why"
+    ],
+    [
+     0.71,
+     0.99,
+     "does"
+    ],
+    [
+     0.99,
+     1.57,
+     "everything"
+    ],
+    [
+     1.57,
+     2.09,
+     "cost"
+    ],
+    [
+     2.09,
+     2.87,
+     "99?"
+    ],
+    [
+     3.71,
+     4.25,
+     "Squirrels"
+    ],
+    [
+     4.25,
+     4.45,
+     "figured"
+    ],
+    [
+     4.45,
+     4.65,
+     "it"
+    ],
+    [
+     4.65,
+     4.75,
+     "out"
+    ],
+    [
+     4.75,
+     4.99,
+     "first."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 5.606,
+   "end": 9.222,
+   "text": "Hazel sold acorns for a hundred... and nobody bought.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     5.606,
+     6.006,
+     "Hazel"
+    ],
+    [
+     6.006,
+     6.286,
+     "sold"
+    ],
+    [
+     6.286,
+     6.746,
+     "acorns"
+    ],
+    [
+     6.746,
+     6.926,
+     "for"
+    ],
+    [
+     6.926,
+     7.086,
+     "a"
+    ],
+    [
+     7.086,
+     7.346,
+     "hundred,"
+    ],
+    [
+     8.006,
+     8.206,
+     "and"
+    ],
+    [
+     8.206,
+     8.686,
+     "nobody"
+    ],
+    [
+     8.686,
+     9.046,
+     "bought."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "NUTMEG",
+   "voice": "w_nutmeg",
+   "start": 9.522,
+   "end": 13.405,
+   "text": "A HUNDRED? That's like... a HUNDRED!",
+   "file": "line_02.wav",
+   "words": [
+    [
+     9.522,
+     9.762,
+     "a"
+    ],
+    [
+     9.762,
+     10.342,
+     "hundred?"
+    ],
+    [
+     10.962,
+     11.382,
+     "That's"
+    ],
+    [
+     11.382,
+     11.662,
+     "like"
+    ],
+    [
+     11.662,
+     12.422,
+     "a"
+    ],
+    [
+     12.422,
+     12.922,
+     "hundred!"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 13.855,
+   "end": 16.624,
+   "text": "So she changed one tiny thing.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     13.855,
+     14.075,
+     "So"
+    ],
+    [
+     14.075,
+     14.255,
+     "she"
+    ],
+    [
+     14.255,
+     14.655,
+     "changed"
+    ],
+    [
+     14.655,
+     15.135,
+     "one"
+    ],
+    [
+     15.135,
+     15.975,
+     "tiny"
+    ],
+    [
+     15.975,
+     16.475,
+     "thing."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 16.974,
+   "end": 18.419,
+   "text": "Ninety-nine.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     16.974,
+     17.454,
+     "99"
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "NUTMEG",
+   "voice": "w_nutmeg",
+   "start": 18.719,
+   "end": 21.898,
+   "text": "Ninety-nine? That's basically ninety!",
+   "file": "line_05.wav",
+   "words": [
+    [
+     18.719,
+     19.639,
+     "99?"
+    ],
+    [
+     20.019,
+     20.579,
+     "That's"
+    ],
+    [
+     20.579,
+     21.019,
+     "basically"
+    ],
+    [
+     21.019,
+     21.499,
+     "90!"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 22.498,
+   "end": 24.586,
+   "text": "Sold out by lunch.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     22.498,
+     22.858,
+     "Sold"
+    ],
+    [
+     22.858,
+     23.138,
+     "out"
+    ],
+    [
+     23.138,
+     23.358,
+     "by"
+    ],
+    [
+     23.358,
+     23.778,
+     "lunch."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 24.936,
+   "end": 29.709,
+   "text": "Our brains read prices left to right. We see the first digit... and stop.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     24.936,
+     25.076,
+     "Our"
+    ],
+    [
+     25.076,
+     25.416,
+     "brains"
+    ],
+    [
+     25.416,
+     25.676,
+     "read"
+    ],
+    [
+     25.676,
+     26.116,
+     "prices"
+    ],
+    [
+     26.116,
+     26.436,
+     "left"
+    ],
+    [
+     26.436,
+     26.616,
+     "to"
+    ],
+    [
+     26.616,
+     26.856,
+     "right."
+    ],
+    [
+     27.336,
+     27.576,
+     "We"
+    ],
+    [
+     27.576,
+     27.736,
+     "see"
+    ],
+    [
+     27.736,
+     27.856,
+     "the"
+    ],
+    [
+     27.856,
+     28.116,
+     "first"
+    ],
+    [
+     28.116,
+     28.456,
+     "digit"
+    ],
+    [
+     28.456,
+     29.296,
+     "and"
+    ],
+    [
+     29.296,
+     29.496,
+     "stop."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 30.059,
+   "end": 33.758,
+   "text": "Ninety-nine feels like ninety. It's just one acorn less than a hundred.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     30.059,
+     30.499,
+     "99"
+    ],
+    [
+     30.499,
+     30.859,
+     "feels"
+    ],
+    [
+     30.859,
+     31.039,
+     "like"
+    ],
+    [
+     31.039,
+     31.359,
+     "90."
+    ],
+    [
+     31.799,
+     32.079,
+     "It's"
+    ],
+    [
+     32.079,
+     32.239,
+     "just"
+    ],
+    [
+     32.239,
+     32.539,
+     "one"
+    ],
+    [
+     32.539,
+     32.939,
+     "acorn"
+    ],
+    [
+     32.939,
+     33.119,
+     "less"
+    ],
+    [
+     33.119,
+     33.279,
+     "than"
+    ],
+    [
+     33.279,
+     33.519,
+     "100."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 34.258,
+   "end": 38.318,
+   "text": "That's charm pricing. Shops use it on you every single day.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     34.258,
+     34.618,
+     "That's"
+    ],
+    [
+     34.618,
+     34.918,
+     "charm"
+    ],
+    [
+     34.918,
+     35.358,
+     "pricing."
+    ],
+    [
+     35.898,
+     36.338,
+     "Shops"
+    ],
+    [
+     36.338,
+     36.558,
+     "use"
+    ],
+    [
+     36.558,
+     36.678,
+     "it"
+    ],
+    [
+     36.678,
+     36.818,
+     "on"
+    ],
+    [
+     36.818,
+     36.938,
+     "you"
+    ],
+    [
+     36.938,
+     37.398,
+     "every"
+    ],
+    [
+     37.398,
+     37.738,
+     "single"
+    ],
+    [
+     37.738,
+     38.058,
+     "day."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "NUTMEG",
+   "voice": "w_nutmeg",
+   "start": 38.768,
+   "end": 43.636,
+   "text": "Can I pay ninety-eight now... and one acorn tomorrow?",
+   "file": "line_10.wav",
+   "words": [
+    [
+     38.768,
+     38.948,
+     "Can"
+    ],
+    [
+     38.948,
+     39.128,
+     "I"
+    ],
+    [
+     39.128,
+     39.428,
+     "pay"
+    ],
+    [
+     39.428,
+     40.228,
+     "98"
+    ],
+    [
+     40.228,
+     40.748,
+     "now"
+    ],
+    [
+     40.748,
+     41.468,
+     "and"
+    ],
+    [
+     41.468,
+     41.848,
+     "one"
+    ],
+    [
+     41.848,
+     42.408,
+     "acorn"
+    ],
+    [
+     42.408,
+     42.828,
+     "tomorrow?"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 44.436,
+   "end": 46.991,
+   "text": "Comment PRICE for the free pricing cheat sheet.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     44.436,
+     44.756,
+     "Comment"
+    ],
+    [
+     44.756,
+     45.136,
+     "price"
+    ],
+    [
+     45.136,
+     45.416,
+     "for"
+    ],
+    [
+     45.416,
+     45.516,
+     "the"
+    ],
+    [
+     45.516,
+     45.756,
+     "free"
+    ],
+    [
+     45.756,
+     46.176,
+     "pricing"
+    ],
+    [
+     46.176,
+     46.476,
+     "cheat"
+    ],
+    [
+     46.476,
+     46.756,
+     "sheet."
+    ]
+   ]
+  }
+ ]
+}

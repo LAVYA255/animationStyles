@@ -1,0 +1,113 @@
+{
+ "title": "Interest was invented by goats",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Stone age pasture",
+ "cta": "GROW",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] Interest was invented... by goats.",
+   "text": "Interest was invented... by goats.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Ten thousand years ago, Brok needed goats. Kira had ten.",
+   "text": "Ten thousand years ago, Brok needed goats. Kira had ten.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_brok",
+   "who": "BROK",
+   "tts": "[pleading] Lend me your goats? I'll give 'em back after winter!",
+   "text": "Lend me your goats? I'll give 'em back after winter!",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Spring came. Brok brought back ten goats...",
+   "text": "Spring came. Brok brought back ten goats...",
+   "gap": 0.25
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[amused] ...and fourteen babies.",
+   "text": "...and fourteen babies.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_kira",
+   "who": "KIRA",
+   "tts": "[suspicious, dry] Whose damn babies are those?",
+   "text": "Whose damn babies are those?",
+   "gap": 0.2
+  },
+  {
+   "voice": "w_brok",
+   "who": "BROK",
+   "tts": "[defensive] Your goats did it! Not me!",
+   "text": "Your goats did it! Not me!",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "So Kira kept the babies. That's how interest was born.",
+   "text": "So Kira kept the babies. That's how interest was born.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "In ancient Sumer, the word for interest literally meant... baby goat.",
+   "text": "In ancient Sumer, the word for interest literally meant... baby goat.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] Then the babies had babies.",
+   "text": "Then the babies had babies.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building, faster] Ten goats became twenty-four. Then fifty-eight. Then a hundred and forty.",
+   "text": "Ten goats became twenty-four. Then fifty-eight. Then a hundred and forty.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's compound interest. Your money has babies... and the babies have babies.",
+   "text": "That's compound interest. Your money has babies... and the babies have babies.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_brok",
+   "who": "BROK",
+   "tts": "[sheepish] Kira... can I borrow ten more?",
+   "text": "Kira... can I borrow ten more?",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_kira",
+   "who": "KIRA",
+   "tts": "[dry, deadpan] Sure. Two babies per goat. Sign the damn rock.",
+   "text": "Sure. Two babies per goat. Sign the damn rock.",
+   "gap": 0.7
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Comment GROW for the free compound interest calculator.",
+   "text": "Comment GROW for the free compound interest calculator.",
+   "gap": 0.0
+  }
+ ]
+}

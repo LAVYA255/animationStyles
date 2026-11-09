@@ -1,0 +1,106 @@
+{
+ "title": "He tried to scale the golden goose",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Fairy-tale farm",
+ "cta": "REST",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] This goose laid one golden egg a day. The farmer still wasn't happy.",
+   "text": "This goose laid one golden egg a day. The farmer still wasn't happy.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_tod",
+   "who": "TOD",
+   "tts": "[hyped, loud] One egg? We're scaling, baby!",
+   "text": "One egg? We're scaling, baby!",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "So Tod added night shifts. Weekend shifts. Motivational posters.",
+   "text": "So Tod added night shifts. Weekend shifts. Motivational posters.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_tod",
+   "who": "TOD",
+   "tts": "[hyped] Rise and grind, Goldie! Eggs don't lay themselves!",
+   "text": "Rise and grind, Goldie! Eggs don't lay themselves!",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_goldie",
+   "who": "GOLDIE",
+   "tts": "[exhausted, dry] ...They literally do. That's the whole point.",
+   "text": "They literally do. That's the whole point.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[brisk] Week one: two eggs. Week two: one.",
+   "text": "Week one: two eggs. Week two: one.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[slow, sad] Week three... a tiny, sad, bronze egg.",
+   "text": "Week three... a tiny, sad, bronze egg.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_goldie",
+   "who": "GOLDIE",
+   "tts": "[flat, fed up] I'm a goose. Not a damn factory.",
+   "text": "I'm a goose. Not a damn factory.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "So Tod tried something insane. He let her sleep.",
+   "text": "So Tod tried something insane. He let her sleep.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[warm] Back to one golden egg a day. For years.",
+   "text": "Back to one golden egg a day. For years.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Burnout doesn't make more eggs. Rest does.",
+   "text": "Burnout doesn't make more eggs. Rest does.",
+   "gap": 0.6
+  },
+  {
+   "voice": "w_tod",
+   "who": "TOD",
+   "tts": "[whispering, excited] Goldie... what if we started a podcast?",
+   "text": "Goldie... what if we started a podcast?",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_goldie",
+   "who": "GOLDIE",
+   "tts": "[flat, deadpan] I will bite you.",
+   "text": "I will bite you.",
+   "gap": 0.7
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Comment REST for the free weekly rest planner.",
+   "text": "Comment REST for the free weekly rest planner.",
+   "gap": 0.0
+  }
+ ]
+}

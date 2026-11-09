@@ -1,0 +1,102 @@
+{
+ "title": "How ChatGPT Actually Writes",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "ChatGPT has no idea what it's about to say. Not even the next word.",
+   "text": "ChatGPT has no idea what it's about to say. Not even the next word.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Every time it answers you, it plays one tiny game, over and over.",
+   "text": "Every time it answers you, it plays one tiny game, over and over.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It reads everything so far, and asks one question. What word probably comes next?",
+   "text": "It reads everything so far, and asks one question. What word probably comes next?",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Say you typed, the cat sat on the... Mat gets a big slice of the wheel. Sofa gets a smaller one. Moon gets a tiny sliver.",
+   "text": "Say you typed, the cat sat on the... Mat gets a big slice of the wheel. Sofa gets a smaller one. Moon gets a tiny sliver.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Then it spins. Picks one word. Sticks it on the end. And spins again. For every single word.",
+   "text": "Then it spins. Picks one word. Sticks it on the end. And spins again. For every single word.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, it's like a gambler who's watched a billion games. He can't see the future, but he's scary good at betting on it.",
+   "text": "You see, it's like a gambler who's watched a billion games. He can't see the future, but he's scary good at betting on it.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "That's why the same question can get a different answer. The wheel just landed somewhere else.",
+   "text": "That's why the same question can get a different answer. The wheel just landed somewhere else.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So next time AI sounds super sure of itself, remember. It's just on a hot streak.",
+   "text": "So next time AI sounds super sure of itself, remember. It's just on a hot streak.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

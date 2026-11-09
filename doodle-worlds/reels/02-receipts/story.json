@@ -1,0 +1,107 @@
+{
+ "title": "Humans invented writing for receipts",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Sumer, 3100 BC",
+ "cta": "RECORD",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] Humans didn't invent writing for poems. They invented it for... receipts.",
+   "text": "Humans didn't invent writing for poems. They invented it for... receipts.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Five thousand years ago, in Sumer, Nisa kept the city's grain.",
+   "text": "Five thousand years ago, in Sumer, Nisa kept the city's grain.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_duru",
+   "who": "DURU",
+   "tts": "[cheerful, cheeky] Lend me ten sacks! I pay you back after harvest!",
+   "text": "Lend me ten sacks! I pay you back after harvest!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Harvest came.",
+   "text": "Harvest came.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_duru",
+   "who": "DURU",
+   "tts": "[innocent] Ten? I borrowed three.",
+   "text": "Ten? I borrowed three.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Nisa had no proof. Just her memory... against his.",
+   "text": "Nisa had no proof. Just her memory... against his.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] So next time, she pressed ten marks into wet clay... and made him press his seal beside them.",
+   "text": "So next time, she pressed ten marks into wet clay... and made him press his seal beside them.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[teasing] Next harvest.",
+   "text": "Next harvest.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_duru",
+   "who": "DURU",
+   "tts": "[confident] I borrowed thr-",
+   "text": "I borrowed thr-",
+   "gap": 0.25
+  },
+  {
+   "voice": "w_nisa",
+   "who": "NISA",
+   "tts": "[smug, calm] The clay says ten.",
+   "text": "The clay says ten.",
+   "gap": -0.05
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[triumphant] Paid in full. Soon the whole city was writing down who owes what.",
+   "text": "Paid in full. Soon the whole city was writing down who owes what.",
+   "gap": 0.55
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Writing didn't start with stories. It started with trust. Memory lies. Clay doesn't.",
+   "text": "Writing didn't start with stories. It started with trust. Memory lies. Clay doesn't.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_duru",
+   "who": "DURU",
+   "tts": "[sheepish] ...Can I pay in beer?",
+   "text": "...Can I pay in beer?",
+   "gap": 0.55
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment RECORD for the free invoice template.",
+   "text": "Comment RECORD for the free invoice template.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

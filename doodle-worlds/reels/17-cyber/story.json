@@ -1,0 +1,23 @@
+{
+ "title": "Grandma got a call from her grandson. It wasnt him",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Cyberpunk city",
+ "cta": "SAFE",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[tense] Grandma got a call from her grandson. It wasn't him.", "text": "Grandma got a call from her grandson. It wasn't him.", "gap": 0.45},
+  {"voice": "w_arjun", "who": "FAKE", "tts": "[panicked, fast] Nani! It's me, Arjun! I crashed the hover-car. I need money, right now!", "text": "Nani! It's me, Arjun! I crashed the hover-car. I need money, right now!", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "Same voice. Same panic. Even the same nickname.", "text": "Same voice. Same panic. Even the same nickname.", "gap": 0.3},
+  {"voice": "w_nani", "who": "NANI", "tts": "[worried] Oh, beta! How much?", "text": "Oh, beta! How much?", "gap": 0.25},
+  {"voice": "w_arjun", "who": "FAKE", "tts": "[panicked] Five thousand credits. And please, don't tell Mom!", "text": "Five thousand credits. And please, don't tell Mom!", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "Today, a few seconds of audio is enough to clone a voice.", "text": "Today, a few seconds of audio is enough to clone a voice.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "But Nani had one rule.", "text": "But Nani had one rule.", "gap": 0.3},
+  {"voice": "w_nani", "who": "NANI", "tts": "[calm, sharp] What's our family safe word?", "text": "What's our family safe word?", "gap": 0.5},
+  {"voice": "w_arjun", "who": "FAKE", "tts": "[confused, hesitant] ...The what?", "text": "The what?", "gap": 0.4},
+  {"voice": "w_nani", "who": "NANI", "tts": "[smug] Nice try, you damn toaster.", "text": "Nice try, you damn toaster.", "gap": 0.5},
+  {"voice": "mira_narrator", "who": "N", "tts": "A family safe word. AI can copy a voice. It can't copy a secret.", "text": "A family safe word. AI can copy a voice. It can't copy a secret.", "gap": 0.6},
+  {"voice": "w_arjun", "who": "ARJUN", "tts": "[cheerful] Hi Nani! It's me!", "text": "Hi Nani! It's me!", "gap": 0.25},
+  {"voice": "w_nani", "who": "NANI", "tts": "[suspicious] Safe word.", "text": "Safe word.", "gap": 0.3},
+  {"voice": "w_arjun", "who": "ARJUN", "tts": "[exasperated] Nani, I'm standing right behind you.", "text": "Nani, I'm standing right behind you.", "gap": 0.7},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment SAFE for the free scam-proof checklist for your parents.", "text": "Comment SAFE for the free scam-proof checklist for your parents.", "gap": 0.0}
+ ]
+}

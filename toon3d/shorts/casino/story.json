@@ -1,0 +1,174 @@
+{
+ "title": "The Man Who Beat the Wheel",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In 1880, a broke cotton man beat a casino without cheating once.",
+   "text": "In 1880, a broke cotton man beat a casino without cheating once.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Joseph Jagger works in the mills of Yorkshire, watching spinning machines all day.",
+   "text": "Joseph Jagger works in the mills of Yorkshire, watching spinning machines all day.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Then his business fails. He's broke, with four kids to feed.",
+   "text": "Then his business fails. He's broke, with four kids to feed.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "But all those years taught him one thing. Nothing that spins is ever perfectly balanced.",
+   "text": "But all those years taught him one thing. Nothing that spins is ever perfectly balanced.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So he borrows money, grabs his son and his nephew, and goes to Monte Carlo.",
+   "text": "So he borrows money, grabs his son and his nephew, and goes to Monte Carlo.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "For a month, they don't bet a single coin. They just watch the roulette wheels, and write down every number.",
+   "text": "For a month, they don't bet a single coin. They just watch the roulette wheels, and write down every number.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "And one wheel is lazy as hell. Some numbers come up way more than they should.",
+   "text": "And one wheel is lazy as hell. Some numbers come up way more than they should.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So Jagger starts betting on that wheel. And he wins. And wins. And wins.",
+   "text": "So Jagger starts betting on that wheel. And he wins. And wins. And wins.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Each table only holds a hundred thousand francs. He empties it, and the game stops until they bring more money.",
+   "text": "Each table only holds a hundred thousand francs. He empties it, and the game stops until they bring more money.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, a roulette wheel is like a shopping cart with one bad wheel. You don't notice it, until you push it a thousand times.",
+   "text": "You see, a roulette wheel is like a shopping cart with one bad wheel. You don't notice it, until you push it a thousand times.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In a few days, he's up over two million francs.",
+   "text": "In a few days, he's up over two million francs.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The casino panics, and the wheel makers add parts that move, so no wheel can stay lazy.",
+   "text": "The casino panics, and the wheel makers add parts that move, so no wheel can stay lazy.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "But it's too late. Jagger has already gone home.",
+   "text": "But it's too late. Jagger has already gone home.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Everyone knows the house always wins. So Jagger took the money, and bought houses.",
+   "text": "Everyone knows the house always wins. So Jagger took the money, and bought houses.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

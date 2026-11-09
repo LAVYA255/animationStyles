@@ -1,0 +1,100 @@
+{
+ "title": "How different IQ astronauts fix a broken spaceship",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Space station",
+ "cta": "DEBUG",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] One broken spaceship. Three astronauts. Here's how different IQs fix it.",
+   "text": "One broken spaceship. Three astronauts. Here's how different IQs fix it.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] Low IQ.",
+   "text": "Low IQ.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_bo",
+   "who": "BO",
+   "tts": "[confident, shouting] Fix! Fix! FIX!",
+   "text": "Fix! Fix! FIX!",
+   "gap": 0.2
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] The ship is now more broken.",
+   "text": "The ship is now more broken.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] Medium IQ.",
+   "text": "Medium IQ.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_gwen",
+   "who": "GWEN",
+   "tts": "[studious, fast] Manual, page one of nine hundred. Chapter one: what is a spaceship.",
+   "text": "Manual, page one of nine hundred. Chapter one: what is a spaceship.",
+   "gap": 0.25
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[tense] Oxygen left: four minutes.",
+   "text": "Oxygen left: four minutes.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] High IQ.",
+   "text": "High IQ.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_juno",
+   "who": "JUNO",
+   "tts": "[calm] Okay, duck. Line one reads the fuel. Line two adds the speed. Line three... wait. That's a minus.",
+   "text": "Okay, duck. Line one reads the fuel. Line two adds the speed. Line three... wait. That's a minus.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] Saying it out loud, line by line, made the bug jump right out.",
+   "text": "Saying it out loud, line by line, made the bug jump right out.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[warm] That's rubber duck debugging. Real engineers really do this.",
+   "text": "That's rubber duck debugging. Real engineers really do this.",
+   "gap": 0.6
+  },
+  {
+   "voice": "w_bo",
+   "who": "BO",
+   "tts": "[proud] My turn! FIX!",
+   "text": "My turn! FIX!",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment DEBUG for the free debugging checklist.",
+   "text": "Comment DEBUG for the free debugging checklist.",
+   "gap": 0.9
+  }
+ ],
+ "tail": 1.6
+}

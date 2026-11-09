@@ -1,0 +1,667 @@
+{
+ "dur": 50.42,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 5.135,
+   "text": "She survived the zombie apocalypse. Her files... did not.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     0.69,
+     "She"
+    ],
+    [
+     0.69,
+     1.25,
+     "survived"
+    ],
+    [
+     1.25,
+     1.45,
+     "the"
+    ],
+    [
+     1.45,
+     1.77,
+     "zombie"
+    ],
+    [
+     1.77,
+     2.43,
+     "apocalypse."
+    ],
+    [
+     3.13,
+     3.33,
+     "Her"
+    ],
+    [
+     3.33,
+     3.77,
+     "files"
+    ],
+    [
+     3.77,
+     4.61,
+     "did"
+    ],
+    [
+     4.61,
+     4.81,
+     "not."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 5.435,
+   "end": 10.314,
+   "text": "Kai kept everything on one laptop. Maps. Supply lists. Every plan.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     5.435,
+     5.635,
+     "Kai"
+    ],
+    [
+     5.635,
+     5.915,
+     "kept"
+    ],
+    [
+     5.915,
+     6.375,
+     "everything"
+    ],
+    [
+     6.375,
+     6.595,
+     "on"
+    ],
+    [
+     6.595,
+     6.775,
+     "one"
+    ],
+    [
+     6.775,
+     7.175,
+     "laptop."
+    ],
+    [
+     7.595,
+     8.035,
+     "Maps,"
+    ],
+    [
+     8.435,
+     8.775,
+     "supply"
+    ],
+    [
+     8.775,
+     9.175,
+     "lists,"
+    ],
+    [
+     9.595,
+     9.855,
+     "every"
+    ],
+    [
+     9.855,
+     10.155,
+     "plan."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "GERALD",
+   "voice": "w_gerald",
+   "start": 10.564,
+   "end": 13.979,
+   "text": "Braaains... and laptops.",
+   "file": "line_02.wav",
+   "words": [
+    [
+     10.564,
+     12.144,
+     "Brains"
+    ],
+    [
+     12.144,
+     12.884,
+     "and"
+    ],
+    [
+     12.884,
+     13.344,
+     "laptops."
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "KAI",
+   "voice": "w_kai",
+   "start": 14.379,
+   "end": 15.988,
+   "text": "MY SPREADSHEETS!",
+   "file": "line_03.wav",
+   "words": [
+    [
+     14.379,
+     14.679,
+     "Oh"
+    ],
+    [
+     14.679,
+     14.859,
+     "my"
+    ],
+    [
+     14.859,
+     15.859,
+     "spreadsheets!"
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 16.488,
+   "end": 19.714,
+   "text": "Day one of the apocalypse... and she was back to zero.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     16.488,
+     16.728,
+     "Day"
+    ],
+    [
+     16.728,
+     17.008,
+     "one"
+    ],
+    [
+     17.008,
+     17.168,
+     "of"
+    ],
+    [
+     17.168,
+     17.248,
+     "the"
+    ],
+    [
+     17.248,
+     17.768,
+     "apocalypse,"
+    ],
+    [
+     18.208,
+     18.648,
+     "and"
+    ],
+    [
+     18.648,
+     18.808,
+     "she"
+    ],
+    [
+     18.808,
+     18.948,
+     "was"
+    ],
+    [
+     18.948,
+     19.168,
+     "back"
+    ],
+    [
+     19.168,
+     19.348,
+     "to"
+    ],
+    [
+     19.348,
+     19.568,
+     "zero."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 20.064,
+   "end": 25.141,
+   "text": "Then an old survivor taught her one rule: three, two, one.",
+   "file": "line_05.wav",
+   "words": [
+    [
+     20.064,
+     20.344,
+     "Then"
+    ],
+    [
+     20.344,
+     20.504,
+     "an"
+    ],
+    [
+     20.504,
+     20.764,
+     "old"
+    ],
+    [
+     20.764,
+     21.264,
+     "survivor"
+    ],
+    [
+     21.264,
+     21.604,
+     "taught"
+    ],
+    [
+     21.604,
+     21.844,
+     "her"
+    ],
+    [
+     21.844,
+     22.204,
+     "one"
+    ],
+    [
+     22.204,
+     22.664,
+     "rule."
+    ],
+    [
+     23.224,
+     23.644,
+     "Three,"
+    ],
+    [
+     23.944,
+     24.264,
+     "two,"
+    ],
+    [
+     24.704,
+     24.964,
+     "one."
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 25.641,
+   "end": 31.43,
+   "text": "Three copies of everything. On two different kinds of storage. And one kept somewhere else.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     25.641,
+     25.941,
+     "Three"
+    ],
+    [
+     25.941,
+     26.381,
+     "copies"
+    ],
+    [
+     26.381,
+     26.641,
+     "of"
+    ],
+    [
+     26.641,
+     27.161,
+     "everything"
+    ],
+    [
+     27.161,
+     27.801,
+     "on"
+    ],
+    [
+     27.801,
+     28.061,
+     "two"
+    ],
+    [
+     28.061,
+     28.321,
+     "different"
+    ],
+    [
+     28.321,
+     28.541,
+     "kinds"
+    ],
+    [
+     28.541,
+     28.681,
+     "of"
+    ],
+    [
+     28.681,
+     29.061,
+     "storage"
+    ],
+    [
+     29.061,
+     29.641,
+     "and"
+    ],
+    [
+     29.641,
+     30.001,
+     "one"
+    ],
+    [
+     30.001,
+     30.461,
+     "kept"
+    ],
+    [
+     30.461,
+     30.861,
+     "somewhere"
+    ],
+    [
+     30.861,
+     31.161,
+     "else."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 31.73,
+   "end": 34.202,
+   "text": "So the next time a zombie ate her laptop...",
+   "file": "line_07.wav",
+   "words": [
+    [
+     31.73,
+     31.89,
+     "So"
+    ],
+    [
+     31.89,
+     32.03,
+     "the"
+    ],
+    [
+     32.03,
+     32.27,
+     "next"
+    ],
+    [
+     32.27,
+     32.53,
+     "time"
+    ],
+    [
+     32.53,
+     32.67,
+     "a"
+    ],
+    [
+     32.67,
+     32.95,
+     "zombie"
+    ],
+    [
+     32.95,
+     33.23,
+     "ate"
+    ],
+    [
+     33.23,
+     33.35,
+     "her"
+    ],
+    [
+     33.35,
+     34.09,
+     "laptop..."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "KAI",
+   "voice": "w_kai",
+   "start": 34.702,
+   "end": 36.932,
+   "text": "Bon appetit. I have backups.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     34.702,
+     34.882,
+     "Bon"
+    ],
+    [
+     34.882,
+     35.502,
+     "appetit."
+    ],
+    [
+     35.882,
+     36.202,
+     "I"
+    ],
+    [
+     36.202,
+     36.322,
+     "have"
+    ],
+    [
+     36.322,
+     36.602,
+     "backups."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 37.432,
+   "end": 42.17,
+   "text": "That's the three-two-one backup rule. Set it up before your apocalypse.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     37.432,
+     37.692,
+     "That's"
+    ],
+    [
+     37.692,
+     37.812,
+     "the"
+    ],
+    [
+     37.812,
+     38.172,
+     "3"
+    ],
+    [
+     38.172,
+     38.532,
+     "-2"
+    ],
+    [
+     38.532,
+     38.972,
+     "-1"
+    ],
+    [
+     38.972,
+     39.472,
+     "backup"
+    ],
+    [
+     39.472,
+     39.792,
+     "rule."
+    ],
+    [
+     40.332,
+     40.612,
+     "Set"
+    ],
+    [
+     40.612,
+     40.752,
+     "it"
+    ],
+    [
+     40.752,
+     40.892,
+     "up"
+    ],
+    [
+     40.892,
+     41.232,
+     "before"
+    ],
+    [
+     41.232,
+     41.532,
+     "your"
+    ],
+    [
+     41.532,
+     41.852,
+     "apocalypse."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "GERALD",
+   "voice": "w_gerald",
+   "start": 42.77,
+   "end": 45.538,
+   "text": "Excuse me... could I get a copy too?",
+   "file": "line_10.wav",
+   "words": [
+    [
+     42.77,
+     43.15,
+     "Excuse"
+    ],
+    [
+     43.15,
+     43.53,
+     "me,"
+    ],
+    [
+     44.13,
+     44.27,
+     "could"
+    ],
+    [
+     44.27,
+     44.47,
+     "I"
+    ],
+    [
+     44.47,
+     44.65,
+     "get"
+    ],
+    [
+     44.65,
+     44.77,
+     "a"
+    ],
+    [
+     44.77,
+     44.99,
+     "copy"
+    ],
+    [
+     44.99,
+     45.33,
+     "too?"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 46.338,
+   "end": 48.818,
+   "text": "Comment BACKUP for the free backup checklist.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     46.338,
+     46.678,
+     "Comment"
+    ],
+    [
+     46.678,
+     46.978,
+     "back"
+    ],
+    [
+     46.978,
+     47.218,
+     "up"
+    ],
+    [
+     47.218,
+     47.458,
+     "for"
+    ],
+    [
+     47.458,
+     47.578,
+     "the"
+    ],
+    [
+     47.578,
+     47.798,
+     "free"
+    ],
+    [
+     47.798,
+     48.158,
+     "backup"
+    ],
+    [
+     48.158,
+     48.478,
+     "checklist."
+    ]
+   ]
+  }
+ ]
+}

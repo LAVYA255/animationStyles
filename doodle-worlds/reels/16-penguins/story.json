@@ -1,0 +1,21 @@
+{
+ "title": "She tried to sell ice to penguins",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Arctic",
+ "cta": "ASK",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[intrigued] She tried to sell ice... to penguins.", "text": "She tried to sell ice... to penguins.", "gap": 0.4},
+  {"voice": "w_pemmy", "who": "PEMMY", "tts": "[excited, salesy] Fresh ice! Artisanal ice! Ice with a tiny umbrella!", "text": "Fresh ice! Artisanal ice! Ice with a tiny umbrella!", "gap": 0.35},
+  {"voice": "w_grump", "who": "GRUMP", "tts": "[grumpy, flat] Lady. I'm standing on your damn product.", "text": "Lady. I'm standing on your damn product.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "Zero sales. So she made it fancier. Ice sculptures. Premium ice. Ice subscriptions.", "text": "Zero sales. So she made it fancier. Ice sculptures. Premium ice. Ice subscriptions.", "gap": 0.3},
+  {"voice": "mira_narrator", "who": "N", "tts": "[dry] Still zero.", "text": "Still zero.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "Then Pemmy tried something radical. She asked what their biggest problem was.", "text": "Then Pemmy tried something radical. She asked what their biggest problem was.", "gap": 0.35},
+  {"voice": "w_grump", "who": "GRUMP", "tts": "[grumpy] My feet are freezing. Every. Single. Day.", "text": "My feet are freezing. Every. Single. Day.", "gap": 0.35},
+  {"voice": "mira_narrator", "who": "N", "tts": "Every penguin said the same thing. So she sold tiny wool socks.", "text": "Every penguin said the same thing. So she sold tiny wool socks.", "gap": 0.3},
+  {"voice": "mira_narrator", "who": "N", "tts": "[triumphant] Sold out in one day.", "text": "Sold out in one day.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "That's customer discovery. Don't pitch your idea. Ask about their problem.", "text": "That's customer discovery. Don't pitch your idea. Ask about their problem.", "gap": 0.6},
+  {"voice": "w_pemmy", "who": "PEMMY", "tts": "[excited] Okay! Next product... ice!", "text": "Okay! Next product... ice!", "gap": 0.3},
+  {"voice": "w_grump", "who": "GRUMP", "tts": "[exasperated groan] Oh, for God's sake.", "text": "Oh, for God's sake.", "gap": 0.7},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment ASK for the free customer interview script.", "text": "Comment ASK for the free customer interview script.", "gap": 0.0}
+ ]
+}

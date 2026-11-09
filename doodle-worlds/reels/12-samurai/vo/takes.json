@@ -1,0 +1,642 @@
+{
+ "0": {
+  "wav": "vo/wav/56a77b6226d4_v2.wav",
+  "dur": 3.353875,
+  "words": [
+   {
+    "w": " He",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " wanted",
+    "s": 0.2,
+    "e": 0.56
+   },
+   {
+    "w": " to",
+    "s": 0.56,
+    "e": 0.82
+   },
+   {
+    "w": " master",
+    "s": 0.82,
+    "e": 1.22
+   },
+   {
+    "w": " the",
+    "s": 1.22,
+    "e": 1.44
+   },
+   {
+    "w": " sword",
+    "s": 1.44,
+    "e": 1.82
+   },
+   {
+    "w": " in",
+    "s": 1.82,
+    "e": 2.62
+   },
+   {
+    "w": " one",
+    "s": 2.62,
+    "e": 2.94
+   },
+   {
+    "w": " day.",
+    "s": 2.94,
+    "e": 3.26
+   }
+  ],
+  "heard": "He wanted to master the sword in one day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] He wanted to master the sword. In one day.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/95ef97e68683_v2.wav",
+  "dur": 2.659813,
+  "words": [
+   {
+    "w": " Sensei,",
+    "s": 0.0,
+    "e": 0.74
+   },
+   {
+    "w": " teach",
+    "s": 0.76,
+    "e": 1.02
+   },
+   {
+    "w": " me",
+    "s": 1.02,
+    "e": 1.24
+   },
+   {
+    "w": " everything",
+    "s": 1.24,
+    "e": 1.72
+   },
+   {
+    "w": " today!",
+    "s": 1.72,
+    "e": 2.28
+   }
+  ],
+  "heard": "Sensei, teach me everything today!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[eager, loud] Sensei! Teach me everything. Today!",
+  "voice": "w_kenji"
+ },
+ "2": {
+  "wav": "vo/wav/ff45c420d0d0_v2.wav",
+  "dur": 2.716958,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " he",
+    "s": 0.18,
+    "e": 0.34
+   },
+   {
+    "w": " swung",
+    "s": 0.34,
+    "e": 0.8
+   },
+   {
+    "w": " 10",
+    "s": 0.8,
+    "e": 1.38
+   },
+   {
+    "w": ",000",
+    "s": 1.38,
+    "e": 2.12
+   },
+   {
+    "w": " times.",
+    "s": 2.12,
+    "e": 2.4
+   }
+  ],
+  "heard": "So he swung 10,000 times.",
+  "score": 0.6666666666666666,
+  "attempt": 2,
+  "tts": "So he swung ten thousand times.",
+  "voice": "mira_narrator"
+ },
+ "3": {
+  "wav": "vo/wav/04b99516474b_v2.wav",
+  "dur": 3.066604,
+  "words": [
+   {
+    "w": " By",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " sunset,",
+    "s": 0.12,
+    "e": 0.6
+   },
+   {
+    "w": " he",
+    "s": 1.14,
+    "e": 1.46
+   },
+   {
+    "w": " couldn't",
+    "s": 1.46,
+    "e": 1.9
+   },
+   {
+    "w": " lift",
+    "s": 1.9,
+    "e": 2.1
+   },
+   {
+    "w": " the",
+    "s": 2.1,
+    "e": 2.28
+   },
+   {
+    "w": " chopstick.",
+    "s": 2.28,
+    "e": 2.88
+   }
+  ],
+  "heard": "By sunset, he couldn't lift the chopstick.",
+  "score": 0.8571428571428571,
+  "attempt": 0,
+  "tts": "[dry] By sunset... he couldn't lift a chopstick.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/e2ab25e5a9b5_v2.wav",
+  "dur": 3.579854,
+  "words": [
+   {
+    "w": " Tomorrow",
+    "s": 0.0,
+    "e": 0.56
+   },
+   {
+    "w": " swing",
+    "s": 0.56,
+    "e": 1.22
+   },
+   {
+    "w": " just",
+    "s": 1.22,
+    "e": 1.68
+   },
+   {
+    "w": " once",
+    "s": 1.68,
+    "e": 2.12
+   },
+   {
+    "w": " more",
+    "s": 2.12,
+    "e": 2.64
+   },
+   {
+    "w": " than",
+    "s": 2.64,
+    "e": 2.92
+   },
+   {
+    "w": " today.",
+    "s": 2.92,
+    "e": 3.26
+   }
+  ],
+  "heard": "Tomorrow swing just once more than today.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[calm, amused] Tomorrow, swing just once more than today.",
+  "voice": "w_hoshi"
+ },
+ "5": {
+  "wav": "vo/wav/ae6bac56b339_v2.wav",
+  "dur": 1.863771,
+  "words": [
+   {
+    "w": " Just",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " one",
+    "s": 0.38,
+    "e": 1.32
+   },
+   {
+    "w": " more?",
+    "s": 1.32,
+    "e": 1.62
+   }
+  ],
+  "heard": "Just one more?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[confused] Just... one more?",
+  "voice": "w_kenji"
+ },
+ "6": {
+  "wav": "vo/wav/f4dcd01b9258_v2.wav",
+  "dur": 2.697354,
+  "words": [
+   {
+    "w": " 1",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": "%",
+    "s": 0.32,
+    "e": 0.78
+   },
+   {
+    "w": " every",
+    "s": 0.78,
+    "e": 1.98
+   },
+   {
+    "w": " day.",
+    "s": 1.98,
+    "e": 2.38
+   }
+  ],
+  "heard": "1% every day.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[calm] One percent. Every day.",
+  "voice": "w_hoshi"
+ },
+ "7": {
+  "wav": "vo/wav/f9ac841cd471_v2.wav",
+  "dur": 3.563396,
+  "words": [
+   {
+    "w": " Day",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " 1.",
+    "s": 0.26,
+    "e": 0.56
+   },
+   {
+    "w": " 1",
+    "s": 0.98,
+    "e": 1.3
+   },
+   {
+    "w": "%",
+    "s": 1.3,
+    "e": 1.58
+   },
+   {
+    "w": " Better.",
+    "s": 1.58,
+    "e": 1.94
+   },
+   {
+    "w": " Nobody",
+    "s": 2.44,
+    "e": 2.82
+   },
+   {
+    "w": " notices.",
+    "s": 2.82,
+    "e": 3.24
+   }
+  ],
+  "heard": "Day 1. 1% Better. Nobody notices.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Day one. One percent better. Nobody notices.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/301c6063ad76_v2.wav",
+  "dur": 3.72825,
+  "words": [
+   {
+    "w": " Day",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " 30.",
+    "s": 0.28,
+    "e": 0.76
+   },
+   {
+    "w": " Still",
+    "s": 1.24,
+    "e": 1.96
+   },
+   {
+    "w": " kind",
+    "s": 1.96,
+    "e": 3.08
+   },
+   {
+    "w": " of",
+    "s": 3.08,
+    "e": 3.3
+   },
+   {
+    "w": " bad.",
+    "s": 3.3,
+    "e": 3.56
+   }
+  ],
+  "heard": "Day 30. Still kind of bad.",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[dry] Day thirty. Still... kind of bad.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/875f9fb756f0_v2.wav",
+  "dur": 3.566021,
+  "words": [
+   {
+    "w": " but",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " 1",
+    "s": 0.16,
+    "e": 0.46
+   },
+   {
+    "w": "%",
+    "s": 0.46,
+    "e": 0.8
+   },
+   {
+    "w": " every",
+    "s": 0.8,
+    "e": 1.74
+   },
+   {
+    "w": " single",
+    "s": 1.74,
+    "e": 2.2
+   },
+   {
+    "w": " day",
+    "s": 2.2,
+    "e": 2.6
+   },
+   {
+    "w": " stacks",
+    "s": 2.6,
+    "e": 3.14
+   },
+   {
+    "w": " up.",
+    "s": 3.14,
+    "e": 3.44
+   }
+  ],
+  "heard": "but 1% every single day stacks up.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building] But one percent, every single day, stacks up.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/8bc8c5d84685_v2.wav",
+  "dur": 4.023792,
+  "words": [
+   {
+    "w": " Day",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " 365,",
+    "s": 0.24,
+    "e": 1.46
+   },
+   {
+    "w": " 38",
+    "s": 2.28,
+    "e": 2.74
+   },
+   {
+    "w": " times",
+    "s": 2.74,
+    "e": 3.42
+   },
+   {
+    "w": " better.",
+    "s": 3.42,
+    "e": 3.8
+   }
+  ],
+  "heard": "Day 365, 38 times better.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[impressed] Day three hundred sixty-five. Thirty-eight times better.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/806543abc1a9_v2.wav",
+  "dur": 3.200042,
+  "words": [
+   {
+    "w": " not",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " one",
+    "s": 0.2,
+    "e": 0.54
+   },
+   {
+    "w": " heroic",
+    "s": 0.54,
+    "e": 0.86
+   },
+   {
+    "w": " day,",
+    "s": 0.86,
+    "e": 1.16
+   },
+   {
+    "w": " just",
+    "s": 1.68,
+    "e": 1.88
+   },
+   {
+    "w": " a",
+    "s": 1.88,
+    "e": 2.06
+   },
+   {
+    "w": " lot",
+    "s": 2.06,
+    "e": 2.22
+   },
+   {
+    "w": " of",
+    "s": 2.22,
+    "e": 2.34
+   },
+   {
+    "w": " boring",
+    "s": 2.34,
+    "e": 2.64
+   },
+   {
+    "w": " ones.",
+    "s": 2.64,
+    "e": 2.92
+   }
+  ],
+  "heard": "not one heroic day, just a lot of boring ones.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Not one heroic day. Just a lot of boring ones.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/b87acf211a77_v2.wav",
+  "dur": 4.566125,
+  "words": [
+   {
+    "w": " Sensei,",
+    "s": 0.0,
+    "e": 0.64
+   },
+   {
+    "w": " date",
+    "s": 0.72,
+    "e": 0.94
+   },
+   {
+    "w": " 366,",
+    "s": 0.94,
+    "e": 2.14
+   },
+   {
+    "w": " 1",
+    "s": 2.44,
+    "e": 2.74
+   },
+   {
+    "w": "%",
+    "s": 2.74,
+    "e": 3.12
+   },
+   {
+    "w": " more!",
+    "s": 3.12,
+    "e": 3.66
+   }
+  ],
+  "heard": "Sensei, date 366, 1% more!",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "[eager, loud] Sensei! Day three hundred sixty-six! One percent more!",
+  "voice": "w_kenji"
+ },
+ "13": {
+  "wav": "vo/wav/18bfd1998eb2_v2.wav",
+  "dur": 2.226313,
+  "words": [
+   {
+    "w": " Maybe",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " one",
+    "s": 0.48,
+    "e": 1.0
+   },
+   {
+    "w": " percent",
+    "s": 1.0,
+    "e": 1.46
+   },
+   {
+    "w": " less.",
+    "s": 1.46,
+    "e": 1.92
+   }
+  ],
+  "heard": "Maybe one percent less.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan, flat] ...Maybe one percent less.",
+  "voice": "w_hoshi"
+ },
+ "14": {
+  "wav": "vo/wav/afbd65a36956_v2.wav",
+  "dur": 2.771167,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " habit",
+    "s": 0.28,
+    "e": 0.74
+   },
+   {
+    "w": " for",
+    "s": 0.74,
+    "e": 1.1
+   },
+   {
+    "w": " the",
+    "s": 1.1,
+    "e": 1.22
+   },
+   {
+    "w": " free",
+    "s": 1.22,
+    "e": 1.52
+   },
+   {
+    "w": " 1",
+    "s": 1.52,
+    "e": 1.84
+   },
+   {
+    "w": "%",
+    "s": 1.84,
+    "e": 2.14
+   },
+   {
+    "w": " tracker.",
+    "s": 2.14,
+    "e": 2.5
+   }
+  ],
+  "heard": "Comment habit for the free 1% tracker.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment HABIT for the free one percent tracker.",
+  "voice": "mira_narrator"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "title": "Why does everything cost 99",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Forest (animal economics)",
+ "cta": "PRICE",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[curious] Why does everything cost ninety-nine? Squirrels figured it out first.",
+   "text": "Why does everything cost ninety-nine? Squirrels figured it out first.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Hazel sold acorns for a hundred... and nobody bought.",
+   "text": "Hazel sold acorns for a hundred... and nobody bought.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_nutmeg",
+   "who": "NUTMEG",
+   "tts": "[whiny, squeaky] A HUNDRED? That's like... a HUNDRED!",
+   "text": "A HUNDRED? That's like... a HUNDRED!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[hushed] So she changed one tiny thing.",
+   "text": "So she changed one tiny thing.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[playful] Ninety-nine.",
+   "text": "Ninety-nine.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_nutmeg",
+   "who": "NUTMEG",
+   "tts": "[excited, squeaky] Ninety-nine? That's basically ninety!",
+   "text": "Ninety-nine? That's basically ninety!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[triumphant] Sold out by lunch.",
+   "text": "Sold out by lunch.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Our brains read prices left to right. We see the first digit... and stop.",
+   "text": "Our brains read prices left to right. We see the first digit... and stop.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Ninety-nine feels like ninety. It's just one acorn less than a hundred.",
+   "text": "Ninety-nine feels like ninety. It's just one acorn less than a hundred.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's charm pricing. Shops use it on you every single day.",
+   "text": "That's charm pricing. Shops use it on you every single day.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_nutmeg",
+   "who": "NUTMEG",
+   "tts": "[sheepish, squeaky] Can I pay ninety-eight now... and one acorn tomorrow?",
+   "text": "Can I pay ninety-eight now... and one acorn tomorrow?",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment PRICE for the free pricing cheat sheet.",
+   "text": "Comment PRICE for the free pricing cheat sheet.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

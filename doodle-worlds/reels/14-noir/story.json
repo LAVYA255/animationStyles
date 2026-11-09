@@ -1,0 +1,106 @@
+{
+ "title": "Customers were vanishing from this shop",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Noir city",
+ "cta": "FUNNEL",
+ "lines": [
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low, noir] Customers were vanishing from this shop. Without a trace.",
+   "text": "Customers were vanishing from this shop. Without a trace.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_benny",
+   "who": "BENNY",
+   "tts": "[panicked] They walk in, they fill the damn cart... and then they're gone!",
+   "text": "They walk in, they fill the damn cart... and then they're gone!",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low, noir] So I followed one. The shop: fine. The cart: fine.",
+   "text": "So I followed one. The shop: fine. The cart: fine.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low, noir, building, a little faster] Then: create an account. Confirm your email.",
+   "text": "Then: create an account. Confirm your email.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[slow, ominous] And then... confirm your password.",
+   "text": "And then... confirm your password.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_zoe",
+   "who": "SHOPPER",
+   "tts": "[tired, fed up] ...Screw this. I'm out.",
+   "text": "Screw this. I'm out.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low, noir, slow] There it was. The killer.",
+   "text": "There it was. The killer.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low] Forced sign-ups alone scare off about one in five shoppers.",
+   "text": "Forced sign-ups alone scare off about one in five shoppers.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[low] Every extra step is a leak. Find it. Cut it.",
+   "text": "Every extra step is a leak. Find it. Cut it.",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_benny",
+   "who": "BENNY",
+   "tts": "[hopeful] So... a guest checkout?",
+   "text": "So... a guest checkout?",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[smirking] Case closed.",
+   "text": "Case closed.",
+   "gap": 0.6
+  },
+  {
+   "voice": "w_benny",
+   "who": "BENNY",
+   "tts": "[grateful] Detective, how do I pay you?",
+   "text": "Detective, how do I pay you?",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "[deadpan] First... create an account.",
+   "text": "First... create an account.",
+   "gap": 0.7
+  },
+  {
+   "voice": "w_vera",
+   "who": "VERA",
+   "tts": "Comment FUNNEL for the free leak checklist.",
+   "text": "Comment FUNNEL for the free leak checklist.",
+   "gap": 0.0
+  }
+ ]
+}

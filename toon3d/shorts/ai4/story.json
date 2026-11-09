@@ -1,0 +1,102 @@
+{
+ "title": "Why Long Chats Make AI Worse",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The longer you chat with AI, the dumber it gets. And no, it's not your imagination.",
+   "text": "The longer you chat with AI, the dumber it gets. And no, it's not your imagination.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Every time you send a message, the AI re-reads the entire conversation from the top. Every single time.",
+   "text": "Every time you send a message, the AI re-reads the entire conversation from the top. Every single time.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "And it can only hold so much at once. That's called the context window.",
+   "text": "And it can only hold so much at once. That's called the context window.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "When a chat gets huge, the stuff in the middle goes blurry, and your old instructions get buried.",
+   "text": "When a chat gets huge, the stuff in the middle goes blurry, and your old instructions get buried.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, it's like a waiter taking orders for a giant table with no notepad. By order twenty, table one is getting the wrong pizza.",
+   "text": "You see, it's like a waiter taking orders for a giant table with no notepad. By order twenty, table one is getting the wrong pizza.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So here's the fix. When a chat gets long, ask for a short summary, open a fresh chat, and paste it in.",
+   "text": "So here's the fix. When a chat gets long, ask for a short summary, open a fresh chat, and paste it in.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Same brain. Clean desk. Way better answers.",
+   "text": "Same brain. Clean desk. Way better answers.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Your AI isn't tired. It's just drowning in your old messages.",
+   "text": "Your AI isn't tired. It's just drowning in your old messages.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

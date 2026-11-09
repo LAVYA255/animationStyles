@@ -1,0 +1,114 @@
+{
+ "title": "How insurance was invented",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Stone Age",
+ "cta": "RISK",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] This caveman invented something you pay for every month... and pray you never use.",
+   "text": "This caveman invented something you pay for every month... and pray you never use.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[deadpan] Thog's hut burned down. Again.",
+   "text": "Thog's hut burned down. Again.",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_thog",
+   "who": "THOG",
+   "tts": "[sad, gruff] Every fire... Thog start from zero.",
+   "text": "Every fire... Thog start from zero.",
+   "gap": 0.25
+  },
+  {
+   "voice": "w_thog",
+   "who": "THOG",
+   "tts": "[excited, gruff] Everyone put one fish in pot. Every moon.",
+   "text": "Everyone put one fish in pot. Every moon.",
+   "gap": 0.9
+  },
+  {
+   "voice": "w_bonk",
+   "who": "BONK",
+   "tts": "[suspicious] And what Bonk get?",
+   "text": "And what Bonk get?",
+   "gap": 0.2
+  },
+  {
+   "voice": "w_thog",
+   "who": "THOG",
+   "tts": "[proud] If YOUR hut burn... pot build new hut!",
+   "text": "If YOUR hut burn... pot build new hut!",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[warm] Fires were rare... so the pot kept growing.",
+   "text": "Fires were rare... so the pot kept growing.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[tense] Then... Bonk's hut caught fire.",
+   "text": "Then... Bonk's hut caught fire.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_bonk",
+   "who": "BONK",
+   "tts": "[panicking] MY HUT!",
+   "text": "MY HUT!",
+   "gap": 0.15
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[triumphant] The pot paid. New hut in one day!",
+   "text": "The pot paid. New hut in one day!",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's insurance. Many people pay a little, so nobody loses everything.",
+   "text": "That's insurance. Many people pay a little, so nobody loses everything.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[slowly] One week later... Bonk's hut caught fire. Again.",
+   "text": "One week later... Bonk's hut caught fire. Again.",
+   "gap": 0.55
+  },
+  {
+   "voice": "w_bonk",
+   "who": "BONK",
+   "tts": "[innocent, whistling] ...Weird.",
+   "text": "...Weird.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] And that's how insurance fraud was invented.",
+   "text": "And that's how insurance fraud was invented.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment RISK for the free cheat sheet.",
+   "text": "Comment RISK for the free cheat sheet.",
+   "gap": 0.9
+  }
+ ],
+ "tail": 1.6
+}

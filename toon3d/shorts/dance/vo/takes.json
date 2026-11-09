@@ -1,0 +1,1222 @@
+{
+ "0": {
+  "wav": "vo/wav/37348652b679_v2.wav",
+  "dur": 4.318563,
+  "words": [
+   {
+    "w": " In",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " 1518,",
+    "s": 0.12,
+    "e": 0.84
+   },
+   {
+    "w": " a",
+    "s": 1.1,
+    "e": 1.16
+   },
+   {
+    "w": " woman",
+    "s": 1.16,
+    "e": 1.34
+   },
+   {
+    "w": " started",
+    "s": 1.34,
+    "e": 1.6
+   },
+   {
+    "w": " dancing",
+    "s": 1.6,
+    "e": 1.94
+   },
+   {
+    "w": " in",
+    "s": 1.94,
+    "e": 2.12
+   },
+   {
+    "w": " the",
+    "s": 2.12,
+    "e": 2.22
+   },
+   {
+    "w": " street,",
+    "s": 2.22,
+    "e": 2.5
+   },
+   {
+    "w": " and",
+    "s": 2.74,
+    "e": 2.82
+   },
+   {
+    "w": " a",
+    "s": 2.82,
+    "e": 2.9
+   },
+   {
+    "w": " whole",
+    "s": 2.9,
+    "e": 3.06
+   },
+   {
+    "w": " town",
+    "s": 3.06,
+    "e": 3.36
+   },
+   {
+    "w": " couldn't",
+    "s": 3.36,
+    "e": 3.74
+   },
+   {
+    "w": " stop.",
+    "s": 3.74,
+    "e": 4.0
+   }
+  ],
+  "heard": "In 1518, a woman started dancing in the street, and a whole town couldn't stop.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "In 1518, a woman started dancing in the street, and a whole town couldn't stop.",
+  "voice": "w_jett"
+ },
+ "1": {
+  "wav": "vo/wav/025da892217d_v2.wav",
+  "dur": 6.725354,
+  "words": [
+   {
+    "w": " It's",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " July",
+    "s": 0.2,
+    "e": 0.5
+   },
+   {
+    "w": " in",
+    "s": 0.5,
+    "e": 0.78
+   },
+   {
+    "w": " Strasbourg,",
+    "s": 0.78,
+    "e": 1.34
+   },
+   {
+    "w": " and",
+    "s": 1.72,
+    "e": 1.8
+   },
+   {
+    "w": " Frau",
+    "s": 1.8,
+    "e": 1.98
+   },
+   {
+    "w": " Trofea",
+    "s": 1.98,
+    "e": 2.5
+   },
+   {
+    "w": " steps",
+    "s": 2.5,
+    "e": 2.74
+   },
+   {
+    "w": " out",
+    "s": 2.74,
+    "e": 3.0
+   },
+   {
+    "w": " of",
+    "s": 3.0,
+    "e": 3.12
+   },
+   {
+    "w": " her",
+    "s": 3.12,
+    "e": 3.24
+   },
+   {
+    "w": " house",
+    "s": 3.24,
+    "e": 3.54
+   },
+   {
+    "w": " and",
+    "s": 3.54,
+    "e": 3.74
+   },
+   {
+    "w": " just",
+    "s": 3.74,
+    "e": 3.92
+   },
+   {
+    "w": " starts",
+    "s": 3.92,
+    "e": 4.22
+   },
+   {
+    "w": " dancing.",
+    "s": 4.22,
+    "e": 4.64
+   },
+   {
+    "w": " No",
+    "s": 5.14,
+    "e": 5.3
+   },
+   {
+    "w": " music,",
+    "s": 5.3,
+    "e": 5.6
+   },
+   {
+    "w": " no",
+    "s": 5.96,
+    "e": 6.08
+   },
+   {
+    "w": " smile.",
+    "s": 6.08,
+    "e": 6.34
+   }
+  ],
+  "heard": "It's July in Strasbourg, and Frau Trofea steps out of her house and just starts dancing. No music, no smile.",
+  "score": 0.95,
+  "attempt": 0,
+  "tts": "It's July in Strasbourg, and Frau Troffea steps out of her house and just starts dancing. No music. No smile.",
+  "voice": "w_jett"
+ },
+ "2": {
+  "wav": "vo/wav/d49b7169f418_v2.wav",
+  "dur": 3.745208,
+  "words": [
+   {
+    "w": " Her",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " husband",
+    "s": 0.14,
+    "e": 0.4
+   },
+   {
+    "w": " begs",
+    "s": 0.4,
+    "e": 0.78
+   },
+   {
+    "w": " her",
+    "s": 0.78,
+    "e": 0.84
+   },
+   {
+    "w": " to",
+    "s": 0.84,
+    "e": 0.94
+   },
+   {
+    "w": " stop.",
+    "s": 0.94,
+    "e": 1.22
+   },
+   {
+    "w": " She",
+    "s": 1.54,
+    "e": 1.66
+   },
+   {
+    "w": " can't.",
+    "s": 1.66,
+    "e": 2.1
+   },
+   {
+    "w": " She",
+    "s": 2.24,
+    "e": 2.38
+   },
+   {
+    "w": " dances",
+    "s": 2.38,
+    "e": 2.66
+   },
+   {
+    "w": " for",
+    "s": 2.66,
+    "e": 2.88
+   },
+   {
+    "w": " six",
+    "s": 2.88,
+    "e": 3.1
+   },
+   {
+    "w": " days",
+    "s": 3.1,
+    "e": 3.3
+   },
+   {
+    "w": " straight.",
+    "s": 3.3,
+    "e": 3.58
+   }
+  ],
+  "heard": "Her husband begs her to stop. She can't. She dances for six days straight.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Her husband begs her to stop. She can't. She dances for six days straight.",
+  "voice": "w_jett"
+ },
+ "3": {
+  "wav": "vo/wav/7f4d9f2fa8ef_v2.wav",
+  "dur": 2.715708,
+  "words": [
+   {
+    "w": " By",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " the",
+    "s": 0.12,
+    "e": 0.24
+   },
+   {
+    "w": " end",
+    "s": 0.24,
+    "e": 0.36
+   },
+   {
+    "w": " of",
+    "s": 0.36,
+    "e": 0.48
+   },
+   {
+    "w": " the",
+    "s": 0.48,
+    "e": 0.52
+   },
+   {
+    "w": " week,",
+    "s": 0.52,
+    "e": 0.74
+   },
+   {
+    "w": " 30",
+    "s": 1.02,
+    "e": 1.32
+   },
+   {
+    "w": " neighbors",
+    "s": 1.32,
+    "e": 1.66
+   },
+   {
+    "w": " are",
+    "s": 1.66,
+    "e": 1.86
+   },
+   {
+    "w": " dancing",
+    "s": 1.86,
+    "e": 2.18
+   },
+   {
+    "w": " with",
+    "s": 2.18,
+    "e": 2.44
+   },
+   {
+    "w": " her.",
+    "s": 2.44,
+    "e": 2.56
+   }
+  ],
+  "heard": "By the end of the week, 30 neighbors are dancing with her.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "By the end of the week, thirty neighbors are dancing with her.",
+  "voice": "w_jett"
+ },
+ "4": {
+  "wav": "vo/wav/9ef165dd9772_v2.wav",
+  "dur": 1.882625,
+  "words": [
+   {
+    "w": " By",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " August,",
+    "s": 0.16,
+    "e": 0.46
+   },
+   {
+    "w": " records",
+    "s": 0.64,
+    "e": 0.84
+   },
+   {
+    "w": " say",
+    "s": 0.84,
+    "e": 1.08
+   },
+   {
+    "w": " it's",
+    "s": 1.08,
+    "e": 1.28
+   },
+   {
+    "w": " hundreds.",
+    "s": 1.28,
+    "e": 1.48
+   }
+  ],
+  "heard": "By August, records say it's hundreds.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "By August, records say it's hundreds.",
+  "voice": "w_jett"
+ },
+ "5": {
+  "wav": "vo/wav/5326d3b3a640_v2.wav",
+  "dur": 2.870604,
+  "words": [
+   {
+    "w": " so",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " the",
+    "s": 0.16,
+    "e": 0.28
+   },
+   {
+    "w": " town",
+    "s": 0.28,
+    "e": 0.5
+   },
+   {
+    "w": " council",
+    "s": 0.5,
+    "e": 0.8
+   },
+   {
+    "w": " meets",
+    "s": 0.8,
+    "e": 1.14
+   },
+   {
+    "w": " and",
+    "s": 1.14,
+    "e": 1.62
+   },
+   {
+    "w": " they",
+    "s": 1.62,
+    "e": 1.74
+   },
+   {
+    "w": " come",
+    "s": 1.74,
+    "e": 1.92
+   },
+   {
+    "w": " up",
+    "s": 1.92,
+    "e": 2.06
+   },
+   {
+    "w": " with",
+    "s": 2.06,
+    "e": 2.24
+   },
+   {
+    "w": " a",
+    "s": 2.24,
+    "e": 2.34
+   },
+   {
+    "w": " plan.",
+    "s": 2.34,
+    "e": 2.58
+   }
+  ],
+  "heard": "so the town council meets and they come up with a plan.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So the town council meets, and they come up with a plan.",
+  "voice": "w_jett"
+ },
+ "6": {
+  "wav": "vo/wav/d7c46ead49af_v2.wav",
+  "dur": 2.420375,
+  "words": [
+   {
+    "w": " If",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " they",
+    "s": 0.14,
+    "e": 0.3
+   },
+   {
+    "w": " can't",
+    "s": 0.3,
+    "e": 0.54
+   },
+   {
+    "w": " stop",
+    "s": 0.54,
+    "e": 0.74
+   },
+   {
+    "w": " dancing,",
+    "s": 0.74,
+    "e": 1.16
+   },
+   {
+    "w": " let",
+    "s": 1.46,
+    "e": 1.58
+   },
+   {
+    "w": " them",
+    "s": 1.58,
+    "e": 1.74
+   },
+   {
+    "w": " dance",
+    "s": 1.74,
+    "e": 2.0
+   },
+   {
+    "w": " it",
+    "s": 2.0,
+    "e": 2.1
+   },
+   {
+    "w": " out.",
+    "s": 2.1,
+    "e": 2.28
+   }
+  ],
+  "heard": "If they can't stop dancing, let them dance it out.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "If they can't stop dancing, let them dance it out.",
+  "voice": "w_jett"
+ },
+ "7": {
+  "wav": "vo/wav/46678fca72c7_v2.wav",
+  "dur": 4.510188,
+  "words": [
+   {
+    "w": " They",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " build",
+    "s": 0.18,
+    "e": 0.4
+   },
+   {
+    "w": " a",
+    "s": 0.4,
+    "e": 0.52
+   },
+   {
+    "w": " stage,",
+    "s": 0.52,
+    "e": 0.92
+   },
+   {
+    "w": " hire",
+    "s": 1.24,
+    "e": 1.36
+   },
+   {
+    "w": " a",
+    "s": 1.36,
+    "e": 1.54
+   },
+   {
+    "w": " band,",
+    "s": 1.54,
+    "e": 1.86
+   },
+   {
+    "w": " and",
+    "s": 2.2,
+    "e": 2.26
+   },
+   {
+    "w": " pay",
+    "s": 2.26,
+    "e": 2.44
+   },
+   {
+    "w": " strong",
+    "s": 2.44,
+    "e": 2.76
+   },
+   {
+    "w": " young",
+    "s": 2.76,
+    "e": 2.96
+   },
+   {
+    "w": " men",
+    "s": 2.96,
+    "e": 3.2
+   },
+   {
+    "w": " to",
+    "s": 3.2,
+    "e": 3.38
+   },
+   {
+    "w": " keep",
+    "s": 3.38,
+    "e": 3.56
+   },
+   {
+    "w": " the",
+    "s": 3.56,
+    "e": 3.7
+   },
+   {
+    "w": " dancers",
+    "s": 3.7,
+    "e": 3.94
+   },
+   {
+    "w": " moving.",
+    "s": 3.94,
+    "e": 4.32
+   }
+  ],
+  "heard": "They build a stage, hire a band, and pay strong young men to keep the dancers moving.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "They build a stage, hire a band, and pay strong young men to keep the dancers moving.",
+  "voice": "w_jett"
+ },
+ "8": {
+  "wav": "vo/wav/6a6ca506c9af_v2.wav",
+  "dur": 2.928896,
+  "words": [
+   {
+    "w": " It",
+    "s": 0.0,
+    "e": 0.1
+   },
+   {
+    "w": " does",
+    "s": 0.1,
+    "e": 0.28
+   },
+   {
+    "w": " not",
+    "s": 0.28,
+    "e": 0.44
+   },
+   {
+    "w": " help.",
+    "s": 0.44,
+    "e": 0.72
+   },
+   {
+    "w": " The",
+    "s": 0.98,
+    "e": 1.06
+   },
+   {
+    "w": " music",
+    "s": 1.06,
+    "e": 1.32
+   },
+   {
+    "w": " just",
+    "s": 1.32,
+    "e": 1.52
+   },
+   {
+    "w": " pulls",
+    "s": 1.52,
+    "e": 1.74
+   },
+   {
+    "w": " in",
+    "s": 1.74,
+    "e": 1.9
+   },
+   {
+    "w": " more",
+    "s": 1.9,
+    "e": 2.08
+   },
+   {
+    "w": " dancers.",
+    "s": 2.08,
+    "e": 2.4
+   }
+  ],
+  "heard": "It does not help. The music just pulls in more dancers.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "It does not help. The music just pulls in more dancers.",
+  "voice": "w_jett"
+ },
+ "9": {
+  "wav": "vo/wav/1c3807fae392_v2.wav",
+  "dur": 6.069625,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " see,",
+    "s": 0.16,
+    "e": 0.36
+   },
+   {
+    "w": " the",
+    "s": 0.7,
+    "e": 0.78
+   },
+   {
+    "w": " town",
+    "s": 0.78,
+    "e": 1.06
+   },
+   {
+    "w": " was",
+    "s": 1.06,
+    "e": 1.24
+   },
+   {
+    "w": " starving,",
+    "s": 1.24,
+    "e": 1.64
+   },
+   {
+    "w": " sick",
+    "s": 2.06,
+    "e": 2.38
+   },
+   {
+    "w": " and",
+    "s": 2.38,
+    "e": 2.64
+   },
+   {
+    "w": " terrified,",
+    "s": 2.64,
+    "e": 3.1
+   },
+   {
+    "w": " and",
+    "s": 3.68,
+    "e": 3.74
+   },
+   {
+    "w": " fear",
+    "s": 3.74,
+    "e": 4.04
+   },
+   {
+    "w": " spreads",
+    "s": 4.04,
+    "e": 4.48
+   },
+   {
+    "w": " through",
+    "s": 4.48,
+    "e": 4.72
+   },
+   {
+    "w": " a",
+    "s": 4.72,
+    "e": 4.82
+   },
+   {
+    "w": " crowd",
+    "s": 4.82,
+    "e": 5.16
+   },
+   {
+    "w": " like",
+    "s": 5.16,
+    "e": 5.36
+   },
+   {
+    "w": " a",
+    "s": 5.36,
+    "e": 5.46
+   },
+   {
+    "w": " yawn.",
+    "s": 5.46,
+    "e": 5.86
+   }
+  ],
+  "heard": "You see, the town was starving, sick and terrified, and fear spreads through a crowd like a yawn.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "You see, the town was starving, sick and terrified, and fear spreads through a crowd like a yawn.",
+  "voice": "w_jett"
+ },
+ "10": {
+  "wav": "vo/wav/1122b5b1fc05_v2.wav",
+  "dur": 5.9575,
+  "words": [
+   {
+    "w": " Ever",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " watched",
+    "s": 0.18,
+    "e": 0.52
+   },
+   {
+    "w": " one",
+    "s": 0.52,
+    "e": 0.74
+   },
+   {
+    "w": " person",
+    "s": 0.74,
+    "e": 1.02
+   },
+   {
+    "w": " yawn",
+    "s": 1.02,
+    "e": 1.44
+   },
+   {
+    "w": " and",
+    "s": 1.44,
+    "e": 1.64
+   },
+   {
+    "w": " then",
+    "s": 1.64,
+    "e": 1.74
+   },
+   {
+    "w": " the",
+    "s": 1.74,
+    "e": 1.88
+   },
+   {
+    "w": " whole",
+    "s": 1.88,
+    "e": 2.08
+   },
+   {
+    "w": " room",
+    "s": 2.08,
+    "e": 2.32
+   },
+   {
+    "w": " yawns",
+    "s": 2.32,
+    "e": 2.7
+   },
+   {
+    "w": " too?",
+    "s": 2.7,
+    "e": 2.86
+   },
+   {
+    "w": " Nobody",
+    "s": 3.48,
+    "e": 3.74
+   },
+   {
+    "w": " chooses",
+    "s": 3.74,
+    "e": 4.18
+   },
+   {
+    "w": " it.",
+    "s": 4.18,
+    "e": 4.42
+   },
+   {
+    "w": " It",
+    "s": 4.92,
+    "e": 5.04
+   },
+   {
+    "w": " just",
+    "s": 5.04,
+    "e": 5.22
+   },
+   {
+    "w": " jumps.",
+    "s": 5.22,
+    "e": 5.52
+   }
+  ],
+  "heard": "Ever watched one person yawn and then the whole room yawns too? Nobody chooses it. It just jumps.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Ever watched one person yawn, and then the whole room yawns too? Nobody chooses it. It just jumps.",
+  "voice": "w_jett"
+ },
+ "11": {
+  "wav": "vo/wav/a99d74b37d3b_v2.wav",
+  "dur": 3.312188,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " frightened",
+    "s": 0.14,
+    "e": 0.44
+   },
+   {
+    "w": " dancer",
+    "s": 0.44,
+    "e": 0.82
+   },
+   {
+    "w": " became",
+    "s": 0.82,
+    "e": 1.12
+   },
+   {
+    "w": " 30,",
+    "s": 1.12,
+    "e": 1.5
+   },
+   {
+    "w": " and",
+    "s": 1.96,
+    "e": 2.02
+   },
+   {
+    "w": " 30",
+    "s": 2.02,
+    "e": 2.3
+   },
+   {
+    "w": " became",
+    "s": 2.3,
+    "e": 2.62
+   },
+   {
+    "w": " hundreds.",
+    "s": 2.62,
+    "e": 2.96
+   }
+  ],
+  "heard": "One frightened dancer became 30, and 30 became hundreds.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "One frightened dancer became thirty, and thirty became hundreds.",
+  "voice": "w_jett"
+ },
+ "12": {
+  "wav": "vo/wav/7ee555e4f5a7_v2.wav",
+  "dur": 6.004458,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " the",
+    "s": 0.14,
+    "e": 0.26
+   },
+   {
+    "w": " council",
+    "s": 0.26,
+    "e": 0.52
+   },
+   {
+    "w": " finally",
+    "s": 0.52,
+    "e": 0.88
+   },
+   {
+    "w": " does",
+    "s": 0.88,
+    "e": 1.14
+   },
+   {
+    "w": " the",
+    "s": 1.14,
+    "e": 1.26
+   },
+   {
+    "w": " opposite.",
+    "s": 1.26,
+    "e": 1.6
+   },
+   {
+    "w": " They",
+    "s": 2.22,
+    "e": 2.32
+   },
+   {
+    "w": " ban",
+    "s": 2.32,
+    "e": 2.58
+   },
+   {
+    "w": " music",
+    "s": 2.58,
+    "e": 2.88
+   },
+   {
+    "w": " in",
+    "s": 2.88,
+    "e": 3.04
+   },
+   {
+    "w": " public",
+    "s": 3.04,
+    "e": 3.34
+   },
+   {
+    "w": " and",
+    "s": 3.34,
+    "e": 3.8
+   },
+   {
+    "w": " send",
+    "s": 3.8,
+    "e": 3.98
+   },
+   {
+    "w": " the",
+    "s": 3.98,
+    "e": 4.12
+   },
+   {
+    "w": " dancers",
+    "s": 4.12,
+    "e": 4.38
+   },
+   {
+    "w": " to",
+    "s": 4.38,
+    "e": 4.64
+   },
+   {
+    "w": " a",
+    "s": 4.64,
+    "e": 4.76
+   },
+   {
+    "w": " quiet",
+    "s": 4.76,
+    "e": 5.0
+   },
+   {
+    "w": " shrine",
+    "s": 5.0,
+    "e": 5.28
+   },
+   {
+    "w": " in",
+    "s": 5.28,
+    "e": 5.46
+   },
+   {
+    "w": " the",
+    "s": 5.46,
+    "e": 5.56
+   },
+   {
+    "w": " hills.",
+    "s": 5.56,
+    "e": 5.78
+   }
+  ],
+  "heard": "So the council finally does the opposite. They ban music in public and send the dancers to a quiet shrine in the hills.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So the council finally does the opposite. They ban music in public, and send the dancers to a quiet shrine in the hills.",
+  "voice": "w_jett"
+ },
+ "13": {
+  "wav": "vo/wav/b03aac1ee211_v2.wav",
+  "dur": 1.924708,
+  "words": [
+   {
+    "w": " And",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " slowly",
+    "s": 0.16,
+    "e": 0.48
+   },
+   {
+    "w": " the",
+    "s": 0.48,
+    "e": 0.84
+   },
+   {
+    "w": " dancing",
+    "s": 0.84,
+    "e": 1.16
+   },
+   {
+    "w": " stops.",
+    "s": 1.16,
+    "e": 1.56
+   }
+  ],
+  "heard": "And slowly the dancing stops.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "And slowly, the dancing stops.",
+  "voice": "w_jett"
+ },
+ "14": {
+  "wav": "vo/wav/602f2f0eb651_v2.wav",
+  "dur": 5.455563,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " town",
+    "s": 0.12,
+    "e": 0.4
+   },
+   {
+    "w": " cured",
+    "s": 0.4,
+    "e": 0.66
+   },
+   {
+    "w": " a",
+    "s": 0.66,
+    "e": 0.78
+   },
+   {
+    "w": " dancing",
+    "s": 0.78,
+    "e": 1.06
+   },
+   {
+    "w": " plague",
+    "s": 1.06,
+    "e": 1.42
+   },
+   {
+    "w": " by",
+    "s": 1.42,
+    "e": 1.66
+   },
+   {
+    "w": " doing",
+    "s": 1.66,
+    "e": 1.84
+   },
+   {
+    "w": " the",
+    "s": 1.84,
+    "e": 2.02
+   },
+   {
+    "w": " one",
+    "s": 2.02,
+    "e": 2.2
+   },
+   {
+    "w": " thing",
+    "s": 2.2,
+    "e": 2.46
+   },
+   {
+    "w": " nobody",
+    "s": 2.46,
+    "e": 2.78
+   },
+   {
+    "w": " at",
+    "s": 2.78,
+    "e": 2.98
+   },
+   {
+    "w": " a",
+    "s": 2.98,
+    "e": 3.02
+   },
+   {
+    "w": " party",
+    "s": 3.02,
+    "e": 3.24
+   },
+   {
+    "w": " ever",
+    "s": 3.24,
+    "e": 3.48
+   },
+   {
+    "w": " does.",
+    "s": 3.48,
+    "e": 3.78
+   },
+   {
+    "w": " Turning",
+    "s": 4.28,
+    "e": 4.48
+   },
+   {
+    "w": " off",
+    "s": 4.48,
+    "e": 4.72
+   },
+   {
+    "w": " the",
+    "s": 4.72,
+    "e": 4.88
+   },
+   {
+    "w": " music.",
+    "s": 4.88,
+    "e": 5.14
+   }
+  ],
+  "heard": "The town cured a dancing plague by doing the one thing nobody at a party ever does. Turning off the music.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The town cured a dancing plague by doing the one thing nobody at a party ever does: turning off the music.",
+  "voice": "w_jett"
+ }
+}

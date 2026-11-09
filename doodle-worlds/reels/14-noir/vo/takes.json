@@ -1,0 +1,641 @@
+{
+ "0": {
+  "wav": "vo/wav/d7610b380f3a_v2.wav",
+  "dur": 4.18575,
+  "words": [
+   {
+    "w": " Customers",
+    "s": 0.0,
+    "e": 0.74
+   },
+   {
+    "w": " were",
+    "s": 0.74,
+    "e": 0.9
+   },
+   {
+    "w": " vanishing",
+    "s": 0.9,
+    "e": 1.48
+   },
+   {
+    "w": " from",
+    "s": 1.48,
+    "e": 1.76
+   },
+   {
+    "w": " this",
+    "s": 1.76,
+    "e": 2.0
+   },
+   {
+    "w": " shop",
+    "s": 2.0,
+    "e": 2.4
+   },
+   {
+    "w": " without",
+    "s": 2.4,
+    "e": 3.22
+   },
+   {
+    "w": " a",
+    "s": 3.22,
+    "e": 3.46
+   },
+   {
+    "w": " trace.",
+    "s": 3.46,
+    "e": 3.78
+   }
+  ],
+  "heard": "Customers were vanishing from this shop without a trace.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[low, noir] Customers were vanishing from this shop. Without a trace.",
+  "voice": "w_vera"
+ },
+ "1": {
+  "wav": "vo/wav/27597139d80c_v2.wav",
+  "dur": 4.32825,
+  "words": [
+   {
+    "w": " They",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " walk",
+    "s": 0.14,
+    "e": 0.48
+   },
+   {
+    "w": " in,",
+    "s": 0.48,
+    "e": 0.84
+   },
+   {
+    "w": " they",
+    "s": 1.26,
+    "e": 1.36
+   },
+   {
+    "w": " fill",
+    "s": 1.36,
+    "e": 1.72
+   },
+   {
+    "w": " the",
+    "s": 1.72,
+    "e": 1.92
+   },
+   {
+    "w": " damn",
+    "s": 1.92,
+    "e": 2.12
+   },
+   {
+    "w": " cart,",
+    "s": 2.12,
+    "e": 2.52
+   },
+   {
+    "w": " and",
+    "s": 2.9,
+    "e": 3.22
+   },
+   {
+    "w": " then",
+    "s": 3.22,
+    "e": 3.44
+   },
+   {
+    "w": " they're",
+    "s": 3.44,
+    "e": 3.72
+   },
+   {
+    "w": " gone!",
+    "s": 3.72,
+    "e": 4.02
+   }
+  ],
+  "heard": "They walk in, they fill the damn cart, and then they're gone!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[panicked] They walk in, they fill the damn cart... and then they're gone!",
+  "voice": "w_benny"
+ },
+ "2": {
+  "wav": "vo/wav/841f8ec365dc_v2.wav",
+  "dur": 5.6865,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " I",
+    "s": 0.28,
+    "e": 0.44
+   },
+   {
+    "w": " followed",
+    "s": 0.44,
+    "e": 0.76
+   },
+   {
+    "w": " one.",
+    "s": 0.76,
+    "e": 1.1
+   },
+   {
+    "w": " The",
+    "s": 1.78,
+    "e": 1.88
+   },
+   {
+    "w": " shop?",
+    "s": 1.88,
+    "e": 2.28
+   },
+   {
+    "w": " Fine.",
+    "s": 2.76,
+    "e": 3.22
+   },
+   {
+    "w": " The",
+    "s": 3.84,
+    "e": 4.06
+   },
+   {
+    "w": " cart?",
+    "s": 4.06,
+    "e": 4.36
+   },
+   {
+    "w": " Fine.",
+    "s": 5.06,
+    "e": 5.4
+   }
+  ],
+  "heard": "So I followed one. The shop? Fine. The cart? Fine.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[low, noir] So I followed one. The shop: fine. The cart: fine.",
+  "voice": "w_vera"
+ },
+ "3": {
+  "wav": "vo/wav/66af9452ff2d_v2.wav",
+  "dur": 3.360042,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " create",
+    "s": 0.42,
+    "e": 1.04
+   },
+   {
+    "w": " an",
+    "s": 1.04,
+    "e": 1.24
+   },
+   {
+    "w": " account.",
+    "s": 1.24,
+    "e": 1.54
+   },
+   {
+    "w": " Confirm",
+    "s": 2.06,
+    "e": 2.66
+   },
+   {
+    "w": " your",
+    "s": 2.66,
+    "e": 2.78
+   },
+   {
+    "w": " email.",
+    "s": 2.78,
+    "e": 3.06
+   }
+  ],
+  "heard": "Then create an account. Confirm your email.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[low, noir, building, a little faster] Then: create an account. Confirm your email.",
+  "voice": "w_vera"
+ },
+ "4": {
+  "wav": "vo/wav/2cfddc1eb9a1_v2.wav",
+  "dur": 3.511021,
+  "words": [
+   {
+    "w": " and",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " then",
+    "s": 0.28,
+    "e": 0.72
+   },
+   {
+    "w": " confirm",
+    "s": 0.72,
+    "e": 1.96
+   },
+   {
+    "w": " your",
+    "s": 1.96,
+    "e": 2.64
+   },
+   {
+    "w": " password.",
+    "s": 2.64,
+    "e": 3.08
+   }
+  ],
+  "heard": "and then confirm your password.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[slow, ominous] And then... confirm your password.",
+  "voice": "w_vera"
+ },
+ "5": {
+  "wav": "vo/wav/7e7e6875b24e_v2.wav",
+  "dur": 3.066458,
+  "words": [
+   {
+    "w": " Screw",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " this.",
+    "s": 0.48,
+    "e": 0.84
+   },
+   {
+    "w": " I'm",
+    "s": 1.54,
+    "e": 2.0
+   },
+   {
+    "w": " out.",
+    "s": 2.0,
+    "e": 2.2
+   }
+  ],
+  "heard": "Screw this. I'm out.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[tired, fed up] ...Screw this. I'm out.",
+  "voice": "w_zoe"
+ },
+ "6": {
+  "wav": "vo/wav/621d6d48a5c5_v2.wav",
+  "dur": 2.18675,
+  "words": [
+   {
+    "w": " There",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " it",
+    "s": 0.2,
+    "e": 0.32
+   },
+   {
+    "w": " was,",
+    "s": 0.32,
+    "e": 0.6
+   },
+   {
+    "w": " the",
+    "s": 1.42,
+    "e": 1.62
+   },
+   {
+    "w": " killer.",
+    "s": 1.62,
+    "e": 1.9
+   }
+  ],
+  "heard": "There it was, the killer.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[low, noir, slow] There it was. The killer.",
+  "voice": "w_vera"
+ },
+ "7": {
+  "wav": "vo/wav/aa18a409e9ff_v2.wav",
+  "dur": 4.560063,
+  "words": [
+   {
+    "w": " Forced",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " sign",
+    "s": 0.48,
+    "e": 0.8
+   },
+   {
+    "w": "-ups",
+    "s": 0.8,
+    "e": 1.0
+   },
+   {
+    "w": " alone",
+    "s": 1.0,
+    "e": 1.38
+   },
+   {
+    "w": " scare",
+    "s": 1.38,
+    "e": 2.0
+   },
+   {
+    "w": " off",
+    "s": 2.0,
+    "e": 2.3
+   },
+   {
+    "w": " about",
+    "s": 2.3,
+    "e": 2.56
+   },
+   {
+    "w": " one",
+    "s": 2.56,
+    "e": 3.0
+   },
+   {
+    "w": " in",
+    "s": 3.0,
+    "e": 3.32
+   },
+   {
+    "w": " five",
+    "s": 3.32,
+    "e": 3.72
+   },
+   {
+    "w": " shoppers.",
+    "s": 3.72,
+    "e": 4.36
+   }
+  ],
+  "heard": "Forced sign-ups alone scare off about one in five shoppers.",
+  "score": 1.0,
+  "attempt": 2,
+  "tts": "[low] Forced sign-ups alone scare off about one in five shoppers.",
+  "voice": "w_vera"
+ },
+ "8": {
+  "wav": "vo/wav/dac3b3690c24_v2.wav",
+  "dur": 4.945729,
+  "words": [
+   {
+    "w": " Every",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " extra",
+    "s": 0.36,
+    "e": 0.88
+   },
+   {
+    "w": " step",
+    "s": 0.88,
+    "e": 1.44
+   },
+   {
+    "w": " is",
+    "s": 1.44,
+    "e": 1.96
+   },
+   {
+    "w": " a",
+    "s": 1.96,
+    "e": 2.1
+   },
+   {
+    "w": " leak.",
+    "s": 2.1,
+    "e": 2.42
+   },
+   {
+    "w": " Find",
+    "s": 3.02,
+    "e": 3.48
+   },
+   {
+    "w": " it.",
+    "s": 3.48,
+    "e": 3.8
+   },
+   {
+    "w": " Cut",
+    "s": 4.34,
+    "e": 4.62
+   },
+   {
+    "w": " it.",
+    "s": 4.62,
+    "e": 4.78
+   }
+  ],
+  "heard": "Every extra step is a leak. Find it. Cut it.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[low] Every extra step is a leak. Find it. Cut it.",
+  "voice": "w_vera"
+ },
+ "9": {
+  "wav": "vo/wav/bfa8fd0828a3_v2.wav",
+  "dur": 2.811604,
+  "words": [
+   {
+    "w": " So,",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " a",
+    "s": 1.28,
+    "e": 1.38
+   },
+   {
+    "w": " guess",
+    "s": 1.38,
+    "e": 1.74
+   },
+   {
+    "w": " check",
+    "s": 1.74,
+    "e": 2.06
+   },
+   {
+    "w": " out?",
+    "s": 2.06,
+    "e": 2.34
+   }
+  ],
+  "heard": "So, a guess check out?",
+  "score": 0.5,
+  "attempt": 2,
+  "tts": "[hopeful] So... a guest checkout?",
+  "voice": "w_benny"
+ },
+ "10": {
+  "wav": "vo/wav/2884ee84c04c_v2.wav",
+  "dur": 1.857208,
+  "words": [
+   {
+    "w": " Case",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " closed.",
+    "s": 0.34,
+    "e": 0.96
+   }
+  ],
+  "heard": "Case closed.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[smirking] Case closed.",
+  "voice": "w_vera"
+ },
+ "11": {
+  "wav": "vo/wav/e8cee528e109_v2.wav",
+  "dur": 2.558688,
+  "words": [
+   {
+    "w": " Detective,",
+    "s": 0.0,
+    "e": 0.54
+   },
+   {
+    "w": " how",
+    "s": 1.16,
+    "e": 1.38
+   },
+   {
+    "w": " do",
+    "s": 1.38,
+    "e": 1.52
+   },
+   {
+    "w": " I",
+    "s": 1.52,
+    "e": 1.68
+   },
+   {
+    "w": " pay",
+    "s": 1.68,
+    "e": 1.98
+   },
+   {
+    "w": " you?",
+    "s": 1.98,
+    "e": 2.32
+   }
+  ],
+  "heard": "Detective, how do I pay you?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[grateful] Detective, how do I pay you?",
+  "voice": "w_benny"
+ },
+ "12": {
+  "wav": "vo/wav/506ebfe75155_v2.wav",
+  "dur": 2.440125,
+  "words": [
+   {
+    "w": " First,",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " create",
+    "s": 1.36,
+    "e": 1.58
+   },
+   {
+    "w": " an",
+    "s": 1.58,
+    "e": 1.8
+   },
+   {
+    "w": " account.",
+    "s": 1.8,
+    "e": 2.1
+   }
+  ],
+  "heard": "First, create an account.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[deadpan] First... create an account.",
+  "voice": "w_vera"
+ },
+ "13": {
+  "wav": "vo/wav/5a90a5b255ec_v2.wav",
+  "dur": 3.520042,
+  "words": [
+   {
+    "w": " comment",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " funnel",
+    "s": 0.38,
+    "e": 1.0
+   },
+   {
+    "w": " for",
+    "s": 1.0,
+    "e": 1.64
+   },
+   {
+    "w": " the",
+    "s": 1.64,
+    "e": 1.78
+   },
+   {
+    "w": " free",
+    "s": 1.78,
+    "e": 2.18
+   },
+   {
+    "w": " leak",
+    "s": 2.18,
+    "e": 2.68
+   },
+   {
+    "w": " checklist.",
+    "s": 2.68,
+    "e": 3.12
+   }
+  ],
+  "heard": "comment funnel for the free leak checklist.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment FUNNEL for the free leak checklist.",
+  "voice": "w_vera"
+ }
+}

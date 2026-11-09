@@ -1,0 +1,174 @@
+{
+ "title": "The Man Who Sold the Eiffel Tower",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In 1925, a con man sold the Eiffel Tower. Then he came back and tried to sell it again.",
+   "text": "In 1925, a con man sold the Eiffel Tower. Then he came back and tried to sell it again.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Victor Lustig reads in the paper that the tower is rusting, and costs a fortune to fix.",
+   "text": "Victor Lustig reads in the paper that the tower is rusting, and costs a fortune to fix.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So he gets fake government letters printed, and calls himself a deputy director of the ministry.",
+   "text": "So he gets fake government letters printed, and calls himself a deputy director of the ministry.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "He invites a group of scrap metal dealers to a secret meeting in a fancy Paris hotel.",
+   "text": "He invites a group of scrap metal dealers to a secret meeting in a fancy Paris hotel.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The government, he whispers, is selling the tower for scrap. But nobody can know.",
+   "text": "The government, he whispers, is selling the tower for scrap. But nobody can know.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "One dealer, André Poisson, wants it more than anyone. He's new in town, and desperate to be a big shot.",
+   "text": "One dealer, André Poisson, wants it more than anyone. He's new in town, and desperate to be a big shot.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Then Lustig makes his best move. He confesses.",
+   "text": "Then Lustig makes his best move. He confesses.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "He's a crooked official, his salary is tiny, and could Monsieur maybe help him out?",
+   "text": "He's a crooked official, his salary is tiny, and could Monsieur maybe help him out?",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Poisson relaxes. A bribe? Now that's how real government works.",
+   "text": "Poisson relaxes. A bribe? Now that's how real government works.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "He pays the bribe, and the money for the tower. Lustig grabs the cash and runs to Austria.",
+   "text": "He pays the bribe, and the money for the tower. Lustig grabs the cash and runs to Austria.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, a con is like a magic trick. People don't believe what you show them. They believe what they figure out themselves.",
+   "text": "You see, a con is like a magic trick. People don't believe what you show them. They believe what they figure out themselves.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "And Poisson? He's so embarrassed, he never even calls the police.",
+   "text": "And Poisson? He's so embarrassed, he never even calls the police.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So Lustig comes back to Paris, and tries the exact same thing again. This time someone does call the police, and he escapes to America.",
+   "text": "So Lustig comes back to Paris, and tries the exact same thing again. This time someone does call the police, and he escapes to America.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Ten years later, he finally goes to prison. On Alcatraz. The one landmark he couldn't sell his way out of.",
+   "text": "Ten years later, he finally goes to prison. On Alcatraz. The one landmark he couldn't sell his way out of.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

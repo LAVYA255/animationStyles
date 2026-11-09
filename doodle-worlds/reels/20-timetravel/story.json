@@ -1,0 +1,21 @@
+{
+ "title": "She time travelled to meet her 25 year old self",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Time travel",
+ "cta": "START",
+ "lines": [
+  {"voice": "mira_narrator", "who": "N", "tts": "[intrigued] Asha built a time machine... to visit herself at twenty-five.", "text": "Asha built a time machine... to visit herself at twenty-five.", "gap": 0.4},
+  {"voice": "w_oldasha", "who": "OLD", "tts": "[warm, a little shaky] Hi, sweetheart. It's me. You. Fifty years later.", "text": "Hi, sweetheart. It's me. You. Fifty years later.", "gap": 0.35},
+  {"voice": "w_asha", "who": "ASHA", "tts": "[shocked, excited] No way! So... did we open the bakery?!", "text": "No way! So... did we open the bakery?!", "gap": 0.6},
+  {"voice": "w_oldasha", "who": "OLD", "tts": "[quiet, sad] ...No. We kept waiting to be ready.", "text": "No. We kept waiting to be ready.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "Ready after the course. After the savings. After the perfect recipe.", "text": "Ready after the course. After the savings. After the perfect recipe.", "gap": 0.35},
+  {"voice": "w_oldasha", "who": "OLD", "tts": "[soft, bitter] Ready never came. Ready is a damn lie.", "text": "Ready never came. Ready is a damn lie.", "gap": 0.45},
+  {"voice": "w_asha", "who": "ASHA", "tts": "[quiet, small] So... what do I do?", "text": "So... what do I do?", "gap": 0.35},
+  {"voice": "w_oldasha", "who": "OLD", "tts": "[firm, warm] Bake one tray. Today. Sell it to your neighbors.", "text": "Bake one tray. Today. Sell it to your neighbors.", "gap": 0.45},
+  {"voice": "mira_narrator", "who": "N", "tts": "[warm, building] So she did. Twelve cookies. Eleven sold. Then a hundred. Then a shop.", "text": "So she did. Twelve cookies. Eleven sold. Then a hundred. Then a shop.", "gap": 0.4},
+  {"voice": "mira_narrator", "who": "N", "tts": "[emotional] The best time to start was years ago. The second best time is today.", "text": "The best time to start was years ago. The second best time is today.", "gap": 0.5},
+  {"voice": "w_oldasha", "who": "OLD", "tts": "[surprised, delighted laugh] Oh! I own a bakery now!", "text": "Oh! I own a bakery now!", "gap": 0.3},
+  {"voice": "w_asha", "who": "ASHA", "tts": "[grinning] Want a cookie?", "text": "Want a cookie?", "gap": 0.7},
+  {"voice": "mira_narrator", "who": "N", "tts": "Comment START for the free first-week launch plan.", "text": "Comment START for the free first-week launch plan.", "gap": 0.0}
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "title": "The Bridge That Fell for a Song",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Seventy-four soldiers knocked down an iron bridge just by walking across it.",
+   "text": "Seventy-four soldiers knocked down an iron bridge just by walking across it.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "It's 1831, and the brand new bridge over the river is the pride of the whole town.",
+   "text": "It's 1831, and the brand new bridge over the river is the pride of the whole town.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "The men are marching home four across, every boot hitting the planks at the exact same moment.",
+   "text": "The men are marching home four across, every boot hitting the planks at the exact same moment.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Halfway over, the bridge starts bouncing under their feet.",
+   "text": "Halfway over, the bridge starts bouncing under their feet.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "A normal person would slow down, but these guys think it's hilarious.",
+   "text": "A normal person would slow down, but these guys think it's hilarious.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Somebody starts whistling a marching tune, and the whole column stomps along to it, a little harder every step.",
+   "text": "Somebody starts whistling a marching tune, and the whole column stomps along to it, a little harder every step.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "The bounce gets bigger, the chains start groaning, and nobody wants to be the one who breaks step.",
+   "text": "The bounce gets bigger, the chains start groaning, and nobody wants to be the one who breaks step.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Then a single bolt snaps, and the whole end of the bridge drops into the river.",
+   "text": "Then a single bolt snaps, and the whole end of the bridge drops into the river.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Luckily, the river was only two feet deep.",
+   "text": "Luckily, the river was only two feet deep.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Unluckily, the river was only two feet deep.",
+   "text": "Unluckily, the river was only two feet deep.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "You see, every bridge has a rhythm it naturally likes to sway at.",
+   "text": "You see, every bridge has a rhythm it naturally likes to sway at.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Ever pushed a kid on a swing? Each push is tiny, but if they all land at just the right moment, the swing goes higher and higher.",
+   "text": "Ever pushed a kid on a swing? Each push is tiny, but if they all land at just the right moment, the swing goes higher and higher.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Seventy-four men stepping together were pushing that bridge like a swing.",
+   "text": "Seventy-four men stepping together were pushing that bridge like a swing.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Nobody died, but the army made a rule: never cross a bridge in step.",
+   "text": "Nobody died, but the army made a rule: never cross a bridge in step.",
+   "gap": 0.3
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "So now, the best drilled soldiers in the world cross every bridge like a crowd of tourists.",
+   "text": "So now, the best drilled soldiers in the world cross every bridge like a crowd of tourists.",
+   "gap": 0.3
+  }
+ ]
+}

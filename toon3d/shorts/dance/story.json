@@ -1,0 +1,186 @@
+{
+ "title": "The Town That Couldn't Stop Dancing",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "In 1518, a woman started dancing in the street, and a whole town couldn't stop.",
+   "text": "In 1518, a woman started dancing in the street, and a whole town couldn't stop.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It's July in Strasbourg, and Frau Troffea steps out of her house and just starts dancing. No music. No smile.",
+   "text": "It's July in Strasbourg, and Frau Troffea steps out of her house and just starts dancing. No music. No smile.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Her husband begs her to stop. She can't. She dances for six days straight.",
+   "text": "Her husband begs her to stop. She can't. She dances for six days straight.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "By the end of the week, thirty neighbors are dancing with her.",
+   "text": "By the end of the week, thirty neighbors are dancing with her.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "By August, records say it's hundreds.",
+   "text": "By August, records say it's hundreds.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So the town council meets, and they come up with a plan.",
+   "text": "So the town council meets, and they come up with a plan.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "If they can't stop dancing, let them dance it out.",
+   "text": "If they can't stop dancing, let them dance it out.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "They build a stage, hire a band, and pay strong young men to keep the dancers moving.",
+   "text": "They build a stage, hire a band, and pay strong young men to keep the dancers moving.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It does not help. The music just pulls in more dancers.",
+   "text": "It does not help. The music just pulls in more dancers.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, the town was starving, sick and terrified, and fear spreads through a crowd like a yawn.",
+   "text": "You see, the town was starving, sick and terrified, and fear spreads through a crowd like a yawn.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Ever watched one person yawn, and then the whole room yawns too? Nobody chooses it. It just jumps.",
+   "text": "Ever watched one person yawn, and then the whole room yawns too? Nobody chooses it. It just jumps.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "One frightened dancer became thirty, and thirty became hundreds.",
+   "text": "One frightened dancer became thirty, and thirty became hundreds.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So the council finally does the opposite. They ban music in public, and send the dancers to a quiet shrine in the hills.",
+   "text": "So the council finally does the opposite. They ban music in public, and send the dancers to a quiet shrine in the hills.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "And slowly, the dancing stops.",
+   "text": "And slowly, the dancing stops.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The town cured a dancing plague by doing the one thing nobody at a party ever does: turning off the music.",
+   "text": "The town cured a dancing plague by doing the one thing nobody at a party ever does: turning off the music.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

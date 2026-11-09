@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "s": 0.08,
+  "e": 4.872,
+  "text": "The longer you chat with AI, the dumber it gets. And no, it's not your imagination."
+ },
+ {
+  "i": 1,
+  "s": 5.072,
+  "e": 11.651,
+  "text": "Every time you send a message, the AI re-reads the entire conversation from the top. Every single time."
+ },
+ {
+  "i": 2,
+  "s": 11.771,
+  "e": 15.762,
+  "text": "And it can only hold so much at once. That's called the context window."
+ },
+ {
+  "i": 3,
+  "s": 15.882,
+  "e": 20.606,
+  "text": "When a chat gets huge, the stuff in the middle goes blurry, and your old instructions get buried."
+ },
+ {
+  "i": 4,
+  "s": 20.956,
+  "e": 27.385,
+  "text": "You see, it's like a waiter taking orders for a giant table with no notepad. By order twenty, table one is getting the wrong pizza."
+ },
+ {
+  "i": 5,
+  "s": 27.635,
+  "e": 33.067,
+  "text": "So here's the fix. When a chat gets long, ask for a short summary, open a fresh chat, and paste it in."
+ },
+ {
+  "i": 6,
+  "s": 33.187,
+  "e": 35.787,
+  "text": "Same brain. Clean desk. Way better answers."
+ },
+ {
+  "i": 7,
+  "s": 36.187,
+  "e": 39.423,
+  "text": "Your AI isn't tired. It's just drowning in your old messages."
+ }
+]

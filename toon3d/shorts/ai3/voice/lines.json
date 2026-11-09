@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "s": 0.08,
+  "e": 3.67,
+  "text": "AI will lie straight to your face, and it doesn't even know it's lying."
+ },
+ {
+  "i": 1,
+  "s": 3.87,
+  "e": 9.016,
+  "text": "Ask it about a book that doesn't exist, and you'll get the author, the year, and a full chapter list."
+ },
+ {
+  "i": 2,
+  "s": 9.266,
+  "e": 11.541,
+  "text": "Why? Because of how it got graded."
+ },
+ {
+  "i": 3,
+  "s": 11.661,
+  "e": 15.354,
+  "text": "In training, a confident guess can score points. I don't know scores zero."
+ },
+ {
+  "i": 4,
+  "s": 15.474,
+  "e": 21.148,
+  "text": "So it learned the same trick as every kid in a multiple choice exam. Never, ever leave a blank."
+ },
+ {
+  "i": 5,
+  "s": 21.498,
+  "e": 28.805,
+  "text": "You see, it's like a tour guide in a city he's never been to. He won't stop the tour. He'll point at a random building and make up a great story."
+ },
+ {
+  "i": 6,
+  "s": 28.925,
+  "e": 34.0,
+  "text": "The fix is boring. Reward the AI for saying I'm not sure, and double check anything that matters."
+ },
+ {
+  "i": 7,
+  "s": 34.4,
+  "e": 38.423,
+  "text": "Because the most dangerous answer isn't the wrong one. It's the confident one."
+ }
+]

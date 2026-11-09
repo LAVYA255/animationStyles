@@ -1,0 +1,632 @@
+{
+ "dur": 48.96,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 4.138,
+   "text": "This ghost was so bad at haunting... he got fired.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     0.79,
+     "This"
+    ],
+    [
+     0.79,
+     1.13,
+     "ghost"
+    ],
+    [
+     1.13,
+     1.35,
+     "was"
+    ],
+    [
+     1.35,
+     1.73,
+     "so"
+    ],
+    [
+     1.73,
+     1.99,
+     "bad"
+    ],
+    [
+     1.99,
+     2.09,
+     "at"
+    ],
+    [
+     2.09,
+     2.43,
+     "haunting,"
+    ],
+    [
+     3.07,
+     3.29,
+     "he"
+    ],
+    [
+     3.29,
+     3.45,
+     "got"
+    ],
+    [
+     3.45,
+     3.83,
+     "fired!"
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "BORIS",
+   "voice": "w_boris",
+   "start": 4.538,
+   "end": 5.637,
+   "text": "Boo...?",
+   "file": "line_01.wav",
+   "words": [
+    [
+     4.538,
+     4.838,
+     "Boo."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "ZOE",
+   "voice": "w_zoe",
+   "start": 5.987,
+   "end": 8.53,
+   "text": "Is that... a bedsheet?",
+   "file": "line_02.wav",
+   "words": [
+    [
+     5.987,
+     6.667,
+     "Is"
+    ],
+    [
+     6.667,
+     6.947,
+     "that"
+    ],
+    [
+     6.947,
+     7.587,
+     "a"
+    ],
+    [
+     7.587,
+     7.867,
+     "bed"
+    ],
+    [
+     7.867,
+     8.207,
+     "sheet?"
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 8.88,
+   "end": 14.035,
+   "text": "Nobody moved out. The mansion got five stars... for 'cozy vibes.'",
+   "file": "line_03.wav",
+   "words": [
+    [
+     8.88,
+     9.16,
+     "Nobody"
+    ],
+    [
+     9.16,
+     9.48,
+     "moved"
+    ],
+    [
+     9.48,
+     9.72,
+     "out."
+    ],
+    [
+     10.26,
+     10.36,
+     "The"
+    ],
+    [
+     10.36,
+     10.68,
+     "mansion"
+    ],
+    [
+     10.68,
+     10.96,
+     "got"
+    ],
+    [
+     10.96,
+     11.34,
+     "five"
+    ],
+    [
+     11.34,
+     11.84,
+     "stars"
+    ],
+    [
+     11.84,
+     12.82,
+     "for"
+    ],
+    [
+     12.82,
+     13.2,
+     "cozy"
+    ],
+    [
+     13.2,
+     13.62,
+     "vibes."
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "RAVEN",
+   "voice": "w_raven",
+   "start": 14.585,
+   "end": 16.147,
+   "text": "You're fired.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     14.585,
+     14.945,
+     "You're"
+    ],
+    [
+     14.945,
+     15.505,
+     "fired!"
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 16.497,
+   "end": 20.735,
+   "text": "So Boris asked one question: who actually WANTS to be scared?",
+   "file": "line_05.wav",
+   "words": [
+    [
+     16.497,
+     16.677,
+     "So"
+    ],
+    [
+     16.677,
+     16.897,
+     "Boris"
+    ],
+    [
+     16.897,
+     17.197,
+     "asks"
+    ],
+    [
+     17.197,
+     17.417,
+     "one"
+    ],
+    [
+     17.417,
+     17.777,
+     "question."
+    ],
+    [
+     18.377,
+     18.497,
+     "Who"
+    ],
+    [
+     18.497,
+     18.897,
+     "actually"
+    ],
+    [
+     18.897,
+     19.537,
+     "wants"
+    ],
+    [
+     19.537,
+     20.077,
+     "to"
+    ],
+    [
+     20.077,
+     20.197,
+     "be"
+    ],
+    [
+     20.197,
+     20.457,
+     "scared?"
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 21.135,
+   "end": 24.778,
+   "text": "Teenagers. On a Friday night. Who would pay for it.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     21.135,
+     21.715,
+     "teenagers"
+    ],
+    [
+     21.715,
+     22.595,
+     "on"
+    ],
+    [
+     22.595,
+     22.715,
+     "a"
+    ],
+    [
+     22.715,
+     22.975,
+     "Friday"
+    ],
+    [
+     22.975,
+     23.315,
+     "night."
+    ],
+    [
+     23.775,
+     24.035,
+     "Who"
+    ],
+    [
+     24.035,
+     24.215,
+     "would"
+    ],
+    [
+     24.215,
+     24.435,
+     "pay"
+    ],
+    [
+     24.435,
+     24.655,
+     "for"
+    ],
+    [
+     24.655,
+     24.755,
+     "it?"
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 25.228,
+   "end": 28.268,
+   "text": "So he turned the mansion into a haunted escape room.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     25.228,
+     25.408,
+     "So"
+    ],
+    [
+     25.408,
+     25.548,
+     "he"
+    ],
+    [
+     25.548,
+     25.808,
+     "turned"
+    ],
+    [
+     25.808,
+     26.048,
+     "the"
+    ],
+    [
+     26.048,
+     26.428,
+     "mansion"
+    ],
+    [
+     26.428,
+     26.808,
+     "into"
+    ],
+    [
+     26.808,
+     27.028,
+     "a"
+    ],
+    [
+     27.028,
+     27.488,
+     "haunted"
+    ],
+    [
+     27.488,
+     27.928,
+     "escape"
+    ],
+    [
+     27.928,
+     28.228,
+     "room."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 28.668,
+   "end": 33.308,
+   "text": "Same ghost. Same boo. New customer. Sold out every weekend.",
+   "file": "line_08.wav",
+   "words": [
+    [
+     28.668,
+     28.868,
+     "Same"
+    ],
+    [
+     28.868,
+     29.228,
+     "ghost,"
+    ],
+    [
+     29.768,
+     29.908,
+     "same"
+    ],
+    [
+     29.908,
+     30.208,
+     "boo,"
+    ],
+    [
+     30.588,
+     30.808,
+     "new"
+    ],
+    [
+     30.808,
+     31.228,
+     "customer."
+    ],
+    [
+     31.628,
+     32.028,
+     "Sold"
+    ],
+    [
+     32.028,
+     32.308,
+     "out"
+    ],
+    [
+     32.308,
+     32.728,
+     "every"
+    ],
+    [
+     32.728,
+     33.068,
+     "weekend."
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 33.808,
+   "end": 38.607,
+   "text": "That's repositioning. If it's not selling, maybe you're selling it to the wrong people.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     33.808,
+     34.188,
+     "That's"
+    ],
+    [
+     34.188,
+     34.888,
+     "repositioning."
+    ],
+    [
+     35.308,
+     35.548,
+     "If"
+    ],
+    [
+     35.548,
+     35.708,
+     "it's"
+    ],
+    [
+     35.708,
+     35.868,
+     "not"
+    ],
+    [
+     35.868,
+     36.228,
+     "selling,"
+    ],
+    [
+     36.808,
+     37.048,
+     "maybe"
+    ],
+    [
+     37.048,
+     37.248,
+     "you're"
+    ],
+    [
+     37.248,
+     37.488,
+     "selling"
+    ],
+    [
+     37.488,
+     37.688,
+     "it"
+    ],
+    [
+     37.688,
+     37.788,
+     "to"
+    ],
+    [
+     37.788,
+     37.888,
+     "the"
+    ],
+    [
+     37.888,
+     38.088,
+     "wrong"
+    ],
+    [
+     38.088,
+     38.408,
+     "people."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "KABIR",
+   "voice": "w_kabir",
+   "start": 39.207,
+   "end": 43.933,
+   "text": "That was the scariest thing EVER! ...Five stars.",
+   "file": "line_10.wav",
+   "words": [
+    [
+     39.207,
+     40.107,
+     "That"
+    ],
+    [
+     40.107,
+     40.427,
+     "was"
+    ],
+    [
+     40.427,
+     40.627,
+     "the"
+    ],
+    [
+     40.627,
+     41.167,
+     "scariest"
+    ],
+    [
+     41.167,
+     41.547,
+     "thing"
+    ],
+    [
+     41.547,
+     42.187,
+     "ever!"
+    ],
+    [
+     42.887,
+     43.307,
+     "Five"
+    ],
+    [
+     43.307,
+     43.587,
+     "stars!"
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 44.733,
+   "end": 47.364,
+   "text": "Comment GHOST for the free positioning worksheet.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     44.733,
+     45.033,
+     "Comment,"
+    ],
+    [
+     45.193,
+     45.493,
+     "ghost"
+    ],
+    [
+     45.493,
+     45.873,
+     "for"
+    ],
+    [
+     45.873,
+     45.993,
+     "the"
+    ],
+    [
+     45.993,
+     46.233,
+     "free"
+    ],
+    [
+     46.233,
+     46.693,
+     "positioning"
+    ],
+    [
+     46.693,
+     47.033,
+     "worksheet."
+    ]
+   ]
+  }
+ ]
+}

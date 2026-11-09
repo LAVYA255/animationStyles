@@ -1,0 +1,757 @@
+{
+ "0": {
+  "wav": "vo/wav/2f22adaae671_v2.wav",
+  "dur": 4.703729,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " dinosaurs",
+    "s": 0.12,
+    "e": 0.68
+   },
+   {
+    "w": " ignored",
+    "s": 0.68,
+    "e": 1.24
+   },
+   {
+    "w": " a",
+    "s": 1.24,
+    "e": 1.52
+   },
+   {
+    "w": " tiny",
+    "s": 1.52,
+    "e": 1.88
+   },
+   {
+    "w": " competitor.",
+    "s": 1.88,
+    "e": 2.52
+   },
+   {
+    "w": " Biggest",
+    "s": 3.18,
+    "e": 3.74
+   },
+   {
+    "w": " mistake",
+    "s": 3.74,
+    "e": 4.06
+   },
+   {
+    "w": " ever.",
+    "s": 4.06,
+    "e": 4.48
+   }
+  ],
+  "heard": "The dinosaurs ignored a tiny competitor. Biggest mistake ever.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] The dinosaurs ignored a tiny competitor. Biggest mistake ever.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/ae18762168fd_v2.wav",
+  "dur": 4.480042,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.06
+   },
+   {
+    "w": " Rex",
+    "s": 0.06,
+    "e": 0.24
+   },
+   {
+    "w": " ran",
+    "s": 0.24,
+    "e": 0.52
+   },
+   {
+    "w": " the",
+    "s": 0.52,
+    "e": 0.66
+   },
+   {
+    "w": " biggest",
+    "s": 0.66,
+    "e": 0.96
+   },
+   {
+    "w": " business",
+    "s": 0.96,
+    "e": 1.4
+   },
+   {
+    "w": " in",
+    "s": 1.4,
+    "e": 1.6
+   },
+   {
+    "w": " the",
+    "s": 1.6,
+    "e": 1.7
+   },
+   {
+    "w": " valley.",
+    "s": 1.7,
+    "e": 1.98
+   },
+   {
+    "w": " Big",
+    "s": 2.52,
+    "e": 2.66
+   },
+   {
+    "w": " food",
+    "s": 2.66,
+    "e": 2.98
+   },
+   {
+    "w": " for",
+    "s": 2.98,
+    "e": 3.44
+   },
+   {
+    "w": " big",
+    "s": 3.44,
+    "e": 3.7
+   },
+   {
+    "w": " customers.",
+    "s": 3.7,
+    "e": 4.1
+   }
+  ],
+  "heard": "The Rex ran the biggest business in the valley. Big food for big customers.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Rex ran the biggest business in the valley. Big food, for big customers.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/1a5b8a74d120_v2.wav",
+  "dur": 1.86575,
+  "words": [
+   {
+    "w": " I",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " am",
+    "s": 0.24,
+    "e": 0.44
+   },
+   {
+    "w": " too",
+    "s": 0.44,
+    "e": 0.7
+   },
+   {
+    "w": " big",
+    "s": 0.7,
+    "e": 0.94
+   },
+   {
+    "w": " to",
+    "s": 0.94,
+    "e": 1.16
+   },
+   {
+    "w": " fail.",
+    "s": 1.16,
+    "e": 1.5
+   }
+  ],
+  "heard": "I am too big to fail.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[booming, smug] I am too big to fail.",
+  "voice": "w_rex"
+ },
+ "3": {
+  "wav": "vo/wav/d5408bee7450_v2.wav",
+  "dur": 3.561167,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " a",
+    "s": 0.2,
+    "e": 0.34
+   },
+   {
+    "w": " tiny",
+    "s": 0.34,
+    "e": 0.68
+   },
+   {
+    "w": " mammal",
+    "s": 0.68,
+    "e": 1.06
+   },
+   {
+    "w": " opened",
+    "s": 1.06,
+    "e": 1.46
+   },
+   {
+    "w": " a",
+    "s": 1.46,
+    "e": 1.64
+   },
+   {
+    "w": " night",
+    "s": 1.64,
+    "e": 1.86
+   },
+   {
+    "w": " stall,",
+    "s": 1.86,
+    "e": 2.2
+   },
+   {
+    "w": " selling",
+    "s": 2.64,
+    "e": 3.02
+   },
+   {
+    "w": " bugs.",
+    "s": 3.02,
+    "e": 3.32
+   }
+  ],
+  "heard": "Then a tiny mammal opened a night stall, selling bugs.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Then a tiny mammal opened a night stall. Selling bugs.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/fbac4d1bb099_v2.wav",
+  "dur": 2.358458,
+  "words": [
+   {
+    "w": " Night",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " snacks!",
+    "s": 0.2,
+    "e": 0.58
+   },
+   {
+    "w": " Crunchy",
+    "s": 1.02,
+    "e": 1.56
+   },
+   {
+    "w": " beetles!",
+    "s": 1.56,
+    "e": 2.16
+   }
+  ],
+  "heard": "Night snacks! Crunchy beetles!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[cheerful, fast] Night snacks! Crunchy beetles!",
+  "voice": "w_mo"
+ },
+ "5": {
+  "wav": "vo/wav/f6d478197177_v2.wav",
+  "dur": 3.896833,
+  "words": [
+   {
+    "w": " Huh,",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " bugs",
+    "s": 0.58,
+    "e": 1.02
+   },
+   {
+    "w": " at",
+    "s": 1.02,
+    "e": 1.78
+   },
+   {
+    "w": " night?",
+    "s": 1.78,
+    "e": 2.14
+   },
+   {
+    "w": " Tiny",
+    "s": 2.78,
+    "e": 3.16
+   },
+   {
+    "w": " market!",
+    "s": 3.16,
+    "e": 3.64
+   }
+  ],
+  "heard": "Huh, bugs at night? Tiny market!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[laughing, booming] Bugs? At night? Tiny market!",
+  "voice": "w_rex"
+ },
+ "6": {
+  "wav": "vo/wav/e55f11447a77_v2.wav",
+  "dur": 3.953938,
+  "words": [
+   {
+    "w": " too",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " small",
+    "s": 0.18,
+    "e": 0.48
+   },
+   {
+    "w": " for",
+    "s": 0.48,
+    "e": 0.68
+   },
+   {
+    "w": " a",
+    "s": 0.68,
+    "e": 0.76
+   },
+   {
+    "w": " giant",
+    "s": 0.76,
+    "e": 1.08
+   },
+   {
+    "w": " to",
+    "s": 1.08,
+    "e": 1.26
+   },
+   {
+    "w": " care.",
+    "s": 1.26,
+    "e": 1.48
+   },
+   {
+    "w": " So",
+    "s": 2.02,
+    "e": 2.24
+   },
+   {
+    "w": " Moe",
+    "s": 2.24,
+    "e": 2.6
+   },
+   {
+    "w": " had",
+    "s": 2.6,
+    "e": 2.74
+   },
+   {
+    "w": " it",
+    "s": 2.74,
+    "e": 2.86
+   },
+   {
+    "w": " all",
+    "s": 2.86,
+    "e": 3.2
+   },
+   {
+    "w": " to",
+    "s": 3.2,
+    "e": 3.42
+   },
+   {
+    "w": " himself.",
+    "s": 3.42,
+    "e": 3.56
+   }
+  ],
+  "heard": "too small for a giant to care. So Moe had it all to himself.",
+  "score": 0.9285714285714286,
+  "attempt": 0,
+  "tts": "Too small for a giant to care. So Mo had it all to himself.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/27157e517846_v2.wav",
+  "dur": 3.267333,
+  "words": [
+   {
+    "w": " Every",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " night",
+    "s": 0.32,
+    "e": 0.54
+   },
+   {
+    "w": " he",
+    "s": 0.54,
+    "e": 0.72
+   },
+   {
+    "w": " learned,",
+    "s": 0.72,
+    "e": 1.0
+   },
+   {
+    "w": " got",
+    "s": 1.28,
+    "e": 1.5
+   },
+   {
+    "w": " faster,",
+    "s": 1.5,
+    "e": 2.02
+   },
+   {
+    "w": " got",
+    "s": 2.3,
+    "e": 2.42
+   },
+   {
+    "w": " more",
+    "s": 2.42,
+    "e": 2.58
+   },
+   {
+    "w": " customers.",
+    "s": 2.58,
+    "e": 2.92
+   }
+  ],
+  "heard": "Every night he learned, got faster, got more customers.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Every night he learned. Got faster. Got more customers.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/af1c6d0a53ed_v2.wav",
+  "dur": 1.680063,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " the",
+    "s": 0.3,
+    "e": 0.52
+   },
+   {
+    "w": " world",
+    "s": 0.52,
+    "e": 0.82
+   },
+   {
+    "w": " changed.",
+    "s": 0.82,
+    "e": 1.28
+   }
+  ],
+  "heard": "Then the world changed.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[ominous] Then the world changed.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/60dc5195fc0f_v2.wav",
+  "dur": 3.76,
+  "words": [
+   {
+    "w": " Big",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " food,",
+    "s": 0.16,
+    "e": 0.42
+   },
+   {
+    "w": " gone.",
+    "s": 0.92,
+    "e": 1.32
+   },
+   {
+    "w": " Big",
+    "s": 1.9,
+    "e": 2.16
+   },
+   {
+    "w": " customers,",
+    "s": 2.16,
+    "e": 2.64
+   },
+   {
+    "w": " starving.",
+    "s": 3.08,
+    "e": 3.5
+   }
+  ],
+  "heard": "Big food, gone. Big customers, starving.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Big food? Gone. Big customers? Starving.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/3e2a8235e290_v2.wav",
+  "dur": 3.89725,
+  "words": [
+   {
+    "w": " and",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " the",
+    "s": 0.16,
+    "e": 0.28
+   },
+   {
+    "w": " only",
+    "s": 0.28,
+    "e": 0.72
+   },
+   {
+    "w": " one",
+    "s": 0.72,
+    "e": 1.02
+   },
+   {
+    "w": " who",
+    "s": 1.02,
+    "e": 1.22
+   },
+   {
+    "w": " knew",
+    "s": 1.22,
+    "e": 1.44
+   },
+   {
+    "w": " how",
+    "s": 1.44,
+    "e": 1.66
+   },
+   {
+    "w": " to",
+    "s": 1.66,
+    "e": 1.76
+   },
+   {
+    "w": " live",
+    "s": 1.76,
+    "e": 1.94
+   },
+   {
+    "w": " on",
+    "s": 1.94,
+    "e": 2.12
+   },
+   {
+    "w": " tiny",
+    "s": 2.12,
+    "e": 2.52
+   },
+   {
+    "w": " was",
+    "s": 2.52,
+    "e": 3.34
+   },
+   {
+    "w": " Moe.",
+    "s": 3.34,
+    "e": 3.8
+   }
+  ],
+  "heard": "and the only one who knew how to live on tiny was Moe.",
+  "score": 0.9230769230769231,
+  "attempt": 0,
+  "tts": "[building] And the only one who knew how to live on tiny... was Mo.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/5f3de17742fc_v2.wav",
+  "dur": 3.831271,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " disruption.",
+    "s": 0.28,
+    "e": 0.68
+   },
+   {
+    "w": " Start",
+    "s": 1.24,
+    "e": 1.82
+   },
+   {
+    "w": " where",
+    "s": 1.82,
+    "e": 2.32
+   },
+   {
+    "w": " the",
+    "s": 2.32,
+    "e": 2.46
+   },
+   {
+    "w": " giants",
+    "s": 2.46,
+    "e": 2.82
+   },
+   {
+    "w": " won't",
+    "s": 2.82,
+    "e": 3.46
+   },
+   {
+    "w": " look.",
+    "s": 3.46,
+    "e": 3.64
+   }
+  ],
+  "heard": "That's disruption. Start where the giants won't look.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's disruption. Start where the giants won't look.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/8806eed22a6d_v2.wav",
+  "dur": 2.153521,
+  "words": [
+   {
+    "w": " Psst,",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " any",
+    "s": 0.94,
+    "e": 1.08
+   },
+   {
+    "w": " Beatles",
+    "s": 1.08,
+    "e": 1.42
+   },
+   {
+    "w": " left?",
+    "s": 1.42,
+    "e": 1.84
+   }
+  ],
+  "heard": "Psst, any Beatles left?",
+  "score": 0.75,
+  "attempt": 2,
+  "tts": "[weak, whispering] Psst... any beetles left?",
+  "voice": "w_rex"
+ },
+ "13": {
+  "wav": "vo/wav/14db67def926_v2.wav",
+  "dur": 2.403313,
+  "words": [
+   {
+    "w": " For",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " you,",
+    "s": 0.16,
+    "e": 0.4
+   },
+   {
+    "w": " premium",
+    "s": 0.9,
+    "e": 1.34
+   },
+   {
+    "w": " price.",
+    "s": 1.34,
+    "e": 1.78
+   }
+  ],
+  "heard": "For you, premium price.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[cheerful] For you? Premium price.",
+  "voice": "w_mo"
+ },
+ "14": {
+  "wav": "vo/wav/2ecc8e57068a_v2.wav",
+  "dur": 2.541083,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " small",
+    "s": 0.3,
+    "e": 0.82
+   },
+   {
+    "w": " for",
+    "s": 0.82,
+    "e": 1.2
+   },
+   {
+    "w": " the",
+    "s": 1.2,
+    "e": 1.34
+   },
+   {
+    "w": " free",
+    "s": 1.34,
+    "e": 1.62
+   },
+   {
+    "w": " niche",
+    "s": 1.62,
+    "e": 2.0
+   },
+   {
+    "w": " finder.",
+    "s": 2.0,
+    "e": 2.46
+   }
+  ],
+  "heard": "Comment small for the free niche finder.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment SMALL for the free niche finder.",
+  "voice": "mira_narrator"
+ }
+}

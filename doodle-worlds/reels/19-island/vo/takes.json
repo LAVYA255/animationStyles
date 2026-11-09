@@ -1,0 +1,690 @@
+{
+ "0": {
+  "wav": "vo/wav/3a7bbdec988c_v2.wav",
+  "dur": 4.035688,
+  "words": [
+   {
+    "w": " This",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " moody",
+    "s": 0.42,
+    "e": 0.8
+   },
+   {
+    "w": " stand",
+    "s": 0.8,
+    "e": 1.1
+   },
+   {
+    "w": " hooked",
+    "s": 1.1,
+    "e": 1.4
+   },
+   {
+    "w": " a",
+    "s": 1.4,
+    "e": 1.58
+   },
+   {
+    "w": " whole",
+    "s": 1.58,
+    "e": 1.9
+   },
+   {
+    "w": " island,",
+    "s": 1.9,
+    "e": 2.42
+   },
+   {
+    "w": " without",
+    "s": 2.8,
+    "e": 3.2
+   },
+   {
+    "w": " a",
+    "s": 3.2,
+    "e": 3.4
+   },
+   {
+    "w": " single",
+    "s": 3.4,
+    "e": 3.62
+   },
+   {
+    "w": " ad.",
+    "s": 3.62,
+    "e": 3.92
+   }
+  ],
+  "heard": "This moody stand hooked a whole island, without a single ad.",
+  "score": 0.9090909090909091,
+  "attempt": 0,
+  "tts": "[intrigued] This smoothie stand hooked a whole island. Without a single ad.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/b8d62c39c9a3_v2.wav",
+  "dur": 4.552125,
+  "words": [
+   {
+    "w": " At",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " first,",
+    "s": 0.16,
+    "e": 0.54
+   },
+   {
+    "w": " Lonnie",
+    "s": 0.9,
+    "e": 1.32
+   },
+   {
+    "w": " paid",
+    "s": 1.32,
+    "e": 1.52
+   },
+   {
+    "w": " Koa",
+    "s": 1.52,
+    "e": 1.82
+   },
+   {
+    "w": " to",
+    "s": 1.82,
+    "e": 1.98
+   },
+   {
+    "w": " shout",
+    "s": 1.98,
+    "e": 2.26
+   },
+   {
+    "w": " ads.",
+    "s": 2.26,
+    "e": 2.78
+   },
+   {
+    "w": " All",
+    "s": 3.3,
+    "e": 3.84
+   },
+   {
+    "w": " day.",
+    "s": 3.84,
+    "e": 4.4
+   }
+  ],
+  "heard": "At first, Lonnie paid Koa to shout ads. All day.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "At first, Lani paid Koa to shout ads. All day.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/297916876475_v2.wav",
+  "dur": 2.435354,
+  "words": [
+   {
+    "w": " Smoothies!",
+    "s": 0.0,
+    "e": 0.78
+   },
+   {
+    "w": " Get",
+    "s": 1.08,
+    "e": 1.22
+   },
+   {
+    "w": " your",
+    "s": 1.22,
+    "e": 1.46
+   },
+   {
+    "w": " smoothies!",
+    "s": 1.46,
+    "e": 2.14
+   }
+  ],
+  "heard": "Smoothies! Get your smoothies!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[booming, radio announcer] SMOOTHIES! GET YOUR SMOOTHIES!",
+  "voice": "w_koa"
+ },
+ "3": {
+  "wav": "vo/wav/1e6f75b0783e_v2.wav",
+  "dur": 2.558146,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " customer.",
+    "s": 0.4,
+    "e": 1.08
+   },
+   {
+    "w": " Coa's",
+    "s": 1.56,
+    "e": 2.24
+   },
+   {
+    "w": " mom.",
+    "s": 2.24,
+    "e": 2.44
+   }
+  ],
+  "heard": "One customer. Coa's mom.",
+  "score": 0.75,
+  "attempt": 2,
+  "tts": "[dry] One customer. Koa's mom.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/117e1aef366e_v2.wav",
+  "dur": 3.200042,
+  "words": [
+   {
+    "w": " then",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " Melly",
+    "s": 0.24,
+    "e": 0.52
+   },
+   {
+    "w": " tried",
+    "s": 0.52,
+    "e": 0.8
+   },
+   {
+    "w": " one",
+    "s": 0.8,
+    "e": 1.08
+   },
+   {
+    "w": " and",
+    "s": 1.08,
+    "e": 1.88
+   },
+   {
+    "w": " ran",
+    "s": 1.88,
+    "e": 2.14
+   },
+   {
+    "w": " to",
+    "s": 2.14,
+    "e": 2.36
+   },
+   {
+    "w": " get",
+    "s": 2.36,
+    "e": 2.5
+   },
+   {
+    "w": " her",
+    "s": 2.5,
+    "e": 2.66
+   },
+   {
+    "w": " friends.",
+    "s": 2.66,
+    "e": 2.94
+   }
+  ],
+  "heard": "then Melly tried one and ran to get her friends.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "Then Mele tried one... and ran to get her friends.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/6aab8328df74_v2.wav",
+  "dur": 2.219688,
+  "words": [
+   {
+    "w": " Guys,",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " you",
+    "s": 0.66,
+    "e": 0.94
+   },
+   {
+    "w": " have",
+    "s": 0.94,
+    "e": 1.32
+   },
+   {
+    "w": " to",
+    "s": 1.32,
+    "e": 1.54
+   },
+   {
+    "w": " try",
+    "s": 1.54,
+    "e": 1.78
+   },
+   {
+    "w": " this!",
+    "s": 1.78,
+    "e": 2.02
+   }
+  ],
+  "heard": "Guys, you have to try this!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[excited] Guys! You HAVE to try this!",
+  "voice": "w_mele"
+ },
+ "6": {
+  "wav": "vo/wav/1ef0987509fc_v2.wav",
+  "dur": 4.341208,
+  "words": [
+   {
+    "w": " Wait!",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " Bring",
+    "s": 0.92,
+    "e": 1.28
+   },
+   {
+    "w": " a",
+    "s": 1.28,
+    "e": 1.48
+   },
+   {
+    "w": " friend",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": " and",
+    "s": 1.8,
+    "e": 2.1
+   },
+   {
+    "w": " you",
+    "s": 2.1,
+    "e": 2.26
+   },
+   {
+    "w": " both",
+    "s": 2.26,
+    "e": 2.68
+   },
+   {
+    "w": " get",
+    "s": 2.68,
+    "e": 3.04
+   },
+   {
+    "w": " one",
+    "s": 3.04,
+    "e": 3.28
+   },
+   {
+    "w": " free!",
+    "s": 3.28,
+    "e": 3.58
+   }
+  ],
+  "heard": "Wait! Bring a friend and you both get one free!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[lightbulb, excited] Wait. Bring a friend, and you BOTH get one free!",
+  "voice": "w_lani"
+ },
+ "7": {
+  "wav": "vo/wav/2b4452205ac9_v2.wav",
+  "dur": 4.203,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " became",
+    "s": 0.2,
+    "e": 0.44
+   },
+   {
+    "w": " two,",
+    "s": 0.44,
+    "e": 0.72
+   },
+   {
+    "w": " two",
+    "s": 1.02,
+    "e": 1.2
+   },
+   {
+    "w": " became",
+    "s": 1.2,
+    "e": 1.48
+   },
+   {
+    "w": " four,",
+    "s": 1.48,
+    "e": 1.82
+   },
+   {
+    "w": " four",
+    "s": 2.02,
+    "e": 2.28
+   },
+   {
+    "w": " became",
+    "s": 2.28,
+    "e": 2.56
+   },
+   {
+    "w": " the",
+    "s": 2.56,
+    "e": 2.78
+   },
+   {
+    "w": " whole",
+    "s": 2.78,
+    "e": 3.22
+   },
+   {
+    "w": " damn",
+    "s": 3.22,
+    "e": 3.62
+   },
+   {
+    "w": " island.",
+    "s": 3.62,
+    "e": 4.0
+   }
+  ],
+  "heard": "One became two, two became four, four became the whole damn island.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building, faster] One became two. Two became four. Four became the whole damn island.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/7c098164ff0c_v2.wav",
+  "dur": 7.018563,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " a",
+    "s": 0.5,
+    "e": 0.68
+   },
+   {
+    "w": " referral",
+    "s": 0.68,
+    "e": 0.96
+   },
+   {
+    "w": " loop.",
+    "s": 0.96,
+    "e": 1.34
+   },
+   {
+    "w": " Dropbox",
+    "s": 1.78,
+    "e": 2.34
+   },
+   {
+    "w": " grew",
+    "s": 2.34,
+    "e": 2.62
+   },
+   {
+    "w": " from",
+    "s": 2.62,
+    "e": 2.82
+   },
+   {
+    "w": " 100",
+    "s": 2.82,
+    "e": 3.22
+   },
+   {
+    "w": ",000",
+    "s": 3.22,
+    "e": 3.7
+   },
+   {
+    "w": " to",
+    "s": 3.7,
+    "e": 3.8
+   },
+   {
+    "w": " 4",
+    "s": 3.8,
+    "e": 4.18
+   },
+   {
+    "w": " million",
+    "s": 4.18,
+    "e": 4.48
+   },
+   {
+    "w": " users",
+    "s": 4.48,
+    "e": 4.9
+   },
+   {
+    "w": " in",
+    "s": 4.9,
+    "e": 5.16
+   },
+   {
+    "w": " 15",
+    "s": 5.16,
+    "e": 5.62
+   },
+   {
+    "w": " months",
+    "s": 5.62,
+    "e": 6.12
+   },
+   {
+    "w": " doing",
+    "s": 6.12,
+    "e": 6.58
+   },
+   {
+    "w": " this.",
+    "s": 6.58,
+    "e": 6.84
+   }
+  ],
+  "heard": "That's a referral loop. Dropbox grew from 100,000 to 4 million users in 15 months doing this.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's a referral loop. Dropbox grew from a hundred thousand to four million users in fifteen months doing this.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/40719f6704bb_v2.wav",
+  "dur": 3.421938,
+  "words": [
+   {
+    "w": " Make",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " customers",
+    "s": 0.18,
+    "e": 0.68
+   },
+   {
+    "w": " your",
+    "s": 0.68,
+    "e": 1.02
+   },
+   {
+    "w": " marketers.",
+    "s": 1.02,
+    "e": 1.46
+   },
+   {
+    "w": " Reward",
+    "s": 2.04,
+    "e": 2.48
+   },
+   {
+    "w": " both",
+    "s": 2.48,
+    "e": 2.76
+   },
+   {
+    "w": " sides.",
+    "s": 2.76,
+    "e": 3.08
+   }
+  ],
+  "heard": "Make customers your marketers. Reward both sides.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Make customers your marketers. Reward both sides.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/716f52683528_v2.wav",
+  "dur": 2.031229,
+  "words": [
+   {
+    "w": " Can",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " I",
+    "s": 0.16,
+    "e": 0.34
+   },
+   {
+    "w": " bring",
+    "s": 0.34,
+    "e": 0.68
+   },
+   {
+    "w": " myself",
+    "s": 0.68,
+    "e": 1.16
+   },
+   {
+    "w": " as",
+    "s": 1.16,
+    "e": 1.46
+   },
+   {
+    "w": " a",
+    "s": 1.46,
+    "e": 1.56
+   },
+   {
+    "w": " friend?",
+    "s": 1.56,
+    "e": 1.82
+   }
+  ],
+  "heard": "Can I bring myself as a friend?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[hopeful] Can I bring myself as a friend?",
+  "voice": "w_koa"
+ },
+ "11": {
+  "wav": "vo/wav/3ce6fc44b68a_v2.wav",
+  "dur": 1.738313,
+  "words": [
+   {
+    "w": " No,",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " Kua.",
+    "s": 0.6,
+    "e": 1.02
+   }
+  ],
+  "heard": "No, Kua.",
+  "score": 0.5,
+  "attempt": 2,
+  "tts": "[flat] No, Koa.",
+  "voice": "w_lani"
+ },
+ "12": {
+  "wav": "vo/wav/a6bf887b9411_v2.wav",
+  "dur": 2.845083,
+  "words": [
+   {
+    "w": " Comment,",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " invite",
+    "s": 0.46,
+    "e": 0.76
+   },
+   {
+    "w": " for",
+    "s": 0.76,
+    "e": 1.04
+   },
+   {
+    "w": " the",
+    "s": 1.04,
+    "e": 1.16
+   },
+   {
+    "w": " free",
+    "s": 1.16,
+    "e": 1.4
+   },
+   {
+    "w": " referral",
+    "s": 1.4,
+    "e": 1.74
+   },
+   {
+    "w": " program",
+    "s": 1.74,
+    "e": 2.14
+   },
+   {
+    "w": " template.",
+    "s": 2.14,
+    "e": 2.52
+   }
+  ],
+  "heard": "Comment, invite for the free referral program template.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment INVITE for the free referral program template.",
+  "voice": "mira_narrator"
+ }
+}

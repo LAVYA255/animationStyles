@@ -1,0 +1,663 @@
+{
+ "0": {
+  "wav": "vo/wav/bfdfc87a5a8e_v2.wav",
+  "dur": 4.024521,
+  "words": [
+   {
+    "w": " This",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " octopus",
+    "s": 0.3,
+    "e": 0.74
+   },
+   {
+    "w": " had",
+    "s": 0.74,
+    "e": 1.18
+   },
+   {
+    "w": " eight",
+    "s": 1.18,
+    "e": 1.56
+   },
+   {
+    "w": " arms",
+    "s": 1.56,
+    "e": 2.0
+   },
+   {
+    "w": " and",
+    "s": 2.0,
+    "e": 2.74
+   },
+   {
+    "w": " still",
+    "s": 2.74,
+    "e": 3.14
+   },
+   {
+    "w": " couldn't",
+    "s": 3.14,
+    "e": 3.52
+   },
+   {
+    "w": " keep",
+    "s": 3.52,
+    "e": 3.64
+   },
+   {
+    "w": " up.",
+    "s": 3.64,
+    "e": 3.86
+   }
+  ],
+  "heard": "This octopus had eight arms and still couldn't keep up.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] This octopus had eight arms... and still couldn't keep up.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/a62008cafa9e_v2.wav",
+  "dur": 10.088333,
+  "words": [
+   {
+    "w": " Otto",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " ran",
+    "s": 0.26,
+    "e": 0.56
+   },
+   {
+    "w": " the",
+    "s": 0.56,
+    "e": 0.72
+   },
+   {
+    "w": " Reese",
+    "s": 0.72,
+    "e": 0.98
+   },
+   {
+    "w": " Only",
+    "s": 0.98,
+    "e": 1.42
+   },
+   {
+    "w": " Snack",
+    "s": 1.42,
+    "e": 1.82
+   },
+   {
+    "w": " Shop.",
+    "s": 1.82,
+    "e": 2.06
+   },
+   {
+    "w": " Cooking,",
+    "s": 2.54,
+    "e": 2.9
+   },
+   {
+    "w": " cleaning,",
+    "s": 3.38,
+    "e": 3.72
+   },
+   {
+    "w": " cash,",
+    "s": 4.22,
+    "e": 4.56
+   },
+   {
+    "w": " deliveries,",
+    "s": 4.98,
+    "e": 5.28
+   },
+   {
+    "w": " emails,",
+    "s": 5.96,
+    "e": 6.4
+   },
+   {
+    "w": " taxes,",
+    "s": 6.86,
+    "e": 7.24
+   },
+   {
+    "w": " and",
+    "s": 8.04,
+    "e": 8.18
+   },
+   {
+    "w": " one",
+    "s": 8.18,
+    "e": 8.4
+   },
+   {
+    "w": " arm",
+    "s": 8.4,
+    "e": 8.74
+   },
+   {
+    "w": " just",
+    "s": 8.74,
+    "e": 9.08
+   },
+   {
+    "w": " holding",
+    "s": 9.08,
+    "e": 9.46
+   },
+   {
+    "w": " his",
+    "s": 9.46,
+    "e": 9.64
+   },
+   {
+    "w": " coffee.",
+    "s": 9.64,
+    "e": 9.96
+   }
+  ],
+  "heard": "Otto ran the Reese Only Snack Shop. Cooking, cleaning, cash, deliveries, emails, taxes, and one arm just holding his coffee.",
+  "score": 0.95,
+  "attempt": 0,
+  "tts": "Otto ran the reef's only snack shop. Cooking, cleaning, cash, deliveries, emails, taxes... and one arm just holding his coffee.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/51d2391b1829_v2.wav",
+  "dur": 3.962438,
+  "words": [
+   {
+    "w": " Excuse",
+    "s": 0.0,
+    "e": 0.48
+   },
+   {
+    "w": " me,",
+    "s": 0.48,
+    "e": 0.98
+   },
+   {
+    "w": " I've",
+    "s": 1.4,
+    "e": 1.7
+   },
+   {
+    "w": " been",
+    "s": 1.7,
+    "e": 1.86
+   },
+   {
+    "w": " waiting",
+    "s": 1.86,
+    "e": 2.24
+   },
+   {
+    "w": " forever.",
+    "s": 2.24,
+    "e": 3.16
+   }
+  ],
+  "heard": "Excuse me, I've been waiting forever.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[grumpy, impatient] Excuse me! I've been waiting... FOREVER!",
+  "voice": "w_puffer"
+ },
+ "3": {
+  "wav": "vo/wav/fd3a2e88ded0_v2.wav",
+  "dur": 4.346313,
+  "words": [
+   {
+    "w": " auto",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " was",
+    "s": 0.4,
+    "e": 0.66
+   },
+   {
+    "w": " drowning,",
+    "s": 0.66,
+    "e": 1.26
+   },
+   {
+    "w": " which",
+    "s": 1.92,
+    "e": 2.22
+   },
+   {
+    "w": " is",
+    "s": 2.22,
+    "e": 2.36
+   },
+   {
+    "w": " hard",
+    "s": 2.36,
+    "e": 2.72
+   },
+   {
+    "w": " for",
+    "s": 2.72,
+    "e": 3.56
+   },
+   {
+    "w": " an",
+    "s": 3.56,
+    "e": 3.68
+   },
+   {
+    "w": " octopus.",
+    "s": 3.68,
+    "e": 3.96
+   }
+  ],
+  "heard": "auto was drowning, which is hard for an octopus.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "[dry] Otto was drowning. Which is hard... for an octopus.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/081aa7a42b58_v2.wav",
+  "dur": 2.962938,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " he",
+    "s": 0.26,
+    "e": 0.42
+   },
+   {
+    "w": " asked,",
+    "s": 0.42,
+    "e": 0.78
+   },
+   {
+    "w": " which",
+    "s": 1.28,
+    "e": 1.56
+   },
+   {
+    "w": " jobs",
+    "s": 1.56,
+    "e": 1.94
+   },
+   {
+    "w": " actually",
+    "s": 1.94,
+    "e": 2.36
+   },
+   {
+    "w": " need",
+    "s": 2.36,
+    "e": 2.68
+   },
+   {
+    "w": " me?",
+    "s": 2.68,
+    "e": 2.94
+   }
+  ],
+  "heard": "So he asked, which jobs actually need me?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[hushed, building] So he asked: which jobs actually need me?",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/3e66ec4923e6_v2.wav",
+  "dur": 3.990313,
+  "words": [
+   {
+    "w": " only",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " to",
+    "s": 0.34,
+    "e": 0.7
+   },
+   {
+    "w": " the",
+    "s": 0.7,
+    "e": 1.4
+   },
+   {
+    "w": " secret",
+    "s": 1.4,
+    "e": 1.68
+   },
+   {
+    "w": " recipe",
+    "s": 1.68,
+    "e": 2.12
+   },
+   {
+    "w": " and",
+    "s": 2.12,
+    "e": 2.88
+   },
+   {
+    "w": " talking",
+    "s": 2.88,
+    "e": 3.16
+   },
+   {
+    "w": " to",
+    "s": 3.16,
+    "e": 3.32
+   },
+   {
+    "w": " customers.",
+    "s": 3.32,
+    "e": 3.6
+   }
+  ],
+  "heard": "only to the secret recipe and talking to customers.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "Only two. The secret recipe... and talking to customers.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/12e20cfebf4c_v2.wav",
+  "dur": 6.4805,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.12
+   },
+   {
+    "w": " rest?",
+    "s": 0.12,
+    "e": 0.36
+   },
+   {
+    "w": " Cleaning,",
+    "s": 0.78,
+    "e": 1.28
+   },
+   {
+    "w": " a",
+    "s": 1.6,
+    "e": 1.68
+   },
+   {
+    "w": " crab.",
+    "s": 1.68,
+    "e": 1.92
+   },
+   {
+    "w": " Deliveries,",
+    "s": 2.46,
+    "e": 3.18
+   },
+   {
+    "w": " a",
+    "s": 3.54,
+    "e": 3.66
+   },
+   {
+    "w": " schedule.",
+    "s": 3.66,
+    "e": 4.06
+   },
+   {
+    "w": " Emails,",
+    "s": 4.68,
+    "e": 5.16
+   },
+   {
+    "w": " an",
+    "s": 5.58,
+    "e": 5.7
+   },
+   {
+    "w": " auto",
+    "s": 5.7,
+    "e": 5.96
+   },
+   {
+    "w": " reply.",
+    "s": 5.96,
+    "e": 6.32
+   }
+  ],
+  "heard": "The rest? Cleaning, a crab. Deliveries, a schedule. Emails, an auto reply.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[fast, triumphant] The rest? Cleaning: a crab. Deliveries: a schedule. Emails: an auto-reply.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/1ac150691980_v2.wav",
+  "dur": 4.606354,
+  "words": [
+   {
+    "w": " I",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " can",
+    "s": 0.22,
+    "e": 0.46
+   },
+   {
+    "w": " finally",
+    "s": 0.46,
+    "e": 1.0
+   },
+   {
+    "w": " drink",
+    "s": 1.0,
+    "e": 1.4
+   },
+   {
+    "w": " my",
+    "s": 1.4,
+    "e": 1.62
+   },
+   {
+    "w": " coffee",
+    "s": 1.62,
+    "e": 2.1
+   },
+   {
+    "w": " with",
+    "s": 2.1,
+    "e": 3.1
+   },
+   {
+    "w": " two",
+    "s": 3.1,
+    "e": 3.66
+   },
+   {
+    "w": " hands.",
+    "s": 3.66,
+    "e": 4.16
+   }
+  ],
+  "heard": "I can finally drink my coffee with two hands.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[relieved, happy] I can finally drink my coffee... with TWO hands!",
+  "voice": "w_otto"
+ },
+ "8": {
+  "wav": "vo/wav/1a4629575500_v2.wav",
+  "dur": 4.080042,
+  "words": [
+   {
+    "w": " Do",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " the",
+    "s": 0.16,
+    "e": 0.34
+   },
+   {
+    "w": " jobs",
+    "s": 0.34,
+    "e": 0.62
+   },
+   {
+    "w": " only",
+    "s": 0.62,
+    "e": 0.94
+   },
+   {
+    "w": " you",
+    "s": 0.94,
+    "e": 1.26
+   },
+   {
+    "w": " can",
+    "s": 1.26,
+    "e": 1.46
+   },
+   {
+    "w": " do.",
+    "s": 1.46,
+    "e": 1.66
+   },
+   {
+    "w": " Delegate",
+    "s": 2.2200000000000006,
+    "e": 2.74
+   },
+   {
+    "w": " or",
+    "s": 2.74,
+    "e": 3.1
+   },
+   {
+    "w": " automate",
+    "s": 3.1,
+    "e": 3.46
+   },
+   {
+    "w": " the",
+    "s": 3.46,
+    "e": 3.68
+   },
+   {
+    "w": " rest.",
+    "s": 3.68,
+    "e": 3.92
+   }
+  ],
+  "heard": "Do the jobs only you can do. Delegate or automate the rest.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Do the jobs only you can do. Delegate or automate the rest.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/a04313b43e34_v2.wav",
+  "dur": 2.080042,
+  "words": [
+   {
+    "w": " Great.",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " Now",
+    "s": 0.82,
+    "e": 1.04
+   },
+   {
+    "w": " I",
+    "s": 1.04,
+    "e": 1.18
+   },
+   {
+    "w": " want",
+    "s": 1.18,
+    "e": 1.36
+   },
+   {
+    "w": " to",
+    "s": 1.36,
+    "e": 1.54
+   },
+   {
+    "w": " raise.",
+    "s": 1.54,
+    "e": 1.78
+   }
+  ],
+  "heard": "Great. Now I want to raise.",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[gruff] Great. Now I want a raise.",
+  "voice": "w_crab"
+ },
+ "10": {
+  "wav": "vo/wav/3cb32c61f1c8_v2.wav",
+  "dur": 2.962229,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " arms",
+    "s": 0.3,
+    "e": 0.84
+   },
+   {
+    "w": " for",
+    "s": 0.84,
+    "e": 1.28
+   },
+   {
+    "w": " the",
+    "s": 1.28,
+    "e": 1.4
+   },
+   {
+    "w": " free",
+    "s": 1.4,
+    "e": 1.7
+   },
+   {
+    "w": " delegation",
+    "s": 1.7,
+    "e": 2.24
+   },
+   {
+    "w": " checklist.",
+    "s": 2.24,
+    "e": 2.62
+   }
+  ],
+  "heard": "Comment arms for the free delegation checklist.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment ARMS for the free delegation checklist.",
+  "voice": "mira_narrator"
+ }
+}

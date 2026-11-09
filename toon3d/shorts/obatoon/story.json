@@ -1,0 +1,114 @@
+{
+ "title": "Your AI Agent Needs a Face (Open Bot Avatar)",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Every AI agent in this town looks exactly the same.",
+   "text": "Every AI agent in this town looks exactly the same.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Ask the coding bot for help, and the email bot shows up.",
+   "text": "Ask the coding bot for help, and the email bot shows up.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So somebody gave them faces.",
+   "text": "So somebody gave them faces.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It's called Open Bot Avatar. Every face is one tiny JSON file: a single shape, plus where the eyes go.",
+   "text": "It's called Open Bot Avatar. Every face is one tiny Jason file, a single shape, plus where the eyes go.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The renderer does the rest. It adds depth, makes them blink, and their eyes follow you around.",
+   "text": "The renderer does the rest. It adds depth, makes them blink, and their eyes follow you around.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "They even have moods. Thinking, while your agent works... and happy, when it's done.",
+   "text": "They even have moods. Thinking while your agent works, and happy when it's done.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Twenty-two ready-made faces. Or describe one, and any AI will write it for you.",
+   "text": "Twenty-two ready-made faces. Or describe one, and any AI will write it for you.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It's free, open source and M.I.T. licensed. Search Open Bot Avatar on GitHub.",
+   "text": "It's free, open source and MIT licensed. Search Open Bot Avatar on GitHub.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Now if only the email bot would stop hitting reply-all.",
+   "text": "Now if only the email bot would stop hitting reply-all.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

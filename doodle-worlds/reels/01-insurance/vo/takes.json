@@ -1,0 +1,677 @@
+{
+ "0": {
+  "wav": "vo/wav/f97b5e16e28d_v2.wav",
+  "dur": 4.733,
+  "words": [
+   {
+    "w": " This",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " caveman",
+    "s": 0.34,
+    "e": 0.86
+   },
+   {
+    "w": " invented",
+    "s": 0.86,
+    "e": 1.26
+   },
+   {
+    "w": " something",
+    "s": 1.26,
+    "e": 1.54
+   },
+   {
+    "w": " you",
+    "s": 1.54,
+    "e": 1.78
+   },
+   {
+    "w": " pay",
+    "s": 1.78,
+    "e": 1.96
+   },
+   {
+    "w": " for",
+    "s": 1.96,
+    "e": 2.18
+   },
+   {
+    "w": " every",
+    "s": 2.18,
+    "e": 2.64
+   },
+   {
+    "w": " month",
+    "s": 2.64,
+    "e": 3.04
+   },
+   {
+    "w": " and",
+    "s": 3.04,
+    "e": 3.64
+   },
+   {
+    "w": " pray",
+    "s": 3.64,
+    "e": 3.9
+   },
+   {
+    "w": " you",
+    "s": 3.9,
+    "e": 4.08
+   },
+   {
+    "w": " never",
+    "s": 4.08,
+    "e": 4.28
+   },
+   {
+    "w": " use.",
+    "s": 4.28,
+    "e": 4.56
+   }
+  ],
+  "heard": "This caveman invented something you pay for every month and pray you never use.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] This caveman invented something you pay for every month... and pray you never use.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/ba3cbad44d78_v2.wav",
+  "dur": 2.467604,
+  "words": [
+   {
+    "w": " Thog's",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " hut",
+    "s": 0.38,
+    "e": 0.56
+   },
+   {
+    "w": " burned",
+    "s": 0.56,
+    "e": 0.86
+   },
+   {
+    "w": " down...",
+    "s": 0.86,
+    "e": 1.74
+   },
+   {
+    "w": " again.",
+    "s": 1.74,
+    "e": 2.22
+   }
+  ],
+  "heard": "Thog's hut burned down... again.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[deadpan] Thog's hut burned down. Again.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/647272375fc1_v2.wav",
+  "dur": 3.147688,
+  "words": [
+   {
+    "w": " Every",
+    "s": 0.0,
+    "e": 0.54
+   },
+   {
+    "w": " fire,",
+    "s": 0.54,
+    "e": 1.04
+   },
+   {
+    "w": " though",
+    "s": 1.38,
+    "e": 1.9
+   },
+   {
+    "w": " start",
+    "s": 1.9,
+    "e": 2.24
+   },
+   {
+    "w": " from",
+    "s": 2.24,
+    "e": 2.6
+   },
+   {
+    "w": " zero.",
+    "s": 2.6,
+    "e": 2.86
+   }
+  ],
+  "heard": "Every fire, though start from zero.",
+  "score": 0.8333333333333334,
+  "attempt": 2,
+  "tts": "[sad, gruff] Every fire... Thog start from zero.",
+  "voice": "w_thog"
+ },
+ "3": {
+  "wav": "vo/wav/cd19be3a11e6_v2.wav",
+  "dur": 3.843208,
+  "words": [
+   {
+    "w": " Everyone",
+    "s": 0.0,
+    "e": 0.46
+   },
+   {
+    "w": " put",
+    "s": 0.46,
+    "e": 0.86
+   },
+   {
+    "w": " one",
+    "s": 0.86,
+    "e": 1.22
+   },
+   {
+    "w": " fish",
+    "s": 1.22,
+    "e": 1.6
+   },
+   {
+    "w": " in",
+    "s": 1.6,
+    "e": 1.82
+   },
+   {
+    "w": " pot",
+    "s": 1.82,
+    "e": 2.12
+   },
+   {
+    "w": " every",
+    "s": 2.12,
+    "e": 3.12
+   },
+   {
+    "w": " moon",
+    "s": 3.12,
+    "e": 3.5
+   }
+  ],
+  "heard": "Everyone put one fish in pot every moon",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[excited, gruff] Everyone put one fish in pot. Every moon.",
+  "voice": "w_thog"
+ },
+ "4": {
+  "wav": "vo/wav/7e95d79ee224_v2.wav",
+  "dur": 1.235813,
+  "words": [
+   {
+    "w": " and",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " what",
+    "s": 0.16,
+    "e": 0.42
+   },
+   {
+    "w": " bonk",
+    "s": 0.42,
+    "e": 0.92
+   },
+   {
+    "w": " get.",
+    "s": 0.92,
+    "e": 1.1
+   }
+  ],
+  "heard": "and what bonk get.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[suspicious] And what Bonk get?",
+  "voice": "w_bonk"
+ },
+ "5": {
+  "wav": "vo/wav/4f0c5d387792_v2.wav",
+  "dur": 3.471917,
+  "words": [
+   {
+    "w": " If",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " your",
+    "s": 0.22,
+    "e": 0.62
+   },
+   {
+    "w": " hut",
+    "s": 0.62,
+    "e": 0.98
+   },
+   {
+    "w": " burned,",
+    "s": 0.98,
+    "e": 1.44
+   },
+   {
+    "w": " pot",
+    "s": 1.98,
+    "e": 2.32
+   },
+   {
+    "w": " build",
+    "s": 2.32,
+    "e": 2.6
+   },
+   {
+    "w": " new",
+    "s": 2.6,
+    "e": 2.92
+   },
+   {
+    "w": " hut.",
+    "s": 2.92,
+    "e": 3.22
+   }
+  ],
+  "heard": "If your hut burned, pot build new hut.",
+  "score": 0.875,
+  "attempt": 0,
+  "tts": "[proud] If YOUR hut burn... pot build new hut!",
+  "voice": "w_thog"
+ },
+ "6": {
+  "wav": "vo/wav/d022e355e688_v2.wav",
+  "dur": 2.901896,
+  "words": [
+   {
+    "w": " Fires",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " were",
+    "s": 0.42,
+    "e": 0.62
+   },
+   {
+    "w": " rare,",
+    "s": 0.62,
+    "e": 0.9
+   },
+   {
+    "w": " so",
+    "s": 1.26,
+    "e": 1.66
+   },
+   {
+    "w": " the",
+    "s": 1.66,
+    "e": 1.78
+   },
+   {
+    "w": " pot",
+    "s": 1.78,
+    "e": 2.04
+   },
+   {
+    "w": " kept",
+    "s": 2.04,
+    "e": 2.32
+   },
+   {
+    "w": " growing.",
+    "s": 2.32,
+    "e": 2.64
+   }
+  ],
+  "heard": "Fires were rare, so the pot kept growing.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[warm] Fires were rare... so the pot kept growing.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/f6cb78fe4798_v2.wav",
+  "dur": 3.155833,
+  "words": [
+   {
+    "w": " Then,",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " Bonk's",
+    "s": 1.02,
+    "e": 1.88
+   },
+   {
+    "w": " hut",
+    "s": 1.88,
+    "e": 2.1
+   },
+   {
+    "w": " caught",
+    "s": 2.1,
+    "e": 2.5
+   },
+   {
+    "w": " fire.",
+    "s": 2.5,
+    "e": 2.9
+   }
+  ],
+  "heard": "Then, Bonk's hut caught fire.",
+  "score": 1.0,
+  "attempt": 2,
+  "tts": "[tense] Then... Bonk's hut caught fire.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/99c5f5e7407f_v2.wav",
+  "dur": 1.654396,
+  "words": [
+   {
+    "w": " My",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " hut!",
+    "s": 0.5,
+    "e": 1.14
+   }
+  ],
+  "heard": "My hut!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[panicking] MY HUT!",
+  "voice": "w_bonk"
+ },
+ "9": {
+  "wav": "vo/wav/a071c31235ce_v2.wav",
+  "dur": 3.488167,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " pot",
+    "s": 0.22,
+    "e": 0.54
+   },
+   {
+    "w": " paid!",
+    "s": 0.54,
+    "e": 1.06
+   },
+   {
+    "w": " New",
+    "s": 1.5,
+    "e": 1.84
+   },
+   {
+    "w": " hut",
+    "s": 1.84,
+    "e": 2.16
+   },
+   {
+    "w": " in",
+    "s": 2.16,
+    "e": 2.42
+   },
+   {
+    "w": " one",
+    "s": 2.42,
+    "e": 2.72
+   },
+   {
+    "w": " day!",
+    "s": 2.72,
+    "e": 3.1
+   }
+  ],
+  "heard": "The pot paid! New hut in one day!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[triumphant] The pot paid. New hut in one day!",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/ff02dea3cd64_v2.wav",
+  "dur": 4.262021,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " insurance.",
+    "s": 0.24,
+    "e": 0.6
+   },
+   {
+    "w": " Many",
+    "s": 1.44,
+    "e": 1.72
+   },
+   {
+    "w": " people",
+    "s": 1.72,
+    "e": 2.0
+   },
+   {
+    "w": " pay",
+    "s": 2.0,
+    "e": 2.24
+   },
+   {
+    "w": " a",
+    "s": 2.24,
+    "e": 2.36
+   },
+   {
+    "w": " little,",
+    "s": 2.36,
+    "e": 2.58
+   },
+   {
+    "w": " so",
+    "s": 2.82,
+    "e": 3.0
+   },
+   {
+    "w": " nobody",
+    "s": 3.0,
+    "e": 3.36
+   },
+   {
+    "w": " loses",
+    "s": 3.36,
+    "e": 3.66
+   },
+   {
+    "w": " everything.",
+    "s": 3.66,
+    "e": 4.06
+   }
+  ],
+  "heard": "That's insurance. Many people pay a little, so nobody loses everything.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's insurance. Many people pay a little, so nobody loses everything.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/3eea30af938c_v2.wav",
+  "dur": 4.791333,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " week",
+    "s": 0.34,
+    "e": 0.72
+   },
+   {
+    "w": " later.",
+    "s": 0.72,
+    "e": 1.28
+   },
+   {
+    "w": " Bunks",
+    "s": 1.9,
+    "e": 2.34
+   },
+   {
+    "w": " hut",
+    "s": 2.34,
+    "e": 2.6
+   },
+   {
+    "w": " caught",
+    "s": 2.6,
+    "e": 3.12
+   },
+   {
+    "w": " fire",
+    "s": 3.12,
+    "e": 3.58
+   },
+   {
+    "w": " again.",
+    "s": 3.58,
+    "e": 4.52
+   }
+  ],
+  "heard": "One week later. Bunks hut caught fire again.",
+  "score": 0.875,
+  "attempt": 0,
+  "tts": "[slowly] One week later... Bonk's hut caught fire. Again.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/e9b21623c7d0_v2.wav",
+  "dur": 1.223875,
+  "words": [
+   {
+    "w": " Weird.",
+    "s": 0.0,
+    "e": 0.44
+   }
+  ],
+  "heard": "Weird.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[innocent, whistling] ...Weird.",
+  "voice": "w_bonk"
+ },
+ "13": {
+  "wav": "vo/wav/ace8ffb32f60_v2.wav",
+  "dur": 2.811396,
+  "words": [
+   {
+    "w": " And",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " that's",
+    "s": 0.18,
+    "e": 0.68
+   },
+   {
+    "w": " how",
+    "s": 0.68,
+    "e": 0.88
+   },
+   {
+    "w": " insurance",
+    "s": 0.88,
+    "e": 1.28
+   },
+   {
+    "w": " fraud",
+    "s": 1.28,
+    "e": 1.76
+   },
+   {
+    "w": " was",
+    "s": 1.76,
+    "e": 2.14
+   },
+   {
+    "w": " invented.",
+    "s": 2.14,
+    "e": 2.52
+   }
+  ],
+  "heard": "And that's how insurance fraud was invented.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry] And that's how insurance fraud was invented.",
+  "voice": "mira_narrator"
+ },
+ "14": {
+  "wav": "vo/wav/f58c18427810_v2.wav",
+  "dur": 1.980333,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " risk",
+    "s": 0.3,
+    "e": 0.74
+   },
+   {
+    "w": " for",
+    "s": 0.74,
+    "e": 1.02
+   },
+   {
+    "w": " the",
+    "s": 1.02,
+    "e": 1.16
+   },
+   {
+    "w": " free",
+    "s": 1.16,
+    "e": 1.38
+   },
+   {
+    "w": " cheat",
+    "s": 1.38,
+    "e": 1.66
+   },
+   {
+    "w": " sheet.",
+    "s": 1.66,
+    "e": 1.88
+   }
+  ],
+  "heard": "Comment risk for the free cheat sheet.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment RISK for the free cheat sheet.",
+  "voice": "mira_narrator"
+ }
+}

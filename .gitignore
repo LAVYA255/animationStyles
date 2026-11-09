@@ -1,0 +1,24 @@
+.env
+node_modules/
+out/
+_delivery/
+__pycache__/
+*.pyc
+# generated audio and renders (rebuilt from the recipes; ElevenLabs takes are cached locally by hash)
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.npz
+tools/voice/sfx_cache/
+tools/music/tracks/
+**/vo/raw/
+**/vo/wav/
+toon3d/public/bridge/kenney/*.glb
+# per-reel copies of the shared kit (re-installed by: python doodle-worlds/kit/tools/sync_all.py)
+doodle-worlds/reels/*/assets/lib/
+doodle-worlds/reels/*/assets/fonts/
+doodle-worlds/reels/*/assets/rig.js
+doodle-worlds/reels/*/assets/person.js
+doodle-worlds/reels/*/assets/kit.js
+doodle-worlds/reels/*/assets/engine.js

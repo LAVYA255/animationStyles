@@ -1,0 +1,755 @@
+{
+ "0": {
+  "wav": "vo/wav/bd93e4728e95_v2.wav",
+  "dur": 4.049813,
+  "words": [
+   {
+    "w": " Ask",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " ChatGPT",
+    "s": 0.18,
+    "e": 0.9
+   },
+   {
+    "w": " how",
+    "s": 0.9,
+    "e": 1.08
+   },
+   {
+    "w": " many",
+    "s": 1.08,
+    "e": 1.22
+   },
+   {
+    "w": " Rs",
+    "s": 1.22,
+    "e": 1.46
+   },
+   {
+    "w": " are",
+    "s": 1.46,
+    "e": 1.62
+   },
+   {
+    "w": " in",
+    "s": 1.62,
+    "e": 1.72
+   },
+   {
+    "w": " Strawberry,",
+    "s": 1.72,
+    "e": 2.04
+   },
+   {
+    "w": " and",
+    "s": 2.54,
+    "e": 2.7
+   },
+   {
+    "w": " for",
+    "s": 2.7,
+    "e": 2.84
+   },
+   {
+    "w": " ages",
+    "s": 2.84,
+    "e": 3.1
+   },
+   {
+    "w": " it's",
+    "s": 3.1,
+    "e": 3.42
+   },
+   {
+    "w": " said",
+    "s": 3.42,
+    "e": 3.58
+   },
+   {
+    "w": " two.",
+    "s": 3.58,
+    "e": 3.82
+   }
+  ],
+  "heard": "Ask ChatGPT how many Rs are in Strawberry, and for ages it's said two.",
+  "score": 0.8571428571428571,
+  "attempt": 1,
+  "tts": "Ask ChatGPT how many R's are in strawberry, and for ages it said two.",
+  "voice": "w_jett"
+ },
+ "1": {
+  "wav": "vo/wav/9f4054533a05_v2.wav",
+  "dur": 3.259125,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.1
+   },
+   {
+    "w": " can",
+    "s": 0.1,
+    "e": 0.22
+   },
+   {
+    "w": " write",
+    "s": 0.22,
+    "e": 0.38
+   },
+   {
+    "w": " you",
+    "s": 0.38,
+    "e": 0.52
+   },
+   {
+    "w": " a",
+    "s": 0.52,
+    "e": 0.62
+   },
+   {
+    "w": " poem,",
+    "s": 0.62,
+    "e": 0.84
+   },
+   {
+    "w": " but",
+    "s": 1.1,
+    "e": 1.18
+   },
+   {
+    "w": " it",
+    "s": 1.18,
+    "e": 1.3
+   },
+   {
+    "w": " can't",
+    "s": 1.3,
+    "e": 1.56
+   },
+   {
+    "w": " count",
+    "s": 1.56,
+    "e": 1.68
+   },
+   {
+    "w": " letters.",
+    "s": 1.68,
+    "e": 2.04
+   },
+   {
+    "w": " Here's",
+    "s": 2.52,
+    "e": 2.8
+   },
+   {
+    "w": " why.",
+    "s": 2.8,
+    "e": 3.02
+   }
+  ],
+  "heard": "You can write you a poem, but it can't count letters. Here's why.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "It can write you a poem, but it can't count letters? Here's why.",
+  "voice": "w_jett"
+ },
+ "2": {
+  "wav": "vo/wav/a15e41acc0af_v2.wav",
+  "dur": 5.985542,
+  "words": [
+   {
+    "w": " AI",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " never",
+    "s": 0.2,
+    "e": 0.62
+   },
+   {
+    "w": " sees",
+    "s": 0.62,
+    "e": 0.88
+   },
+   {
+    "w": " letters.",
+    "s": 0.88,
+    "e": 1.22
+   },
+   {
+    "w": " Before",
+    "s": 1.84,
+    "e": 2.0
+   },
+   {
+    "w": " it",
+    "s": 2.0,
+    "e": 2.18
+   },
+   {
+    "w": " reads",
+    "s": 2.18,
+    "e": 2.36
+   },
+   {
+    "w": " a",
+    "s": 2.36,
+    "e": 2.48
+   },
+   {
+    "w": " single",
+    "s": 2.48,
+    "e": 2.68
+   },
+   {
+    "w": " word,",
+    "s": 2.68,
+    "e": 3.0
+   },
+   {
+    "w": " your",
+    "s": 3.28,
+    "e": 3.4
+   },
+   {
+    "w": " sentence",
+    "s": 3.4,
+    "e": 3.68
+   },
+   {
+    "w": " gets",
+    "s": 3.68,
+    "e": 3.98
+   },
+   {
+    "w": " chopped",
+    "s": 3.98,
+    "e": 4.26
+   },
+   {
+    "w": " into",
+    "s": 4.26,
+    "e": 4.48
+   },
+   {
+    "w": " chunks",
+    "s": 4.48,
+    "e": 4.86
+   },
+   {
+    "w": " called",
+    "s": 4.86,
+    "e": 5.26
+   },
+   {
+    "w": " tokens.",
+    "s": 5.26,
+    "e": 5.6
+   }
+  ],
+  "heard": "AI never sees letters. Before it reads a single word, your sentence gets chopped into chunks called tokens.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "AI never sees letters. Before it reads a single word, your sentence gets chopped into chunks called tokens.",
+  "voice": "w_jett"
+ },
+ "3": {
+  "wav": "vo/wav/3ef3a06a330d_v2.wav",
+  "dur": 7.487354,
+  "words": [
+   {
+    "w": " Strawberry",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " becomes",
+    "s": 0.34,
+    "e": 0.7
+   },
+   {
+    "w": " something",
+    "s": 0.7,
+    "e": 0.98
+   },
+   {
+    "w": " like...",
+    "s": 0.98,
+    "e": 2.02
+   },
+   {
+    "w": " Stru",
+    "s": 2.02,
+    "e": 2.2
+   },
+   {
+    "w": "-",
+    "s": 2.2,
+    "e": 2.78
+   },
+   {
+    "w": " Awww!",
+    "s": 2.78,
+    "e": 3.54
+   },
+   {
+    "w": " Berry.",
+    "s": 3.76,
+    "e": 4.22
+   },
+   {
+    "w": " Three",
+    "s": 4.8,
+    "e": 5.06
+   },
+   {
+    "w": " chunks.",
+    "s": 5.06,
+    "e": 5.36
+   },
+   {
+    "w": " And",
+    "s": 5.76,
+    "e": 5.82
+   },
+   {
+    "w": " each",
+    "s": 5.82,
+    "e": 6.02
+   },
+   {
+    "w": " one",
+    "s": 6.02,
+    "e": 6.2
+   },
+   {
+    "w": " gets",
+    "s": 6.2,
+    "e": 6.4
+   },
+   {
+    "w": " swapped",
+    "s": 6.4,
+    "e": 6.68
+   },
+   {
+    "w": " for",
+    "s": 6.68,
+    "e": 6.92
+   },
+   {
+    "w": " a",
+    "s": 6.92,
+    "e": 7.02
+   },
+   {
+    "w": " number.",
+    "s": 7.02,
+    "e": 7.26
+   }
+  ],
+  "heard": "Strawberry becomes something like... Stru- Awww! Berry. Three chunks. And each one gets swapped for a number.",
+  "score": 0.8823529411764706,
+  "attempt": 0,
+  "tts": "Strawberry becomes something like... strr... aww... berry. Three chunks, and each one gets swapped for a number.",
+  "voice": "w_jett"
+ },
+ "4": {
+  "wav": "vo/wav/d5728086462a_v2.wav",
+  "dur": 8.182563,
+  "words": [
+   {
+    "w": " You",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " see?",
+    "s": 0.14,
+    "e": 0.32
+   },
+   {
+    "w": " It's",
+    "s": 0.94,
+    "e": 1.14
+   },
+   {
+    "w": " like",
+    "s": 1.14,
+    "e": 1.26
+   },
+   {
+    "w": " ordering",
+    "s": 1.26,
+    "e": 1.58
+   },
+   {
+    "w": " from",
+    "s": 1.58,
+    "e": 1.82
+   },
+   {
+    "w": " a",
+    "s": 1.82,
+    "e": 1.9
+   },
+   {
+    "w": " menu",
+    "s": 1.9,
+    "e": 2.18
+   },
+   {
+    "w": " where",
+    "s": 2.18,
+    "e": 2.46
+   },
+   {
+    "w": " every",
+    "s": 2.46,
+    "e": 2.74
+   },
+   {
+    "w": " dish",
+    "s": 2.74,
+    "e": 3.08
+   },
+   {
+    "w": " is",
+    "s": 3.08,
+    "e": 3.24
+   },
+   {
+    "w": " a",
+    "s": 3.24,
+    "e": 3.32
+   },
+   {
+    "w": " number.",
+    "s": 3.32,
+    "e": 3.58
+   },
+   {
+    "w": " You",
+    "s": 4.28,
+    "e": 4.44
+   },
+   {
+    "w": " know",
+    "s": 4.44,
+    "e": 4.54
+   },
+   {
+    "w": " number",
+    "s": 4.54,
+    "e": 4.76
+   },
+   {
+    "w": " 7",
+    "s": 4.76,
+    "e": 5.08
+   },
+   {
+    "w": " is",
+    "s": 5.08,
+    "e": 5.26
+   },
+   {
+    "w": " pizza,",
+    "s": 5.26,
+    "e": 5.5
+   },
+   {
+    "w": " but",
+    "s": 5.88,
+    "e": 6.0
+   },
+   {
+    "w": " you",
+    "s": 6.0,
+    "e": 6.1
+   },
+   {
+    "w": " couldn't",
+    "s": 6.1,
+    "e": 6.44
+   },
+   {
+    "w": " tell",
+    "s": 6.44,
+    "e": 6.58
+   },
+   {
+    "w": " me",
+    "s": 6.58,
+    "e": 6.74
+   },
+   {
+    "w": " how",
+    "s": 6.74,
+    "e": 6.92
+   },
+   {
+    "w": " many",
+    "s": 6.92,
+    "e": 7.04
+   },
+   {
+    "w": " olives",
+    "s": 7.04,
+    "e": 7.34
+   },
+   {
+    "w": " are",
+    "s": 7.34,
+    "e": 7.54
+   },
+   {
+    "w": " on",
+    "s": 7.54,
+    "e": 7.74
+   },
+   {
+    "w": " it.",
+    "s": 7.74,
+    "e": 7.86
+   }
+  ],
+  "heard": "You see? It's like ordering from a menu where every dish is a number. You know number 7 is pizza, but you couldn't tell me how many olives are on it.",
+  "score": 0.967741935483871,
+  "attempt": 0,
+  "tts": "You see, it's like ordering from a menu where every dish is a number. You know number seven is pizza, but you couldn't tell me how many olives are on it.",
+  "voice": "w_jett"
+ },
+ "5": {
+  "wav": "vo/wav/ba01af614c6b_v2.wav",
+  "dur": 3.628104,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " when",
+    "s": 0.16,
+    "e": 0.3
+   },
+   {
+    "w": " you",
+    "s": 0.3,
+    "e": 0.44
+   },
+   {
+    "w": " ask",
+    "s": 0.44,
+    "e": 0.62
+   },
+   {
+    "w": " about",
+    "s": 0.62,
+    "e": 0.82
+   },
+   {
+    "w": " letters,",
+    "s": 0.82,
+    "e": 1.14
+   },
+   {
+    "w": " it",
+    "s": 1.44,
+    "e": 1.54
+   },
+   {
+    "w": " isn't",
+    "s": 1.54,
+    "e": 1.8
+   },
+   {
+    "w": " counting.",
+    "s": 1.8,
+    "e": 2.02
+   },
+   {
+    "w": " It's",
+    "s": 2.4,
+    "e": 2.52
+   },
+   {
+    "w": " guessing",
+    "s": 2.52,
+    "e": 2.84
+   },
+   {
+    "w": " from",
+    "s": 2.84,
+    "e": 3.08
+   },
+   {
+    "w": " memory.",
+    "s": 3.08,
+    "e": 3.32
+   }
+  ],
+  "heard": "So when you ask about letters, it isn't counting. It's guessing from memory.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So when you ask about letters, it isn't counting. It's guessing from memory.",
+  "voice": "w_jett"
+ },
+ "6": {
+  "wav": "vo/wav/f20291fea813_v2.wav",
+  "dur": 4.458292,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " why",
+    "s": 0.3,
+    "e": 0.46
+   },
+   {
+    "w": " newer",
+    "s": 0.46,
+    "e": 0.66
+   },
+   {
+    "w": " models",
+    "s": 0.66,
+    "e": 1.0
+   },
+   {
+    "w": " spell",
+    "s": 1.0,
+    "e": 1.28
+   },
+   {
+    "w": " the",
+    "s": 1.28,
+    "e": 1.42
+   },
+   {
+    "w": " word",
+    "s": 1.42,
+    "e": 1.6
+   },
+   {
+    "w": " out",
+    "s": 1.6,
+    "e": 1.76
+   },
+   {
+    "w": " first,",
+    "s": 1.76,
+    "e": 2.02
+   },
+   {
+    "w": " letter",
+    "s": 2.5,
+    "e": 2.7
+   },
+   {
+    "w": " by",
+    "s": 2.7,
+    "e": 2.92
+   },
+   {
+    "w": " letter,",
+    "s": 2.92,
+    "e": 3.18
+   },
+   {
+    "w": " and",
+    "s": 3.5,
+    "e": 3.6
+   },
+   {
+    "w": " then",
+    "s": 3.6,
+    "e": 3.72
+   },
+   {
+    "w": " count.",
+    "s": 3.72,
+    "e": 3.98
+   }
+  ],
+  "heard": "That's why newer models spell the word out first, letter by letter, and then count.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's why newer models spell the word out first, letter by letter, and then count.",
+  "voice": "w_jett"
+ },
+ "7": {
+  "wav": "vo/wav/587e9b22a0bf_v2.wav",
+  "dur": 3.390167,
+  "words": [
+   {
+    "w": " the",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " smartest",
+    "s": 0.14,
+    "e": 0.44
+   },
+   {
+    "w": " machine",
+    "s": 0.44,
+    "e": 0.88
+   },
+   {
+    "w": " on",
+    "s": 0.88,
+    "e": 1.02
+   },
+   {
+    "w": " the",
+    "s": 1.02,
+    "e": 1.14
+   },
+   {
+    "w": " planet,",
+    "s": 1.14,
+    "e": 1.48
+   },
+   {
+    "w": " beaten",
+    "s": 1.76,
+    "e": 1.98
+   },
+   {
+    "w": " by",
+    "s": 1.98,
+    "e": 2.24
+   },
+   {
+    "w": " a",
+    "s": 2.24,
+    "e": 2.36
+   },
+   {
+    "w": " damn",
+    "s": 2.36,
+    "e": 2.56
+   },
+   {
+    "w": " fruit.",
+    "s": 2.56,
+    "e": 2.86
+   }
+  ],
+  "heard": "the smartest machine on the planet, beaten by a damn fruit.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "The smartest machine on the planet, beaten by a damn fruit.",
+  "voice": "w_jett"
+ }
+}

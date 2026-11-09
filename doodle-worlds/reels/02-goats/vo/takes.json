@@ -1,0 +1,742 @@
+{
+ "0": {
+  "wav": "vo/wav/3401ae4c7463_v2.wav",
+  "dur": 2.906125,
+  "words": [
+   {
+    "w": " Interest",
+    "s": 0.0,
+    "e": 0.58
+   },
+   {
+    "w": " was",
+    "s": 0.58,
+    "e": 0.72
+   },
+   {
+    "w": " invented",
+    "s": 0.72,
+    "e": 1.26
+   },
+   {
+    "w": " by",
+    "s": 1.26,
+    "e": 2.18
+   },
+   {
+    "w": " goats.",
+    "s": 2.18,
+    "e": 2.48
+   }
+  ],
+  "heard": "Interest was invented by goats.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] Interest was invented... by goats.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/8db16b0299a5_v2.wav",
+  "dur": 4.370625,
+  "words": [
+   {
+    "w": " Ten",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " thousand",
+    "s": 0.18,
+    "e": 0.58
+   },
+   {
+    "w": " years",
+    "s": 0.58,
+    "e": 0.9
+   },
+   {
+    "w": " ago,",
+    "s": 0.9,
+    "e": 1.28
+   },
+   {
+    "w": " Brock",
+    "s": 1.64,
+    "e": 1.98
+   },
+   {
+    "w": " needed",
+    "s": 1.98,
+    "e": 2.32
+   },
+   {
+    "w": " goats.",
+    "s": 2.32,
+    "e": 2.76
+   },
+   {
+    "w": " Kira",
+    "s": 3.3,
+    "e": 3.78
+   },
+   {
+    "w": " had",
+    "s": 3.78,
+    "e": 3.96
+   },
+   {
+    "w": " ten.",
+    "s": 3.96,
+    "e": 4.2
+   }
+  ],
+  "heard": "Ten thousand years ago, Brock needed goats. Kira had ten.",
+  "score": 0.9,
+  "attempt": 0,
+  "tts": "Ten thousand years ago, Brok needed goats. Kira had ten.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/b04dd176a3e4_v2.wav",
+  "dur": 3.880292,
+  "words": [
+   {
+    "w": " Lend",
+    "s": 0.0,
+    "e": 0.42
+   },
+   {
+    "w": " me",
+    "s": 0.42,
+    "e": 0.62
+   },
+   {
+    "w": " your",
+    "s": 0.62,
+    "e": 0.82
+   },
+   {
+    "w": " goats.",
+    "s": 0.82,
+    "e": 1.2
+   },
+   {
+    "w": " I'll",
+    "s": 1.8,
+    "e": 2.16
+   },
+   {
+    "w": " give",
+    "s": 2.16,
+    "e": 2.36
+   },
+   {
+    "w": " them",
+    "s": 2.36,
+    "e": 2.48
+   },
+   {
+    "w": " back",
+    "s": 2.48,
+    "e": 2.76
+   },
+   {
+    "w": " after",
+    "s": 2.76,
+    "e": 3.1
+   },
+   {
+    "w": " winter.",
+    "s": 3.1,
+    "e": 3.42
+   }
+  ],
+  "heard": "Lend me your goats. I'll give them back after winter.",
+  "score": 0.9,
+  "attempt": 1,
+  "tts": "[pleading] Lend me your goats? I'll give 'em back after winter!",
+  "voice": "w_brok"
+ },
+ "3": {
+  "wav": "vo/wav/00aa2ebace6b_v2.wav",
+  "dur": 3.200042,
+  "words": [
+   {
+    "w": " Spring",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " came.",
+    "s": 0.3,
+    "e": 0.68
+   },
+   {
+    "w": " Brock",
+    "s": 1.26,
+    "e": 1.66
+   },
+   {
+    "w": " brought",
+    "s": 1.66,
+    "e": 1.96
+   },
+   {
+    "w": " back",
+    "s": 1.96,
+    "e": 2.26
+   },
+   {
+    "w": " ten",
+    "s": 2.26,
+    "e": 2.58
+   },
+   {
+    "w": " goats.",
+    "s": 2.58,
+    "e": 2.9
+   }
+  ],
+  "heard": "Spring came. Brock brought back ten goats.",
+  "score": 0.8571428571428571,
+  "attempt": 0,
+  "tts": "Spring came. Brok brought back ten goats...",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/a0b417a32cb7_v2.wav",
+  "dur": 1.713396,
+  "words": [
+   {
+    "w": " and",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " 14",
+    "s": 0.18,
+    "e": 0.74
+   },
+   {
+    "w": " babies.",
+    "s": 0.74,
+    "e": 1.28
+   }
+  ],
+  "heard": "and 14 babies.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[amused] ...and fourteen babies.",
+  "voice": "mira_narrator"
+ },
+ "5": {
+  "wav": "vo/wav/d3bf082c71a4_v2.wav",
+  "dur": 2.360729,
+  "words": [
+   {
+    "w": " Whose",
+    "s": 0.0,
+    "e": 0.38
+   },
+   {
+    "w": " damn",
+    "s": 0.38,
+    "e": 0.86
+   },
+   {
+    "w": " babies",
+    "s": 0.86,
+    "e": 1.36
+   },
+   {
+    "w": " are",
+    "s": 1.36,
+    "e": 1.74
+   },
+   {
+    "w": " those?",
+    "s": 1.74,
+    "e": 2.02
+   }
+  ],
+  "heard": "Whose damn babies are those?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[suspicious, dry] Whose damn babies are those?",
+  "voice": "w_kira"
+ },
+ "6": {
+  "wav": "vo/wav/149cc34a870e_v2.wav",
+  "dur": 2.274813,
+  "words": [
+   {
+    "w": " Your",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " goats",
+    "s": 0.3,
+    "e": 0.72
+   },
+   {
+    "w": " did",
+    "s": 0.72,
+    "e": 1.12
+   },
+   {
+    "w": " it,",
+    "s": 1.12,
+    "e": 1.26
+   },
+   {
+    "w": " not",
+    "s": 1.5,
+    "e": 1.68
+   },
+   {
+    "w": " me!",
+    "s": 1.68,
+    "e": 1.98
+   }
+  ],
+  "heard": "Your goats did it, not me!",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[defensive] Your goats did it! Not me!",
+  "voice": "w_brok"
+ },
+ "7": {
+  "wav": "vo/wav/adac99a72122_v2.wav",
+  "dur": 3.4065,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " Kira",
+    "s": 0.2,
+    "e": 0.48
+   },
+   {
+    "w": " kept",
+    "s": 0.48,
+    "e": 0.68
+   },
+   {
+    "w": " the",
+    "s": 0.68,
+    "e": 0.82
+   },
+   {
+    "w": " babies.",
+    "s": 0.82,
+    "e": 1.06
+   },
+   {
+    "w": " That's",
+    "s": 1.8,
+    "e": 2.26
+   },
+   {
+    "w": " how",
+    "s": 2.26,
+    "e": 2.38
+   },
+   {
+    "w": " interest",
+    "s": 2.38,
+    "e": 2.68
+   },
+   {
+    "w": " was",
+    "s": 2.68,
+    "e": 2.96
+   },
+   {
+    "w": " born.",
+    "s": 2.96,
+    "e": 3.22
+   }
+  ],
+  "heard": "So Kira kept the babies. That's how interest was born.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "So Kira kept the babies. That's how interest was born.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/2fab5d8589c7_v2.wav",
+  "dur": 4.50875,
+  "words": [
+   {
+    "w": " In",
+    "s": 0.0,
+    "e": 0.14
+   },
+   {
+    "w": " ancient",
+    "s": 0.14,
+    "e": 0.44
+   },
+   {
+    "w": " Sumer,",
+    "s": 0.44,
+    "e": 1.0
+   },
+   {
+    "w": " the",
+    "s": 1.32,
+    "e": 1.4
+   },
+   {
+    "w": " word",
+    "s": 1.4,
+    "e": 1.64
+   },
+   {
+    "w": " for",
+    "s": 1.64,
+    "e": 1.82
+   },
+   {
+    "w": " interest",
+    "s": 1.82,
+    "e": 2.14
+   },
+   {
+    "w": " literally",
+    "s": 2.14,
+    "e": 2.6
+   },
+   {
+    "w": " meant",
+    "s": 2.6,
+    "e": 3.08
+   },
+   {
+    "w": " baby",
+    "s": 3.08,
+    "e": 3.96
+   },
+   {
+    "w": " goat.",
+    "s": 3.96,
+    "e": 4.26
+   }
+  ],
+  "heard": "In ancient Sumer, the word for interest literally meant baby goat.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "In ancient Sumer, the word for interest literally meant... baby goat.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/f24b87ba3ae1_v2.wav",
+  "dur": 1.511479,
+  "words": [
+   {
+    "w": " Then",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " the",
+    "s": 0.22,
+    "e": 0.38
+   },
+   {
+    "w": " babies",
+    "s": 0.38,
+    "e": 0.68
+   },
+   {
+    "w": " had",
+    "s": 0.68,
+    "e": 0.92
+   },
+   {
+    "w": " babies.",
+    "s": 0.92,
+    "e": 1.18
+   }
+  ],
+  "heard": "Then the babies had babies.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building] Then the babies had babies.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/e811144b3682_v2.wav",
+  "dur": 3.955104,
+  "words": [
+   {
+    "w": " 10",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " goats",
+    "s": 0.22,
+    "e": 0.44
+   },
+   {
+    "w": " became",
+    "s": 0.44,
+    "e": 0.74
+   },
+   {
+    "w": " 24,",
+    "s": 0.74,
+    "e": 1.28
+   },
+   {
+    "w": " then",
+    "s": 1.66,
+    "e": 1.78
+   },
+   {
+    "w": " 58,",
+    "s": 1.78,
+    "e": 2.24
+   },
+   {
+    "w": " then",
+    "s": 2.76,
+    "e": 2.88
+   },
+   {
+    "w": " 140.",
+    "s": 2.88,
+    "e": 3.42
+   }
+  ],
+  "heard": "10 goats became 24, then 58, then 140.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[building, faster] Ten goats became twenty-four. Then fifty-eight. Then a hundred and forty.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/c7720a92d28f_v2.wav",
+  "dur": 4.614396,
+  "words": [
+   {
+    "w": " That's",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " compound",
+    "s": 0.34,
+    "e": 0.6
+   },
+   {
+    "w": " interest.",
+    "s": 0.6,
+    "e": 1.1
+   },
+   {
+    "w": " Your",
+    "s": 1.64,
+    "e": 1.78
+   },
+   {
+    "w": " money",
+    "s": 1.78,
+    "e": 2.0
+   },
+   {
+    "w": " has",
+    "s": 2.0,
+    "e": 2.2
+   },
+   {
+    "w": " babies,",
+    "s": 2.2,
+    "e": 2.5
+   },
+   {
+    "w": " and",
+    "s": 3.18,
+    "e": 3.44
+   },
+   {
+    "w": " the",
+    "s": 3.44,
+    "e": 3.58
+   },
+   {
+    "w": " babies",
+    "s": 3.58,
+    "e": 3.82
+   },
+   {
+    "w": " have",
+    "s": 3.82,
+    "e": 4.04
+   },
+   {
+    "w": " babies.",
+    "s": 4.04,
+    "e": 4.3
+   }
+  ],
+  "heard": "That's compound interest. Your money has babies, and the babies have babies.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "That's compound interest. Your money has babies... and the babies have babies.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/7d4905f0cee1_v2.wav",
+  "dur": 2.815688,
+  "words": [
+   {
+    "w": " Kira,",
+    "s": 0.0,
+    "e": 0.5
+   },
+   {
+    "w": " can",
+    "s": 1.04,
+    "e": 1.36
+   },
+   {
+    "w": " I",
+    "s": 1.36,
+    "e": 1.54
+   },
+   {
+    "w": " borrow",
+    "s": 1.54,
+    "e": 1.86
+   },
+   {
+    "w": " ten",
+    "s": 1.86,
+    "e": 2.26
+   },
+   {
+    "w": " more?",
+    "s": 2.26,
+    "e": 2.6
+   }
+  ],
+  "heard": "Kira, can I borrow ten more?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[sheepish] Kira... can I borrow ten more?",
+  "voice": "w_brok"
+ },
+ "13": {
+  "wav": "vo/wav/f5f865faf36f_v2.wav",
+  "dur": 3.828833,
+  "words": [
+   {
+    "w": " Sure.",
+    "s": 0.0,
+    "e": 0.32
+   },
+   {
+    "w": " Two",
+    "s": 0.76,
+    "e": 1.04
+   },
+   {
+    "w": " babies",
+    "s": 1.04,
+    "e": 1.32
+   },
+   {
+    "w": " per",
+    "s": 1.32,
+    "e": 1.66
+   },
+   {
+    "w": " goat.",
+    "s": 1.66,
+    "e": 1.96
+   },
+   {
+    "w": " Sign",
+    "s": 2.44,
+    "e": 2.94
+   },
+   {
+    "w": " the",
+    "s": 2.94,
+    "e": 3.12
+   },
+   {
+    "w": " damn",
+    "s": 3.12,
+    "e": 3.36
+   },
+   {
+    "w": " rock.",
+    "s": 3.36,
+    "e": 3.62
+   }
+  ],
+  "heard": "Sure. Two babies per goat. Sign the damn rock.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[dry, deadpan] Sure. Two babies per goat. Sign the damn rock.",
+  "voice": "w_kira"
+ },
+ "14": {
+  "wav": "vo/wav/cb7643930497_v2.wav",
+  "dur": 3.029625,
+  "words": [
+   {
+    "w": " Comment,",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " grow",
+    "s": 0.5,
+    "e": 0.72
+   },
+   {
+    "w": " for",
+    "s": 0.72,
+    "e": 1.12
+   },
+   {
+    "w": " the",
+    "s": 1.12,
+    "e": 1.24
+   },
+   {
+    "w": " free",
+    "s": 1.24,
+    "e": 1.5
+   },
+   {
+    "w": " compound",
+    "s": 1.5,
+    "e": 1.84
+   },
+   {
+    "w": " interest",
+    "s": 1.84,
+    "e": 2.2
+   },
+   {
+    "w": " calculator.",
+    "s": 2.2,
+    "e": 2.66
+   }
+  ],
+  "heard": "Comment, grow for the free compound interest calculator.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Comment GROW for the free compound interest calculator.",
+  "voice": "mira_narrator"
+ }
+}

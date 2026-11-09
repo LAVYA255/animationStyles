@@ -1,0 +1,102 @@
+{
+ "title": "Why AI Can't Count the R's in Strawberry",
+ "format": "TOON3D",
+ "lines": [
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Ask ChatGPT how many R's are in strawberry, and for ages it said two.",
+   "text": "Ask ChatGPT how many R's are in strawberry, and for ages it said two.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "It can write you a poem, but it can't count letters? Here's why.",
+   "text": "It can write you a poem, but it can't count letters? Here's why.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "AI never sees letters. Before it reads a single word, your sentence gets chopped into chunks called tokens.",
+   "text": "AI never sees letters. Before it reads a single word, your sentence gets chopped into chunks called tokens.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "Strawberry becomes something like... strr... aww... berry. Three chunks, and each one gets swapped for a number.",
+   "text": "Strawberry becomes something like str, aw, berry. Three chunks, and each one gets swapped for a number.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "You see, it's like ordering from a menu where every dish is a number. You know number seven is pizza, but you couldn't tell me how many olives are on it.",
+   "text": "You see, it's like ordering from a menu where every dish is a number. You know number seven is pizza, but you couldn't tell me how many olives are on it.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "So when you ask about letters, it isn't counting. It's guessing from memory.",
+   "text": "So when you ask about letters, it isn't counting. It's guessing from memory.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "That's why newer models spell the word out first, letter by letter, and then count.",
+   "text": "That's why newer models spell the word out first, letter by letter, and then count.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  },
+  {
+   "voice": "w_jett",
+   "who": "N",
+   "tts": "The smartest machine on the planet, beaten by a damn fruit.",
+   "text": "The smartest machine on the planet, beaten by a damn fruit.",
+   "gap": 0.12,
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "speed": 1.1,
+    "similarity_boost": 0.8
+   }
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "toon3d-shorts",
+  "private": true,
+  "description": "Cartoon 3D story shorts (2D ink characters in a painted three.js world, rendered in Remotion). Ported from mromidev/claude-animated-shorts (MIT).",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "tsc": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.3.0",
+    "@react-three/postprocessing": "3.0.4",
+    "@remotion/bundler": "4.0.500",
+    "@remotion/cli": "4.0.500",
+    "@remotion/renderer": "4.0.500",
+    "@remotion/three": "4.0.500",
+    "postprocessing": "6.37.6",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.500",
+    "three": "0.178.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.10",
+    "@types/three": "0.178.1",
+    "typescript": "5.9.2"
+  }
+}

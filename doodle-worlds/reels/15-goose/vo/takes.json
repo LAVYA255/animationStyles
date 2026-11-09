@@ -1,0 +1,691 @@
+{
+ "0": {
+  "wav": "vo/wav/7cb88b615d10_v2.wav",
+  "dur": 4.944521,
+  "words": [
+   {
+    "w": " This",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " goose",
+    "s": 0.22,
+    "e": 0.44
+   },
+   {
+    "w": " laid",
+    "s": 0.44,
+    "e": 0.76
+   },
+   {
+    "w": " one",
+    "s": 0.76,
+    "e": 1.14
+   },
+   {
+    "w": " golden",
+    "s": 1.14,
+    "e": 1.44
+   },
+   {
+    "w": " egg",
+    "s": 1.44,
+    "e": 1.76
+   },
+   {
+    "w": " a",
+    "s": 1.76,
+    "e": 1.82
+   },
+   {
+    "w": " day.",
+    "s": 1.82,
+    "e": 2.1
+   },
+   {
+    "w": " The",
+    "s": 2.68,
+    "e": 2.8
+   },
+   {
+    "w": " farmer",
+    "s": 2.8,
+    "e": 3.14
+   },
+   {
+    "w": " still",
+    "s": 3.14,
+    "e": 3.58
+   },
+   {
+    "w": " wasn't",
+    "s": 3.58,
+    "e": 3.98
+   },
+   {
+    "w": " happy.",
+    "s": 3.98,
+    "e": 4.3
+   }
+  ],
+  "heard": "This goose laid one golden egg a day. The farmer still wasn't happy.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[intrigued] This goose laid one golden egg a day. The farmer still wasn't happy.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/957e4a8ef118_v2.wav",
+  "dur": 3.317688,
+  "words": [
+   {
+    "w": " One",
+    "s": 0.0,
+    "e": 0.46
+   },
+   {
+    "w": " egg?",
+    "s": 0.46,
+    "e": 1.08
+   },
+   {
+    "w": " We're",
+    "s": 1.7,
+    "e": 2.18
+   },
+   {
+    "w": " scalin',",
+    "s": 2.18,
+    "e": 2.96
+   },
+   {
+    "w": " baby!",
+    "s": 2.96,
+    "e": 3.1
+   }
+  ],
+  "heard": "One egg? We're scalin', baby!",
+  "score": 0.8,
+  "attempt": 2,
+  "tts": "[hyped, loud] One egg? We're scaling, baby!",
+  "voice": "w_tod"
+ },
+ "2": {
+  "wav": "vo/wav/f09877896d6c_v2.wav",
+  "dur": 4.838375,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " Todd",
+    "s": 0.18,
+    "e": 0.44
+   },
+   {
+    "w": " added",
+    "s": 0.44,
+    "e": 0.76
+   },
+   {
+    "w": " night",
+    "s": 0.76,
+    "e": 0.96
+   },
+   {
+    "w": " shifts,",
+    "s": 0.96,
+    "e": 1.3
+   },
+   {
+    "w": " weekend",
+    "s": 1.92,
+    "e": 2.32
+   },
+   {
+    "w": " shifts,",
+    "s": 2.32,
+    "e": 2.72
+   },
+   {
+    "w": " motivational",
+    "s": 3.38,
+    "e": 3.98
+   },
+   {
+    "w": " posters.",
+    "s": 3.98,
+    "e": 4.38
+   }
+  ],
+  "heard": "So Todd added night shifts, weekend shifts, motivational posters.",
+  "score": 0.8888888888888888,
+  "attempt": 1,
+  "tts": "So Tod added night shifts. Weekend shifts. Motivational posters.",
+  "voice": "mira_narrator"
+ },
+ "3": {
+  "wav": "vo/wav/2241ca78a9b6_v2.wav",
+  "dur": 3.529854,
+  "words": [
+   {
+    "w": " Rise",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " and",
+    "s": 0.24,
+    "e": 0.46
+   },
+   {
+    "w": " grind,",
+    "s": 0.46,
+    "e": 0.8
+   },
+   {
+    "w": " Goldie.",
+    "s": 0.92,
+    "e": 1.44
+   },
+   {
+    "w": " Eggs",
+    "s": 1.78,
+    "e": 2.04
+   },
+   {
+    "w": " don't",
+    "s": 2.04,
+    "e": 2.42
+   },
+   {
+    "w": " lay",
+    "s": 2.42,
+    "e": 2.56
+   },
+   {
+    "w": " themselves.",
+    "s": 2.56,
+    "e": 2.98
+   }
+  ],
+  "heard": "Rise and grind, Goldie. Eggs don't lay themselves.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[hyped] Rise and grind, Goldie! Eggs don't lay themselves!",
+  "voice": "w_tod"
+ },
+ "4": {
+  "wav": "vo/wav/42c6a8a17519_v2.wav",
+  "dur": 3.771417,
+  "words": [
+   {
+    "w": " They",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " literally",
+    "s": 0.16,
+    "e": 0.62
+   },
+   {
+    "w": " do.",
+    "s": 0.62,
+    "e": 1.1
+   },
+   {
+    "w": " That's",
+    "s": 1.78,
+    "e": 2.4
+   },
+   {
+    "w": " the",
+    "s": 2.4,
+    "e": 2.58
+   },
+   {
+    "w": " whole",
+    "s": 2.58,
+    "e": 2.86
+   },
+   {
+    "w": " point.",
+    "s": 2.86,
+    "e": 3.22
+   }
+  ],
+  "heard": "They literally do. That's the whole point.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[exhausted, dry] ...They literally do. That's the whole point.",
+  "voice": "w_goldie"
+ },
+ "5": {
+  "wav": "vo/wav/278efbbbaa7f_v2.wav",
+  "dur": 3.7955,
+  "words": [
+   {
+    "w": " Week",
+    "s": 0.0,
+    "e": 0.24
+   },
+   {
+    "w": " 1.",
+    "s": 0.24,
+    "e": 0.56
+   },
+   {
+    "w": " Two",
+    "s": 1.04,
+    "e": 1.24
+   },
+   {
+    "w": " eggs.",
+    "s": 1.24,
+    "e": 1.58
+   },
+   {
+    "w": " Week",
+    "s": 2.28,
+    "e": 2.56
+   },
+   {
+    "w": " 2.",
+    "s": 2.56,
+    "e": 2.84
+   },
+   {
+    "w": " One.",
+    "s": 3.3,
+    "e": 3.58
+   }
+  ],
+  "heard": "Week 1. Two eggs. Week 2. One.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[brisk] Week one: two eggs. Week two: one.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/1c76381ec0cb_v2.wav",
+  "dur": 4.578625,
+  "words": [
+   {
+    "w": " Week",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " 3,",
+    "s": 0.3,
+    "e": 0.8
+   },
+   {
+    "w": " a",
+    "s": 1.52,
+    "e": 1.68
+   },
+   {
+    "w": " tiny,",
+    "s": 1.68,
+    "e": 2.2
+   },
+   {
+    "w": " sad,",
+    "s": 2.58,
+    "e": 3.22
+   },
+   {
+    "w": " bronze",
+    "s": 3.44,
+    "e": 3.96
+   },
+   {
+    "w": " egg.",
+    "s": 3.96,
+    "e": 4.36
+   }
+  ],
+  "heard": "Week 3, a tiny, sad, bronze egg.",
+  "score": 0.8571428571428571,
+  "attempt": 0,
+  "tts": "[slow, sad] Week three... a tiny, sad, bronze egg.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/172f1414b0a7_v2.wav",
+  "dur": 3.120042,
+  "words": [
+   {
+    "w": " I'm",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " a",
+    "s": 0.4,
+    "e": 0.48
+   },
+   {
+    "w": " goose,",
+    "s": 0.48,
+    "e": 0.84
+   },
+   {
+    "w": " not",
+    "s": 1.54,
+    "e": 1.72
+   },
+   {
+    "w": " a",
+    "s": 1.72,
+    "e": 1.86
+   },
+   {
+    "w": " damn",
+    "s": 1.86,
+    "e": 2.26
+   },
+   {
+    "w": " factory.",
+    "s": 2.26,
+    "e": 2.8
+   }
+  ],
+  "heard": "I'm a goose, not a damn factory.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[flat, fed up] I'm a goose. Not a damn factory.",
+  "voice": "w_goldie"
+ },
+ "8": {
+  "wav": "vo/wav/8aa9a15ada94_v2.wav",
+  "dur": 3.58325,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " Todd",
+    "s": 0.2,
+    "e": 0.46
+   },
+   {
+    "w": " tried",
+    "s": 0.46,
+    "e": 0.78
+   },
+   {
+    "w": " something",
+    "s": 0.78,
+    "e": 1.12
+   },
+   {
+    "w": " insane.",
+    "s": 1.12,
+    "e": 1.76
+   },
+   {
+    "w": " He",
+    "s": 2.52,
+    "e": 2.72
+   },
+   {
+    "w": " let",
+    "s": 2.72,
+    "e": 2.9
+   },
+   {
+    "w": " her",
+    "s": 2.9,
+    "e": 3.0
+   },
+   {
+    "w": " sleep.",
+    "s": 3.0,
+    "e": 3.34
+   }
+  ],
+  "heard": "So Todd tried something insane. He let her sleep.",
+  "score": 0.8888888888888888,
+  "attempt": 0,
+  "tts": "So Tod tried something insane. He let her sleep.",
+  "voice": "mira_narrator"
+ },
+ "9": {
+  "wav": "vo/wav/666117eba26b_v2.wav",
+  "dur": 3.347104,
+  "words": [
+   {
+    "w": " Back",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " to",
+    "s": 0.26,
+    "e": 0.5
+   },
+   {
+    "w": " one",
+    "s": 0.5,
+    "e": 0.76
+   },
+   {
+    "w": " golden",
+    "s": 0.76,
+    "e": 1.14
+   },
+   {
+    "w": " egg",
+    "s": 1.14,
+    "e": 1.42
+   },
+   {
+    "w": " a",
+    "s": 1.42,
+    "e": 1.5
+   },
+   {
+    "w": " day,",
+    "s": 1.5,
+    "e": 1.8
+   },
+   {
+    "w": " for",
+    "s": 2.34,
+    "e": 2.6
+   },
+   {
+    "w": " years.",
+    "s": 2.6,
+    "e": 2.92
+   }
+  ],
+  "heard": "Back to one golden egg a day, for years.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[warm] Back to one golden egg a day. For years.",
+  "voice": "mira_narrator"
+ },
+ "10": {
+  "wav": "vo/wav/a35558d6178c_v2.wav",
+  "dur": 3.520042,
+  "words": [
+   {
+    "w": " Burnout",
+    "s": 0.0,
+    "e": 0.44
+   },
+   {
+    "w": " doesn't",
+    "s": 0.44,
+    "e": 0.92
+   },
+   {
+    "w": " make",
+    "s": 0.92,
+    "e": 1.12
+   },
+   {
+    "w": " more",
+    "s": 1.12,
+    "e": 1.4
+   },
+   {
+    "w": " eggs.",
+    "s": 1.4,
+    "e": 1.82
+   },
+   {
+    "w": " Rest",
+    "s": 2.3,
+    "e": 2.8
+   },
+   {
+    "w": " does.",
+    "s": 2.8,
+    "e": 3.2
+   }
+  ],
+  "heard": "Burnout doesn't make more eggs. Rest does.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Burnout doesn't make more eggs. Rest does.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/1af919f88834_v2.wav",
+  "dur": 3.407063,
+  "words": [
+   {
+    "w": " Goldie,",
+    "s": 0.0,
+    "e": 0.62
+   },
+   {
+    "w": " what",
+    "s": 1.26,
+    "e": 1.46
+   },
+   {
+    "w": " if",
+    "s": 1.46,
+    "e": 1.64
+   },
+   {
+    "w": " we",
+    "s": 1.64,
+    "e": 1.8
+   },
+   {
+    "w": " started",
+    "s": 1.8,
+    "e": 2.16
+   },
+   {
+    "w": " a",
+    "s": 2.16,
+    "e": 2.38
+   },
+   {
+    "w": " podcast?",
+    "s": 2.38,
+    "e": 2.82
+   }
+  ],
+  "heard": "Goldie, what if we started a podcast?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[whispering, excited] Goldie... what if we started a podcast?",
+  "voice": "w_tod"
+ },
+ "12": {
+  "wav": "vo/wav/751f988d2908_v2.wav",
+  "dur": 1.962938,
+  "words": [
+   {
+    "w": " I",
+    "s": 0.0,
+    "e": 0.36
+   },
+   {
+    "w": " will",
+    "s": 0.36,
+    "e": 0.86
+   },
+   {
+    "w": " bite",
+    "s": 0.86,
+    "e": 1.4
+   },
+   {
+    "w": " you.",
+    "s": 1.4,
+    "e": 1.76
+   }
+  ],
+  "heard": "I will bite you.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[flat, deadpan] I will bite you.",
+  "voice": "w_goldie"
+ },
+ "13": {
+  "wav": "vo/wav/51f88c1b676f_v2.wav",
+  "dur": 2.444938,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " rest",
+    "s": 0.3,
+    "e": 0.68
+   },
+   {
+    "w": " for",
+    "s": 0.68,
+    "e": 0.92
+   },
+   {
+    "w": " the",
+    "s": 0.92,
+    "e": 1.04
+   },
+   {
+    "w": " free",
+    "s": 1.04,
+    "e": 1.32
+   },
+   {
+    "w": " weekly",
+    "s": 1.32,
+    "e": 1.64
+   },
+   {
+    "w": " rest",
+    "s": 1.64,
+    "e": 1.94
+   },
+   {
+    "w": " planner.",
+    "s": 1.94,
+    "e": 2.22
+   }
+  ],
+  "heard": "Comment rest for the free weekly rest planner.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "Comment REST for the free weekly rest planner.",
+  "voice": "mira_narrator"
+ }
+}

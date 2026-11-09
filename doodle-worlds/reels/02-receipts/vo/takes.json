@@ -1,0 +1,716 @@
+{
+ "0": {
+  "wav": "vo/wav/10059a56c1fa_v2.wav",
+  "dur": 5.244833,
+  "words": [
+   {
+    "w": " Humans",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " didn't",
+    "s": 0.3,
+    "e": 0.7
+   },
+   {
+    "w": " invent",
+    "s": 0.7,
+    "e": 0.92
+   },
+   {
+    "w": " writing",
+    "s": 0.92,
+    "e": 1.22
+   },
+   {
+    "w": " for",
+    "s": 1.22,
+    "e": 1.42
+   },
+   {
+    "w": " poems.",
+    "s": 1.42,
+    "e": 1.82
+   },
+   {
+    "w": " They",
+    "s": 2.36,
+    "e": 2.58
+   },
+   {
+    "w": " invented",
+    "s": 2.58,
+    "e": 3.0
+   },
+   {
+    "w": " it",
+    "s": 3.0,
+    "e": 3.16
+   },
+   {
+    "w": " for",
+    "s": 3.16,
+    "e": 3.56
+   },
+   {
+    "w": " receipts.",
+    "s": 3.56,
+    "e": 4.86
+   }
+  ],
+  "heard": "Humans didn't invent writing for poems. They invented it for receipts.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[intrigued] Humans didn't invent writing for poems. They invented it for... receipts.",
+  "voice": "mira_narrator"
+ },
+ "1": {
+  "wav": "vo/wav/64f4e46c222c_v2.wav",
+  "dur": 3.913646,
+  "words": [
+   {
+    "w": " 5",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": ",000",
+    "s": 0.26,
+    "e": 0.58
+   },
+   {
+    "w": " years",
+    "s": 0.58,
+    "e": 0.86
+   },
+   {
+    "w": " ago,",
+    "s": 0.86,
+    "e": 1.18
+   },
+   {
+    "w": " in",
+    "s": 1.4,
+    "e": 1.56
+   },
+   {
+    "w": " Sumer,",
+    "s": 1.56,
+    "e": 2.08
+   },
+   {
+    "w": " Nisa",
+    "s": 2.4,
+    "e": 2.76
+   },
+   {
+    "w": " kept",
+    "s": 2.76,
+    "e": 3.02
+   },
+   {
+    "w": " the",
+    "s": 3.02,
+    "e": 3.18
+   },
+   {
+    "w": " city's",
+    "s": 3.18,
+    "e": 3.5
+   },
+   {
+    "w": " grain.",
+    "s": 3.5,
+    "e": 3.72
+   }
+  ],
+  "heard": "5,000 years ago, in Sumer, Nisa kept the city's grain.",
+  "score": 0.8181818181818182,
+  "attempt": 2,
+  "tts": "Five thousand years ago, in Sumer, Nisa kept the city's grain.",
+  "voice": "mira_narrator"
+ },
+ "2": {
+  "wav": "vo/wav/2e17344b661c_v2.wav",
+  "dur": 3.313625,
+  "words": [
+   {
+    "w": " lend",
+    "s": 0.0,
+    "e": 0.22
+   },
+   {
+    "w": " me",
+    "s": 0.22,
+    "e": 0.38
+   },
+   {
+    "w": " 10",
+    "s": 0.38,
+    "e": 0.6
+   },
+   {
+    "w": " sacks,",
+    "s": 0.6,
+    "e": 1.0
+   },
+   {
+    "w": " I",
+    "s": 1.16,
+    "e": 1.26
+   },
+   {
+    "w": " pay",
+    "s": 1.26,
+    "e": 1.42
+   },
+   {
+    "w": " you",
+    "s": 1.42,
+    "e": 1.56
+   },
+   {
+    "w": " back",
+    "s": 1.56,
+    "e": 1.74
+   },
+   {
+    "w": " after",
+    "s": 1.74,
+    "e": 2.08
+   },
+   {
+    "w": " harvest.",
+    "s": 2.08,
+    "e": 2.38
+   }
+  ],
+  "heard": "lend me 10 sacks, I pay you back after harvest.",
+  "score": 0.9,
+  "attempt": 1,
+  "tts": "[cheerful, cheeky] Lend me ten sacks! I pay you back after harvest!",
+  "voice": "w_duru"
+ },
+ "3": {
+  "wav": "vo/wav/e2adabae8557_v2.wav",
+  "dur": 0.825375,
+  "words": [
+   {
+    "w": " Harvest",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " came!",
+    "s": 0.4,
+    "e": 0.62
+   }
+  ],
+  "heard": "Harvest came!",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[dry] Harvest came.",
+  "voice": "mira_narrator"
+ },
+ "4": {
+  "wav": "vo/wav/a3756daaaff3_v2.wav",
+  "dur": 1.776292,
+  "words": [
+   {
+    "w": " Ten?",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " I",
+    "s": 0.76,
+    "e": 0.94
+   },
+   {
+    "w": " borrowed",
+    "s": 0.94,
+    "e": 1.16
+   },
+   {
+    "w": " three.",
+    "s": 1.16,
+    "e": 1.5
+   }
+  ],
+  "heard": "Ten? I borrowed three.",
+  "score": 1.0,
+  "attempt": 2,
+  "tts": "[innocent] Ten? I borrowed three.",
+  "voice": "w_duru"
+ },
+ "5": {
+  "wav": "vo/wav/001be7e5b047_v2.wav",
+  "dur": 4.183438,
+  "words": [
+   {
+    "w": " Nisa",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " had",
+    "s": 0.28,
+    "e": 0.46
+   },
+   {
+    "w": " no",
+    "s": 0.46,
+    "e": 0.68
+   },
+   {
+    "w": " proof,",
+    "s": 0.68,
+    "e": 1.12
+   },
+   {
+    "w": " just",
+    "s": 1.72,
+    "e": 1.96
+   },
+   {
+    "w": " her",
+    "s": 1.96,
+    "e": 2.16
+   },
+   {
+    "w": " memory",
+    "s": 2.16,
+    "e": 2.6
+   },
+   {
+    "w": " against",
+    "s": 2.6,
+    "e": 3.4
+   },
+   {
+    "w": " his.",
+    "s": 3.4,
+    "e": 3.82
+   }
+  ],
+  "heard": "Nisa had no proof, just her memory against his.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Nisa had no proof. Just her memory... against his.",
+  "voice": "mira_narrator"
+ },
+ "6": {
+  "wav": "vo/wav/81d495670042_v2.wav",
+  "dur": 5.786333,
+  "words": [
+   {
+    "w": " So",
+    "s": 0.0,
+    "e": 0.18
+   },
+   {
+    "w": " next",
+    "s": 0.18,
+    "e": 0.42
+   },
+   {
+    "w": " time,",
+    "s": 0.42,
+    "e": 0.78
+   },
+   {
+    "w": " she",
+    "s": 1.02,
+    "e": 1.2
+   },
+   {
+    "w": " pressed",
+    "s": 1.2,
+    "e": 1.44
+   },
+   {
+    "w": " 10",
+    "s": 1.44,
+    "e": 1.88
+   },
+   {
+    "w": " marks",
+    "s": 1.88,
+    "e": 2.28
+   },
+   {
+    "w": " into",
+    "s": 2.28,
+    "e": 2.52
+   },
+   {
+    "w": " wet",
+    "s": 2.52,
+    "e": 2.8
+   },
+   {
+    "w": " clay",
+    "s": 2.8,
+    "e": 3.08
+   },
+   {
+    "w": " and",
+    "s": 3.08,
+    "e": 3.74
+   },
+   {
+    "w": " made",
+    "s": 3.74,
+    "e": 4.06
+   },
+   {
+    "w": " him",
+    "s": 4.06,
+    "e": 4.24
+   },
+   {
+    "w": " press",
+    "s": 4.24,
+    "e": 4.52
+   },
+   {
+    "w": " his",
+    "s": 4.52,
+    "e": 4.7
+   },
+   {
+    "w": " seal",
+    "s": 4.7,
+    "e": 5.06
+   },
+   {
+    "w": " beside",
+    "s": 5.06,
+    "e": 5.4
+   },
+   {
+    "w": " them.",
+    "s": 5.4,
+    "e": 5.76
+   }
+  ],
+  "heard": "So next time, she pressed 10 marks into wet clay and made him press his seal beside them.",
+  "score": 0.9444444444444444,
+  "attempt": 0,
+  "tts": "[building] So next time, she pressed ten marks into wet clay... and made him press his seal beside them.",
+  "voice": "mira_narrator"
+ },
+ "7": {
+  "wav": "vo/wav/09b6b2dbd333_v2.wav",
+  "dur": 1.542521,
+  "words": [
+   {
+    "w": " Next",
+    "s": 0.0,
+    "e": 0.4
+   },
+   {
+    "w": " Harvest.",
+    "s": 0.4,
+    "e": 0.94
+   }
+  ],
+  "heard": "Next Harvest.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[teasing] Next harvest.",
+  "voice": "mira_narrator"
+ },
+ "8": {
+  "wav": "vo/wav/68d07a6a80d2_v2.wav",
+  "dur": 1.119875,
+  "words": [
+   {
+    "w": " I",
+    "s": 0.0,
+    "e": 0.3
+   },
+   {
+    "w": " borrowed",
+    "s": 0.3,
+    "e": 0.66
+   },
+   {
+    "w": " three",
+    "s": 0.66,
+    "e": 1.08
+   }
+  ],
+  "heard": "I borrowed three",
+  "score": 0.6666666666666666,
+  "attempt": 2,
+  "tts": "[confident] I borrowed thr-",
+  "voice": "w_duru"
+ },
+ "9": {
+  "wav": "vo/wav/11352bc34c88_v2.wav",
+  "dur": 1.827521,
+  "words": [
+   {
+    "w": " The",
+    "s": 0.0,
+    "e": 0.16
+   },
+   {
+    "w": " Clay",
+    "s": 0.16,
+    "e": 0.46
+   },
+   {
+    "w": " says",
+    "s": 0.46,
+    "e": 0.82
+   },
+   {
+    "w": " 10.",
+    "s": 0.82,
+    "e": 1.44
+   }
+  ],
+  "heard": "The Clay says 10.",
+  "score": 0.75,
+  "attempt": 2,
+  "tts": "[smug, calm] The clay says ten.",
+  "voice": "w_nisa"
+ },
+ "10": {
+  "wav": "vo/wav/e03af8a579ac_v2.wav",
+  "dur": 5.331083,
+  "words": [
+   {
+    "w": " paid",
+    "s": 0.0,
+    "e": 0.34
+   },
+   {
+    "w": " in",
+    "s": 0.34,
+    "e": 0.88
+   },
+   {
+    "w": " full.",
+    "s": 0.88,
+    "e": 1.28
+   },
+   {
+    "w": " Soon,",
+    "s": 1.9,
+    "e": 2.3
+   },
+   {
+    "w": " the",
+    "s": 2.7,
+    "e": 2.74
+   },
+   {
+    "w": " whole",
+    "s": 2.74,
+    "e": 3.0
+   },
+   {
+    "w": " city",
+    "s": 3.0,
+    "e": 3.26
+   },
+   {
+    "w": " was",
+    "s": 3.26,
+    "e": 3.48
+   },
+   {
+    "w": " writing",
+    "s": 3.48,
+    "e": 3.78
+   },
+   {
+    "w": " down",
+    "s": 3.78,
+    "e": 4.1
+   },
+   {
+    "w": " who",
+    "s": 4.1,
+    "e": 4.44
+   },
+   {
+    "w": " owes",
+    "s": 4.44,
+    "e": 4.72
+   },
+   {
+    "w": " what.",
+    "s": 4.72,
+    "e": 4.96
+   }
+  ],
+  "heard": "paid in full. Soon, the whole city was writing down who owes what.",
+  "score": 1.0,
+  "attempt": 1,
+  "tts": "[triumphant] Paid in full. Soon the whole city was writing down who owes what.",
+  "voice": "mira_narrator"
+ },
+ "11": {
+  "wav": "vo/wav/336a1b6dd60d_v2.wav",
+  "dur": 7.256479,
+  "words": [
+   {
+    "w": " Writing",
+    "s": 0.0,
+    "e": 0.28
+   },
+   {
+    "w": " didn't",
+    "s": 0.28,
+    "e": 0.66
+   },
+   {
+    "w": " start",
+    "s": 0.66,
+    "e": 0.88
+   },
+   {
+    "w": " with",
+    "s": 0.88,
+    "e": 1.06
+   },
+   {
+    "w": " stories.",
+    "s": 1.06,
+    "e": 1.46
+   },
+   {
+    "w": " It",
+    "s": 2.1,
+    "e": 2.34
+   },
+   {
+    "w": " started",
+    "s": 2.34,
+    "e": 2.74
+   },
+   {
+    "w": " with",
+    "s": 2.74,
+    "e": 3.34
+   },
+   {
+    "w": " trust.",
+    "s": 3.34,
+    "e": 3.72
+   },
+   {
+    "w": " Memory",
+    "s": 4.42,
+    "e": 4.8
+   },
+   {
+    "w": " lies,",
+    "s": 4.8,
+    "e": 5.28
+   },
+   {
+    "w": " clay",
+    "s": 5.78,
+    "e": 6.08
+   },
+   {
+    "w": " doesn't.",
+    "s": 6.08,
+    "e": 7.1
+   }
+  ],
+  "heard": "Writing didn't start with stories. It started with trust. Memory lies, clay doesn't.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "Writing didn't start with stories. It started with trust. Memory lies. Clay doesn't.",
+  "voice": "mira_narrator"
+ },
+ "12": {
+  "wav": "vo/wav/5a60a3e098aa_v2.wav",
+  "dur": 1.602375,
+  "words": [
+   {
+    "w": " Can",
+    "s": 0.0,
+    "e": 0.2
+   },
+   {
+    "w": " I",
+    "s": 0.2,
+    "e": 0.42
+   },
+   {
+    "w": " pay",
+    "s": 0.42,
+    "e": 0.72
+   },
+   {
+    "w": " in",
+    "s": 0.72,
+    "e": 0.94
+   },
+   {
+    "w": " beer?",
+    "s": 0.94,
+    "e": 1.24
+   }
+  ],
+  "heard": "Can I pay in beer?",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[sheepish] ...Can I pay in beer?",
+  "voice": "w_duru"
+ },
+ "13": {
+  "wav": "vo/wav/c8928e473d27_v2.wav",
+  "dur": 2.091417,
+  "words": [
+   {
+    "w": " Comment",
+    "s": 0.0,
+    "e": 0.26
+   },
+   {
+    "w": " record",
+    "s": 0.26,
+    "e": 0.6
+   },
+   {
+    "w": " for",
+    "s": 0.6,
+    "e": 0.92
+   },
+   {
+    "w": " the",
+    "s": 0.92,
+    "e": 1.04
+   },
+   {
+    "w": " free",
+    "s": 1.04,
+    "e": 1.3
+   },
+   {
+    "w": " invoice",
+    "s": 1.3,
+    "e": 1.6
+   },
+   {
+    "w": " template.",
+    "s": 1.6,
+    "e": 1.9
+   }
+  ],
+  "heard": "Comment record for the free invoice template.",
+  "score": 1.0,
+  "attempt": 0,
+  "tts": "[friendly] Comment RECORD for the free invoice template.",
+  "voice": "mira_narrator"
+ }
+}

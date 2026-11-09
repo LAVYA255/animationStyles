@@ -1,0 +1,113 @@
+{
+ "title": "The dinosaurs ignored a tiny competitor",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Dinosaur age",
+ "cta": "SMALL",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[intrigued] The dinosaurs ignored a tiny competitor. Biggest mistake ever.",
+   "text": "The dinosaurs ignored a tiny competitor. Biggest mistake ever.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Rex ran the biggest business in the valley. Big food, for big customers.",
+   "text": "Rex ran the biggest business in the valley. Big food, for big customers.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_rex",
+   "who": "REX",
+   "tts": "[booming, smug] I am too big to fail.",
+   "text": "I am too big to fail.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Then a tiny mammal opened a night stall. Selling bugs.",
+   "text": "Then a tiny mammal opened a night stall. Selling bugs.",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_mo",
+   "who": "MO",
+   "tts": "[cheerful, fast] Night snacks! Crunchy beetles!",
+   "text": "Night snacks! Crunchy beetles!",
+   "gap": 0.25
+  },
+  {
+   "voice": "w_rex",
+   "who": "REX",
+   "tts": "[laughing, booming] Bugs? At night? Tiny market!",
+   "text": "Bugs? At night? Tiny market!",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Too small for a giant to care. So Mo had it all to himself.",
+   "text": "Too small for a giant to care. So Mo had it all to himself.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Every night he learned. Got faster. Got more customers.",
+   "text": "Every night he learned. Got faster. Got more customers.",
+   "gap": 0.5
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[ominous] Then the world changed.",
+   "text": "Then the world changed.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Big food? Gone. Big customers? Starving.",
+   "text": "Big food? Gone. Big customers? Starving.",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] And the only one who knew how to live on tiny... was Mo.",
+   "text": "And the only one who knew how to live on tiny... was Mo.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's disruption. Start where the giants won't look.",
+   "text": "That's disruption. Start where the giants won't look.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_rex",
+   "who": "REX",
+   "tts": "[weak, whispering] Psst... any beetles left?",
+   "text": "Psst... any beetles left?",
+   "gap": 0.3
+  },
+  {
+   "voice": "w_mo",
+   "who": "MO",
+   "tts": "[cheerful] For you? Premium price.",
+   "text": "For you? Premium price.",
+   "gap": 0.7
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Comment SMALL for the free niche finder.",
+   "text": "Comment SMALL for the free niche finder.",
+   "gap": 0.0
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "title": "This ghost was fired from haunting",
+ "format": "DOODLE / Weird Worlds",
+ "world": "Haunted mansion",
+ "cta": "GHOST",
+ "lines": [
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[spooky, playful] This ghost was so bad at haunting... he got fired.",
+   "text": "This ghost was so bad at haunting... he got fired.",
+   "gap": 0.45
+  },
+  {
+   "voice": "w_boris",
+   "who": "BORIS",
+   "tts": "[meek, trying hard] Boo...?",
+   "text": "Boo...?",
+   "gap": 0.4
+  },
+  {
+   "voice": "w_zoe",
+   "who": "ZOE",
+   "tts": "[unimpressed, flat] Is that... a bedsheet?",
+   "text": "Is that... a bedsheet?",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[dry] Nobody moved out. The mansion got five stars... for 'cozy vibes.'",
+   "text": "Nobody moved out. The mansion got five stars... for 'cozy vibes.'",
+   "gap": 0.35
+  },
+  {
+   "voice": "w_raven",
+   "who": "RAVEN",
+   "tts": "[stern, villainous] You're fired.",
+   "text": "You're fired.",
+   "gap": 0.55
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[building] So Boris asked one question: who actually WANTS to be scared?",
+   "text": "So Boris asked one question: who actually WANTS to be scared?",
+   "gap": 0.35
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Teenagers. On a Friday night. Who would pay for it.",
+   "text": "Teenagers. On a Friday night. Who would pay for it.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[triumphant] So he turned the mansion into a haunted escape room.",
+   "text": "So he turned the mansion into a haunted escape room.",
+   "gap": 0.45
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "Same ghost. Same boo. New customer. Sold out every weekend.",
+   "text": "Same ghost. Same boo. New customer. Sold out every weekend.",
+   "gap": 0.4
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "That's repositioning. If it's not selling, maybe you're selling it to the wrong people.",
+   "text": "That's repositioning. If it's not selling, maybe you're selling it to the wrong people.",
+   "gap": 0.5
+  },
+  {
+   "voice": "w_kabir",
+   "who": "KABIR",
+   "tts": "[breathless, terrified then delighted] That was the scariest thing EVER! ...Five stars.",
+   "text": "That was the scariest thing EVER! ...Five stars.",
+   "gap": 0.6
+  },
+  {
+   "voice": "mira_narrator",
+   "who": "N",
+   "tts": "[friendly] Comment GHOST for the free positioning worksheet.",
+   "text": "Comment GHOST for the free positioning worksheet.",
+   "gap": 0.8
+  }
+ ],
+ "tail": 1.6
+}

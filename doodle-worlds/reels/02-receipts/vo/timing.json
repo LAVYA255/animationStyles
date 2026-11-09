@@ -1,0 +1,719 @@
+{
+ "dur": 52.94,
+ "lines": [
+  {
+   "i": 0,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 0.45,
+   "end": 5.695,
+   "text": "Humans didn't invent writing for poems. They invented it for... receipts.",
+   "file": "line_00.wav",
+   "words": [
+    [
+     0.45,
+     0.75,
+     "Humans"
+    ],
+    [
+     0.75,
+     1.15,
+     "didn't"
+    ],
+    [
+     1.15,
+     1.37,
+     "invent"
+    ],
+    [
+     1.37,
+     1.67,
+     "writing"
+    ],
+    [
+     1.67,
+     1.87,
+     "for"
+    ],
+    [
+     1.87,
+     2.27,
+     "poems."
+    ],
+    [
+     2.81,
+     3.03,
+     "They"
+    ],
+    [
+     3.03,
+     3.45,
+     "invented"
+    ],
+    [
+     3.45,
+     3.61,
+     "it"
+    ],
+    [
+     3.61,
+     4.01,
+     "for"
+    ],
+    [
+     4.01,
+     5.31,
+     "receipts."
+    ]
+   ]
+  },
+  {
+   "i": 1,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 6.095,
+   "end": 10.008,
+   "text": "Five thousand years ago, in Sumer, Nisa kept the city's grain.",
+   "file": "line_01.wav",
+   "words": [
+    [
+     6.095,
+     6.355,
+     "5"
+    ],
+    [
+     6.355,
+     6.675,
+     ",000"
+    ],
+    [
+     6.675,
+     6.955,
+     "years"
+    ],
+    [
+     6.955,
+     7.275,
+     "ago,"
+    ],
+    [
+     7.495,
+     7.655,
+     "in"
+    ],
+    [
+     7.655,
+     8.175,
+     "Sumer,"
+    ],
+    [
+     8.495,
+     8.855,
+     "Nisa"
+    ],
+    [
+     8.855,
+     9.115,
+     "kept"
+    ],
+    [
+     9.115,
+     9.275,
+     "the"
+    ],
+    [
+     9.275,
+     9.595,
+     "city's"
+    ],
+    [
+     9.595,
+     9.815,
+     "grain."
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "who": "DURU",
+   "voice": "w_duru",
+   "start": 10.308,
+   "end": 13.576,
+   "text": "Lend me ten sacks! I pay you back after harvest!",
+   "file": "line_02.wav",
+   "words": [
+    [
+     10.308,
+     10.528,
+     "lend"
+    ],
+    [
+     10.528,
+     10.688,
+     "me"
+    ],
+    [
+     10.688,
+     10.908,
+     "10"
+    ],
+    [
+     10.908,
+     11.308,
+     "sacks,"
+    ],
+    [
+     11.468,
+     11.568,
+     "I"
+    ],
+    [
+     11.568,
+     11.728,
+     "pay"
+    ],
+    [
+     11.728,
+     11.868,
+     "you"
+    ],
+    [
+     11.868,
+     12.048,
+     "back"
+    ],
+    [
+     12.048,
+     12.388,
+     "after"
+    ],
+    [
+     12.388,
+     12.688,
+     "harvest."
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 14.026,
+   "end": 14.852,
+   "text": "Harvest came.",
+   "file": "line_03.wav",
+   "words": [
+    [
+     14.026,
+     14.426,
+     "Harvest"
+    ],
+    [
+     14.426,
+     14.646,
+     "came!"
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "who": "DURU",
+   "voice": "w_duru",
+   "start": 15.202,
+   "end": 16.978,
+   "text": "Ten? I borrowed three.",
+   "file": "line_04.wav",
+   "words": [
+    [
+     15.202,
+     15.462,
+     "Ten?"
+    ],
+    [
+     15.962,
+     16.142,
+     "I"
+    ],
+    [
+     16.142,
+     16.362,
+     "borrowed"
+    ],
+    [
+     16.362,
+     16.702,
+     "three."
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 17.328,
+   "end": 21.433,
+   "text": "Nisa had no proof. Just her memory... against his.",
+   "file": "line_05.wav",
+   "words": [
+    [
+     17.328,
+     17.608,
+     "Nisa"
+    ],
+    [
+     17.608,
+     17.788,
+     "had"
+    ],
+    [
+     17.788,
+     18.008,
+     "no"
+    ],
+    [
+     18.008,
+     18.428,
+     "proof,"
+    ],
+    [
+     18.988,
+     19.248,
+     "just"
+    ],
+    [
+     19.248,
+     19.448,
+     "her"
+    ],
+    [
+     19.448,
+     19.868,
+     "memory"
+    ],
+    [
+     19.868,
+     20.648,
+     "against"
+    ],
+    [
+     20.648,
+     21.068,
+     "his."
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 21.933,
+   "end": 27.72,
+   "text": "So next time, she pressed ten marks into wet clay... and made him press his seal beside them.",
+   "file": "line_06.wav",
+   "words": [
+    [
+     21.933,
+     22.113,
+     "So"
+    ],
+    [
+     22.113,
+     22.353,
+     "next"
+    ],
+    [
+     22.353,
+     22.713,
+     "time,"
+    ],
+    [
+     22.953,
+     23.133,
+     "she"
+    ],
+    [
+     23.133,
+     23.373,
+     "pressed"
+    ],
+    [
+     23.373,
+     23.813,
+     "10"
+    ],
+    [
+     23.813,
+     24.213,
+     "marks"
+    ],
+    [
+     24.213,
+     24.453,
+     "into"
+    ],
+    [
+     24.453,
+     24.733,
+     "wet"
+    ],
+    [
+     24.733,
+     25.013,
+     "clay"
+    ],
+    [
+     25.013,
+     25.673,
+     "and"
+    ],
+    [
+     25.673,
+     25.993,
+     "made"
+    ],
+    [
+     25.993,
+     26.173,
+     "him"
+    ],
+    [
+     26.173,
+     26.453,
+     "press"
+    ],
+    [
+     26.453,
+     26.633,
+     "his"
+    ],
+    [
+     26.633,
+     26.993,
+     "seal"
+    ],
+    [
+     26.993,
+     27.333,
+     "beside"
+    ],
+    [
+     27.333,
+     27.693,
+     "them."
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 28.17,
+   "end": 29.683,
+   "text": "Next harvest.",
+   "file": "line_07.wav",
+   "words": [
+    [
+     28.17,
+     28.57,
+     "Next"
+    ],
+    [
+     28.57,
+     29.11,
+     "Harvest."
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "who": "DURU",
+   "voice": "w_duru",
+   "start": 29.933,
+   "end": 31.053,
+   "text": "I borrowed thr-",
+   "file": "line_08.wav",
+   "words": [
+    [
+     29.933,
+     30.233,
+     "I"
+    ],
+    [
+     30.233,
+     30.593,
+     "borrowed"
+    ],
+    [
+     30.593,
+     31.013,
+     "three"
+    ]
+   ]
+  },
+  {
+   "i": 9,
+   "who": "NISA",
+   "voice": "w_nisa",
+   "start": 31.003,
+   "end": 32.83,
+   "text": "The clay says ten.",
+   "file": "line_09.wav",
+   "words": [
+    [
+     31.003,
+     31.163,
+     "The"
+    ],
+    [
+     31.163,
+     31.463,
+     "Clay"
+    ],
+    [
+     31.463,
+     31.823,
+     "says"
+    ],
+    [
+     31.823,
+     32.443,
+     "10."
+    ]
+   ]
+  },
+  {
+   "i": 10,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 33.38,
+   "end": 38.671,
+   "text": "Paid in full. Soon the whole city was writing down who owes what.",
+   "file": "line_10.wav",
+   "words": [
+    [
+     33.38,
+     33.72,
+     "paid"
+    ],
+    [
+     33.72,
+     34.26,
+     "in"
+    ],
+    [
+     34.26,
+     34.66,
+     "full."
+    ],
+    [
+     35.18,
+     35.64,
+     "Soon,"
+    ],
+    [
+     36.04,
+     36.08,
+     "the"
+    ],
+    [
+     36.08,
+     36.34,
+     "whole"
+    ],
+    [
+     36.34,
+     36.6,
+     "city"
+    ],
+    [
+     36.6,
+     36.82,
+     "was"
+    ],
+    [
+     36.82,
+     37.12,
+     "writing"
+    ],
+    [
+     37.12,
+     37.44,
+     "down"
+    ],
+    [
+     37.44,
+     37.78,
+     "who"
+    ],
+    [
+     37.78,
+     38.06,
+     "owes"
+    ],
+    [
+     38.06,
+     38.3,
+     "what."
+    ]
+   ]
+  },
+  {
+   "i": 11,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 39.071,
+   "end": 46.296,
+   "text": "Writing didn't start with stories. It started with trust. Memory lies. Clay doesn't.",
+   "file": "line_11.wav",
+   "words": [
+    [
+     39.071,
+     39.351,
+     "Writing"
+    ],
+    [
+     39.351,
+     39.731,
+     "didn't"
+    ],
+    [
+     39.731,
+     39.951,
+     "start"
+    ],
+    [
+     39.951,
+     40.131,
+     "with"
+    ],
+    [
+     40.131,
+     40.531,
+     "stories."
+    ],
+    [
+     41.171,
+     41.391,
+     "It"
+    ],
+    [
+     41.391,
+     41.811,
+     "started"
+    ],
+    [
+     41.811,
+     42.411,
+     "with"
+    ],
+    [
+     42.411,
+     42.791,
+     "trust."
+    ],
+    [
+     43.471,
+     43.851,
+     "Memory"
+    ],
+    [
+     43.851,
+     44.291,
+     "lies,"
+    ],
+    [
+     44.771,
+     45.111,
+     "clay"
+    ],
+    [
+     45.111,
+     46.151,
+     "doesn't."
+    ]
+   ]
+  },
+  {
+   "i": 12,
+   "who": "DURU",
+   "voice": "w_duru",
+   "start": 46.846,
+   "end": 48.448,
+   "text": "...Can I pay in beer?",
+   "file": "line_12.wav",
+   "words": [
+    [
+     46.846,
+     47.046,
+     "Can"
+    ],
+    [
+     47.046,
+     47.266,
+     "I"
+    ],
+    [
+     47.266,
+     47.566,
+     "pay"
+    ],
+    [
+     47.566,
+     47.786,
+     "in"
+    ],
+    [
+     47.786,
+     48.086,
+     "beer?"
+    ]
+   ]
+  },
+  {
+   "i": 13,
+   "who": "N",
+   "voice": "mira_narrator",
+   "start": 49.248,
+   "end": 51.34,
+   "text": "Comment RECORD for the free invoice template.",
+   "file": "line_13.wav",
+   "words": [
+    [
+     49.248,
+     49.508,
+     "Comment"
+    ],
+    [
+     49.508,
+     49.848,
+     "record"
+    ],
+    [
+     49.848,
+     50.168,
+     "for"
+    ],
+    [
+     50.168,
+     50.288,
+     "the"
+    ],
+    [
+     50.288,
+     50.548,
+     "free"
+    ],
+    [
+     50.548,
+     50.848,
+     "invoice"
+    ],
+    [
+     50.848,
+     51.148,
+     "template."
+    ]
+   ]
+  }
+ ]
+}
